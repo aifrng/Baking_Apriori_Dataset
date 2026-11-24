@@ -1,0 +1,1201 @@
+order_id,product_name,category,quantity,unit_price,total_price,order_date,customer_id,payment_method,delivery_method,platform,product_rating,discount,shipping_fee,order_status
+BAK-00001,Vanilla Extract 60ml,Baking Ingredients,1,86.85,86.85,2026-02-14,CUST-0217,GCash,Standard Delivery,Shopee,4.5,20,55,Delivered
+BAK-00001,White Sugar 1kg,Baking Ingredients,1,86.12,86.12,2026-02-14,CUST-0217,GCash,Standard Delivery,Shopee,4.4,20,55,Delivered
+BAK-00001,Parchment Baking Paper Roll,Bakeware,1,94.13,94.13,2026-02-14,CUST-0217,GCash,Standard Delivery,Shopee,4.7,20,55,Delivered
+BAK-00002,Silicone Spatula Set 3pcs,Baking Tools,1,136.46,136.46,2026-06-26,CUST-0136,GCash,Same-Day Delivery,Lazada,4.4,10,0,Delivered
+BAK-00002,Cream Cheese 225g,Baking Ingredients,2,158.88,317.76,2026-06-26,CUST-0136,GCash,Same-Day Delivery,Lazada,4.6,10,0,Delivered
+BAK-00002,White Sugar 1kg,Baking Ingredients,1,86.21,86.21,2026-06-26,CUST-0136,GCash,Same-Day Delivery,Lazada,3.9,10,0,Delivered
+BAK-00002,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,244.09,244.09,2026-06-26,CUST-0136,GCash,Same-Day Delivery,Lazada,3.7,10,0,Delivered
+BAK-00003,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,258.71,258.71,2026-02-06,CUST-0088,Maya,Standard Delivery,Lazada,4.8,30,65,Delivered
+BAK-00003,Measuring Cups and Spoons Set,Baking Tools,1,142.07,142.07,2026-02-06,CUST-0088,Maya,Standard Delivery,Lazada,3.5,30,65,Delivered
+BAK-00004,Cake Box 8x8-inch 10pcs,Packaging,1,122.41,122.41,2026-06-11,CUST-0109,Debit/Credit Card,Express Delivery,Lazada,4.6,0,0,Delivered
+BAK-00004,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,87.2,87.2,2026-06-11,CUST-0109,Debit/Credit Card,Express Delivery,Lazada,4.0,0,0,Delivered
+BAK-00005,White Sugar 1kg,Baking Ingredients,1,84.91,84.91,2026-07-17,CUST-0196,Debit/Credit Card,Same-Day Delivery,Lazada,4.8,50,0,Cancelled
+BAK-00005,Vanilla Extract 60ml,Baking Ingredients,1,93.44,93.44,2026-07-17,CUST-0196,Debit/Credit Card,Same-Day Delivery,Lazada,4.0,50,0,Cancelled
+BAK-00005,Parchment Baking Paper Roll,Bakeware,1,96.09,96.09,2026-07-17,CUST-0196,Debit/Credit Card,Same-Day Delivery,Lazada,3.5,50,0,Cancelled
+BAK-00005,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,259.85,259.85,2026-07-17,CUST-0196,Debit/Credit Card,Same-Day Delivery,Lazada,5.0,50,0,Cancelled
+BAK-00005,Chocolate Chips 200g,Baking Ingredients,1,137.16,137.16,2026-07-17,CUST-0196,Debit/Credit Card,Same-Day Delivery,Lazada,3.7,50,0,Cancelled
+BAK-00006,Brown Sugar 1kg,Baking Ingredients,1,93.22,93.22,2026-06-15,CUST-0251,GCash,Standard Delivery,Lazada,4.4,50,35,Shipped
+BAK-00006,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,124.37,124.37,2026-06-15,CUST-0251,GCash,Standard Delivery,Lazada,4.7,50,35,Shipped
+BAK-00006,Chocolate Chips 200g,Baking Ingredients,3,137.6,412.8,2026-06-15,CUST-0251,GCash,Standard Delivery,Lazada,3.7,50,35,Shipped
+BAK-00007,Cake Turntable Rotating Stand,Decorating Supplies,1,292.78,292.78,2026-04-13,CUST-0160,Debit/Credit Card,Same-Day Delivery,Lazada,4.0,20,45,Delivered
+BAK-00007,Baking Powder 100g,Baking Ingredients,1,41.16,41.16,2026-04-13,CUST-0160,Debit/Credit Card,Same-Day Delivery,Lazada,3.8,20,45,Delivered
+BAK-00007,Maya Cake Flour 1kg,Baking Ingredients,1,74.31,74.31,2026-04-13,CUST-0160,Debit/Credit Card,Same-Day Delivery,Lazada,3.8,20,45,Delivered
+BAK-00008,Silicone Spatula Set 3pcs,Baking Tools,1,137.04,137.04,2026-08-31,CUST-0209,Maya,Standard Delivery,Shopee,3.6,0,45,Delivered
+BAK-00008,Round Cake Pan 8-inch,Bakeware,1,139.59,139.59,2026-08-31,CUST-0209,Maya,Standard Delivery,Shopee,3.6,0,45,Delivered
+BAK-00008,Vanilla Extract 60ml,Baking Ingredients,1,93.81,93.81,2026-08-31,CUST-0209,Maya,Standard Delivery,Shopee,3.7,0,45,Delivered
+BAK-00008,Cooling Rack 2-Tier,Bakeware,1,192.73,192.73,2026-08-31,CUST-0209,Maya,Standard Delivery,Shopee,3.7,0,45,Delivered
+BAK-00008,Digital Food Thermometer,Baking Equipment,1,201.02,201.02,2026-08-31,CUST-0209,Maya,Standard Delivery,Shopee,4.8,0,45,Delivered
+BAK-00009,Electric Hand Mixer 5-Speed,Baking Equipment,2,630.44,1260.88,2026-01-08,CUST-0048,Maya,Standard Delivery,Lazada,3.5,0,45,Delivered
+BAK-00010,Cake Turntable Rotating Stand,Decorating Supplies,1,317.2,317.2,2026-04-22,CUST-0030,GCash,Same-Day Delivery,Lazada,3.7,20,45,Delivered
+BAK-00010,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,2,168.07,336.14,2026-04-22,CUST-0030,GCash,Same-Day Delivery,Lazada,3.8,20,45,Delivered
+BAK-00010,Unsalted Butter 225g,Baking Ingredients,1,171.23,171.23,2026-04-22,CUST-0030,GCash,Same-Day Delivery,Lazada,3.9,20,45,Delivered
+BAK-00011,Maya All-Purpose Flour 1kg,Baking Ingredients,1,56.09,56.09,2026-02-11,CUST-0215,Cash on Delivery,Express Delivery,Shopee,4.5,0,0,Delivered
+BAK-00012,Cocoa Powder 250g,Baking Ingredients,1,149.28,149.28,2026-06-28,CUST-0036,Maya,Express Delivery,Lazada,5.0,50,55,Delivered
+BAK-00012,Unsalted Butter 225g,Baking Ingredients,1,156.92,156.92,2026-06-28,CUST-0036,Maya,Express Delivery,Lazada,4.7,50,55,Delivered
+BAK-00012,Chocolate Chips 200g,Baking Ingredients,1,139.89,139.89,2026-06-28,CUST-0036,Maya,Express Delivery,Lazada,4.9,50,55,Delivered
+BAK-00013,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,244.68,244.68,2026-05-20,CUST-0145,Maya,Same-Day Delivery,Lazada,4.9,30,35,Delivered
+BAK-00013,Chocolate Chips 200g,Baking Ingredients,1,139.38,139.38,2026-05-20,CUST-0145,Maya,Same-Day Delivery,Lazada,4.7,30,35,Delivered
+BAK-00014,Measuring Cups and Spoons Set,Baking Tools,1,153.48,153.48,2026-03-24,CUST-0227,Debit/Credit Card,Same-Day Delivery,Shopee,4.4,30,0,Delivered
+BAK-00015,Cream Cheese 225g,Baking Ingredients,2,155.44,310.88,2026-01-21,CUST-0184,Maya,Same-Day Delivery,Shopee,4.4,0,55,Delivered
+BAK-00015,Muffin Cupcake Tray 12-Cavity,Bakeware,1,240.95,240.95,2026-01-21,CUST-0184,Maya,Same-Day Delivery,Shopee,4.8,0,55,Delivered
+BAK-00016,Maya All-Purpose Flour 1kg,Baking Ingredients,1,61.1,61.1,2026-07-15,CUST-0020,Debit/Credit Card,Standard Delivery,Shopee,3.8,10,35,Shipped
+BAK-00016,Cream Cheese 225g,Baking Ingredients,1,151.14,151.14,2026-07-15,CUST-0020,Debit/Credit Card,Standard Delivery,Shopee,4.0,10,35,Shipped
+BAK-00016,Cupcake Boxes 6-Cavity 5pcs,Packaging,2,145.22,290.44,2026-07-15,CUST-0020,Debit/Credit Card,Standard Delivery,Shopee,3.9,10,35,Shipped
+BAK-00016,Baking Powder 100g,Baking Ingredients,1,42.08,42.08,2026-07-15,CUST-0020,Debit/Credit Card,Standard Delivery,Shopee,5.0,10,35,Shipped
+BAK-00016,White Sugar 1kg,Baking Ingredients,1,94.34,94.34,2026-07-15,CUST-0020,Debit/Credit Card,Standard Delivery,Shopee,3.7,10,35,Shipped
+BAK-00017,All-Purpose Cream 250ml,Baking Ingredients,1,77.2,77.2,2026-04-08,CUST-0131,GCash,Same-Day Delivery,Lazada,4.6,50,55,Delivered
+BAK-00017,Cake Turntable Rotating Stand,Decorating Supplies,1,300.81,300.81,2026-04-08,CUST-0131,GCash,Same-Day Delivery,Lazada,4.9,50,55,Delivered
+BAK-00017,Cream Cheese 225g,Baking Ingredients,2,159.81,319.62,2026-04-08,CUST-0131,GCash,Same-Day Delivery,Lazada,4.5,50,55,Delivered
+BAK-00017,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,186.73,186.73,2026-04-08,CUST-0131,GCash,Same-Day Delivery,Lazada,4.3,50,55,Delivered
+BAK-00017,Stand Mixer 5L Stainless Bowl,Baking Equipment,1,3472.42,3472.42,2026-04-08,CUST-0131,GCash,Same-Day Delivery,Lazada,4.5,50,55,Delivered
+BAK-00018,Measuring Cups and Spoons Set,Baking Tools,1,146.52,146.52,2026-07-27,CUST-0001,Cash on Delivery,Express Delivery,Shopee,4.2,20,55,Delivered
+BAK-00018,Brown Sugar 1kg,Baking Ingredients,1,96.09,96.09,2026-07-27,CUST-0001,Cash on Delivery,Express Delivery,Shopee,4.9,20,55,Delivered
+BAK-00018,Instant Dry Yeast 100g,Baking Ingredients,1,75.82,75.82,2026-07-27,CUST-0001,Cash on Delivery,Express Delivery,Shopee,3.6,20,55,Delivered
+BAK-00019,Silicone Spatula Set 3pcs,Baking Tools,1,137.41,137.41,2026-03-17,CUST-0013,GCash,Standard Delivery,Lazada,4.4,50,0,Delivered
+BAK-00019,Vanilla Extract 60ml,Baking Ingredients,1,88.99,88.99,2026-03-17,CUST-0013,GCash,Standard Delivery,Lazada,4.1,50,0,Delivered
+BAK-00019,Unsalted Butter 225g,Baking Ingredients,1,171.5,171.5,2026-03-17,CUST-0013,GCash,Standard Delivery,Lazada,4.8,50,0,Delivered
+BAK-00020,Unsalted Butter 225g,Baking Ingredients,1,175.88,175.88,2026-08-22,CUST-0069,Debit/Credit Card,Same-Day Delivery,Lazada,4.1,10,55,Processing
+BAK-00020,Electric Hand Mixer 5-Speed,Baking Equipment,2,654.17,1308.34,2026-08-22,CUST-0069,Debit/Credit Card,Same-Day Delivery,Lazada,3.7,10,55,Processing
+BAK-00020,Cocoa Powder 250g,Baking Ingredients,2,146.23,292.46,2026-08-22,CUST-0069,Debit/Credit Card,Same-Day Delivery,Lazada,4.6,10,55,Processing
+BAK-00020,All-Purpose Cream 250ml,Baking Ingredients,2,71.0,142.0,2026-08-22,CUST-0069,Debit/Credit Card,Same-Day Delivery,Lazada,4.7,10,55,Processing
+BAK-00021,White Sugar 1kg,Baking Ingredients,1,88.35,88.35,2026-10-04,CUST-0042,Maya,Standard Delivery,Shopee,4.0,0,65,Delivered
+BAK-00021,Baking Powder 100g,Baking Ingredients,1,40.24,40.24,2026-10-04,CUST-0042,Maya,Standard Delivery,Shopee,4.7,0,65,Delivered
+BAK-00021,Stainless Steel Balloon Whisk,Baking Tools,1,82.96,82.96,2026-10-04,CUST-0042,Maya,Standard Delivery,Shopee,4.9,0,65,Delivered
+BAK-00022,Stainless Steel Balloon Whisk,Baking Tools,1,79.04,79.04,2026-06-02,CUST-0200,Debit/Credit Card,Same-Day Delivery,Shopee,4.5,0,45,Delivered
+BAK-00023,Offset Icing Spatula 8-inch,Baking Tools,1,94.93,94.93,2026-10-16,CUST-0014,GCash,Same-Day Delivery,Lazada,3.8,10,0,Delivered
+BAK-00023,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,198.25,198.25,2026-10-16,CUST-0014,GCash,Same-Day Delivery,Lazada,4.1,10,0,Delivered
+BAK-00023,Instant Dry Yeast 100g,Baking Ingredients,1,82.54,82.54,2026-10-16,CUST-0014,GCash,Same-Day Delivery,Lazada,3.9,10,0,Delivered
+BAK-00023,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,237.18,237.18,2026-10-16,CUST-0014,GCash,Same-Day Delivery,Lazada,4.3,10,0,Delivered
+BAK-00024,White Sugar 1kg,Baking Ingredients,1,92.37,92.37,2026-03-20,CUST-0123,Maya,Express Delivery,Shopee,3.8,0,45,Delivered
+BAK-00024,Cocoa Powder 250g,Baking Ingredients,1,151.85,151.85,2026-03-20,CUST-0123,Maya,Express Delivery,Shopee,3.7,0,45,Delivered
+BAK-00024,Maya All-Purpose Flour 1kg,Baking Ingredients,1,62.37,62.37,2026-03-20,CUST-0123,Maya,Express Delivery,Shopee,3.7,0,45,Delivered
+BAK-00024,Instant Dry Yeast 100g,Baking Ingredients,1,77.26,77.26,2026-03-20,CUST-0123,Maya,Express Delivery,Shopee,4.5,0,45,Delivered
+BAK-00024,Cream Cheese 225g,Baking Ingredients,2,155.24,310.48,2026-03-20,CUST-0123,Maya,Express Delivery,Shopee,4.6,0,45,Delivered
+BAK-00025,Instant Dry Yeast 100g,Baking Ingredients,1,74.23,74.23,2026-03-03,CUST-0022,Cash on Delivery,Same-Day Delivery,Lazada,4.1,0,55,Delivered
+BAK-00026,Disposable Piping Bags 100pcs,Decorating Supplies,1,108.01,108.01,2026-04-01,CUST-0139,Debit/Credit Card,Express Delivery,Lazada,4.9,20,35,Shipped
+BAK-00026,Muffin Cupcake Tray 12-Cavity,Bakeware,1,226.94,226.94,2026-04-01,CUST-0139,Debit/Credit Card,Express Delivery,Lazada,4.6,20,35,Shipped
+BAK-00026,Nonstick Loaf Pan 9-inch,Bakeware,1,164.86,164.86,2026-04-01,CUST-0139,Debit/Credit Card,Express Delivery,Lazada,4.0,20,35,Shipped
+BAK-00027,Silicone Spatula Set 3pcs,Baking Tools,1,134.13,134.13,2026-05-22,CUST-0006,Maya,Standard Delivery,Shopee,4.5,10,55,Delivered
+BAK-00027,Measuring Cups and Spoons Set,Baking Tools,1,152.7,152.7,2026-05-22,CUST-0006,Maya,Standard Delivery,Shopee,3.6,10,55,Delivered
+BAK-00027,Cooling Rack 2-Tier,Bakeware,1,196.55,196.55,2026-05-22,CUST-0006,Maya,Standard Delivery,Shopee,4.0,10,55,Delivered
+BAK-00028,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,202.91,202.91,2026-05-19,CUST-0157,Cash on Delivery,Standard Delivery,Shopee,4.5,0,0,Delivered
+BAK-00028,Cake Turntable Rotating Stand,Decorating Supplies,1,312.76,312.76,2026-05-19,CUST-0157,Cash on Delivery,Standard Delivery,Shopee,3.9,0,0,Delivered
+BAK-00028,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,183.54,183.54,2026-05-19,CUST-0157,Cash on Delivery,Standard Delivery,Shopee,4.4,0,0,Delivered
+BAK-00029,Stainless Steel Balloon Whisk,Baking Tools,1,75.58,75.58,2026-09-09,CUST-0053,GCash,Same-Day Delivery,Lazada,4.9,10,35,Delivered
+BAK-00029,Maya All-Purpose Flour 1kg,Baking Ingredients,1,61.3,61.3,2026-09-09,CUST-0053,GCash,Same-Day Delivery,Lazada,4.1,10,35,Delivered
+BAK-00029,Brown Sugar 1kg,Baking Ingredients,1,98.02,98.02,2026-09-09,CUST-0053,GCash,Same-Day Delivery,Lazada,3.6,10,35,Delivered
+BAK-00029,Digital Kitchen Scale 10kg,Baking Equipment,1,305.93,305.93,2026-09-09,CUST-0053,GCash,Same-Day Delivery,Lazada,4.0,10,35,Delivered
+BAK-00029,Unsalted Butter 225g,Baking Ingredients,3,159.29,477.87,2026-09-09,CUST-0053,GCash,Same-Day Delivery,Lazada,4.6,10,35,Delivered
+BAK-00030,Measuring Cups and Spoons Set,Baking Tools,1,148.16,148.16,2026-06-06,CUST-0031,GCash,Standard Delivery,Shopee,3.7,0,0,Delivered
+BAK-00030,Muffin Cupcake Tray 12-Cavity,Bakeware,1,233.91,233.91,2026-06-06,CUST-0031,GCash,Standard Delivery,Shopee,4.2,0,0,Delivered
+BAK-00030,Offset Icing Spatula 8-inch,Baking Tools,1,93.81,93.81,2026-06-06,CUST-0031,GCash,Standard Delivery,Shopee,3.9,0,0,Delivered
+BAK-00031,Vanilla Extract 60ml,Baking Ingredients,1,94.09,94.09,2026-04-26,CUST-0077,Cash on Delivery,Standard Delivery,Shopee,4.9,50,35,Delivered
+BAK-00031,Measuring Cups and Spoons Set,Baking Tools,1,146.58,146.58,2026-04-26,CUST-0077,Cash on Delivery,Standard Delivery,Shopee,4.0,50,35,Delivered
+BAK-00031,Unsalted Butter 225g,Baking Ingredients,1,162.59,162.59,2026-04-26,CUST-0077,Cash on Delivery,Standard Delivery,Shopee,4.3,50,35,Delivered
+BAK-00031,Electric Hand Mixer 5-Speed,Baking Equipment,1,667.01,667.01,2026-04-26,CUST-0077,Cash on Delivery,Standard Delivery,Shopee,4.8,50,35,Delivered
+BAK-00032,Unsalted Butter 225g,Baking Ingredients,1,174.22,174.22,2026-05-18,CUST-0021,Maya,Express Delivery,Lazada,5.0,0,55,Processing
+BAK-00032,Maya Cake Flour 1kg,Baking Ingredients,1,72.22,72.22,2026-05-18,CUST-0021,Maya,Express Delivery,Lazada,4.0,0,55,Processing
+BAK-00032,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,241.76,241.76,2026-05-18,CUST-0021,Maya,Express Delivery,Lazada,4.1,0,55,Processing
+BAK-00032,Maya All-Purpose Flour 1kg,Baking Ingredients,1,60.1,60.1,2026-05-18,CUST-0021,Maya,Express Delivery,Lazada,4.1,0,55,Processing
+BAK-00033,Offset Icing Spatula 8-inch,Baking Tools,1,99.64,99.64,2026-01-01,CUST-0237,Debit/Credit Card,Standard Delivery,Shopee,3.8,20,45,Delivered
+BAK-00033,White Sugar 1kg,Baking Ingredients,1,94.21,94.21,2026-01-01,CUST-0237,Debit/Credit Card,Standard Delivery,Shopee,4.2,20,45,Delivered
+BAK-00033,Chocolate Chips 200g,Baking Ingredients,1,130.38,130.38,2026-01-01,CUST-0237,Debit/Credit Card,Standard Delivery,Shopee,5.0,20,45,Delivered
+BAK-00033,Parchment Baking Paper Roll,Bakeware,1,97.13,97.13,2026-01-01,CUST-0237,Debit/Credit Card,Standard Delivery,Shopee,3.7,20,45,Delivered
+BAK-00034,Brown Sugar 1kg,Baking Ingredients,1,94.99,94.99,2026-09-13,CUST-0150,Cash on Delivery,Express Delivery,Lazada,4.9,0,45,Cancelled
+BAK-00034,Baking Powder 100g,Baking Ingredients,1,44.7,44.7,2026-09-13,CUST-0150,Cash on Delivery,Express Delivery,Lazada,4.8,0,45,Cancelled
+BAK-00034,White Sugar 1kg,Baking Ingredients,1,92.64,92.64,2026-09-13,CUST-0150,Cash on Delivery,Express Delivery,Lazada,4.1,0,45,Cancelled
+BAK-00035,Cookie Bags with Sealing Stickers 50pcs,Packaging,3,83.39,250.17,2026-08-17,CUST-0248,Cash on Delivery,Express Delivery,Lazada,4.1,0,0,Delivered
+BAK-00035,Sprinkles Assorted 100g,Decorating Supplies,2,65.22,130.44,2026-08-17,CUST-0248,Cash on Delivery,Express Delivery,Lazada,4.0,0,0,Delivered
+BAK-00035,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,144.28,144.28,2026-08-17,CUST-0248,Cash on Delivery,Express Delivery,Lazada,4.1,0,0,Delivered
+BAK-00035,Chocolate Chips 200g,Baking Ingredients,3,142.16,426.48,2026-08-17,CUST-0248,Cash on Delivery,Express Delivery,Lazada,4.5,0,0,Delivered
+BAK-00035,Electric Hand Mixer 5-Speed,Baking Equipment,1,697.95,697.95,2026-08-17,CUST-0248,Cash on Delivery,Express Delivery,Lazada,3.7,0,0,Delivered
+BAK-00036,All-Purpose Cream 250ml,Baking Ingredients,1,76.37,76.37,2026-07-29,CUST-0080,GCash,Express Delivery,Lazada,4.8,30,45,Delivered
+BAK-00036,Brown Sugar 1kg,Baking Ingredients,2,94.94,189.88,2026-07-29,CUST-0080,GCash,Express Delivery,Lazada,4.0,30,45,Delivered
+BAK-00036,Digital Kitchen Scale 10kg,Baking Equipment,1,313.57,313.57,2026-07-29,CUST-0080,GCash,Express Delivery,Lazada,4.8,30,45,Delivered
+BAK-00036,Nonstick Loaf Pan 9-inch,Bakeware,1,152.46,152.46,2026-07-29,CUST-0080,GCash,Express Delivery,Lazada,4.4,30,45,Delivered
+BAK-00036,Vanilla Extract 60ml,Baking Ingredients,2,96.09,192.18,2026-07-29,CUST-0080,GCash,Express Delivery,Lazada,4.6,30,45,Delivered
+BAK-00037,Cocoa Powder 250g,Baking Ingredients,1,148.42,148.42,2026-01-24,CUST-0167,GCash,Express Delivery,Lazada,4.7,0,0,Delivered
+BAK-00037,Vanilla Extract 60ml,Baking Ingredients,1,85.46,85.46,2026-01-24,CUST-0167,GCash,Express Delivery,Lazada,4.8,0,0,Delivered
+BAK-00037,Disposable Piping Bags 100pcs,Decorating Supplies,1,107.94,107.94,2026-01-24,CUST-0167,GCash,Express Delivery,Lazada,4.9,0,0,Delivered
+BAK-00038,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,175.9,175.9,2026-08-27,CUST-0148,Maya,Standard Delivery,Lazada,3.9,20,35,Processing
+BAK-00038,Maya All-Purpose Flour 1kg,Baking Ingredients,2,56.6,113.2,2026-08-27,CUST-0148,Maya,Standard Delivery,Lazada,4.1,20,35,Processing
+BAK-00039,Stainless Steel Balloon Whisk,Baking Tools,1,78.67,78.67,2026-05-21,CUST-0005,GCash,Same-Day Delivery,Lazada,4.5,0,0,Shipped
+BAK-00039,Instant Dry Yeast 100g,Baking Ingredients,1,80.97,80.97,2026-05-21,CUST-0005,GCash,Same-Day Delivery,Lazada,4.6,0,0,Shipped
+BAK-00039,Measuring Cups and Spoons Set,Baking Tools,1,153.55,153.55,2026-05-21,CUST-0005,GCash,Same-Day Delivery,Lazada,4.4,0,0,Shipped
+BAK-00040,Round Cake Pan 8-inch,Bakeware,1,142.72,142.72,2026-03-31,CUST-0103,Maya,Same-Day Delivery,Lazada,4.2,0,0,Delivered
+BAK-00040,Offset Icing Spatula 8-inch,Baking Tools,1,99.47,99.47,2026-03-31,CUST-0103,Maya,Same-Day Delivery,Lazada,4.0,0,0,Delivered
+BAK-00040,White Sugar 1kg,Baking Ingredients,1,94.62,94.62,2026-03-31,CUST-0103,Maya,Same-Day Delivery,Lazada,3.7,0,0,Delivered
+BAK-00040,Cocoa Powder 250g,Baking Ingredients,2,153.96,307.92,2026-03-31,CUST-0103,Maya,Same-Day Delivery,Lazada,4.6,0,0,Delivered
+BAK-00040,Measuring Cups and Spoons Set,Baking Tools,3,155.98,467.94,2026-03-31,CUST-0103,Maya,Same-Day Delivery,Lazada,4.7,0,0,Delivered
+BAK-00041,Silicone Baking Mat,Bakeware,1,184.25,184.25,2026-10-27,CUST-0196,Cash on Delivery,Standard Delivery,Shopee,4.5,20,55,Delivered
+BAK-00041,Stainless Steel Balloon Whisk,Baking Tools,1,79.82,79.82,2026-10-27,CUST-0196,Cash on Delivery,Standard Delivery,Shopee,4.6,20,55,Delivered
+BAK-00041,Condensed Milk 390g,Baking Ingredients,1,65.63,65.63,2026-10-27,CUST-0196,Cash on Delivery,Standard Delivery,Shopee,3.6,20,55,Delivered
+BAK-00042,Chocolate Chips 200g,Baking Ingredients,2,135.61,271.22,2026-10-03,CUST-0070,Debit/Credit Card,Express Delivery,Lazada,4.6,30,65,Delivered
+BAK-00043,Muffin Cupcake Tray 12-Cavity,Bakeware,1,233.81,233.81,2026-01-17,CUST-0190,Maya,Express Delivery,Lazada,4.3,50,35,Processing
+BAK-00043,Condensed Milk 390g,Baking Ingredients,3,67.77,203.31,2026-01-17,CUST-0190,Maya,Express Delivery,Lazada,4.1,50,35,Processing
+BAK-00044,Cake Turntable Rotating Stand,Decorating Supplies,1,316.31,316.31,2026-02-16,CUST-0109,GCash,Standard Delivery,Lazada,4.3,0,55,Delivered
+BAK-00044,Maya Cake Flour 1kg,Baking Ingredients,1,76.01,76.01,2026-02-16,CUST-0109,GCash,Standard Delivery,Lazada,3.8,0,55,Delivered
+BAK-00045,Unsalted Butter 225g,Baking Ingredients,1,165.78,165.78,2026-03-09,CUST-0008,Cash on Delivery,Standard Delivery,Lazada,3.7,0,0,Delivered
+BAK-00045,Cooling Rack 2-Tier,Bakeware,1,190.56,190.56,2026-03-09,CUST-0008,Cash on Delivery,Standard Delivery,Lazada,4.0,0,0,Delivered
+BAK-00045,Maya All-Purpose Flour 1kg,Baking Ingredients,1,58.51,58.51,2026-03-09,CUST-0008,Cash on Delivery,Standard Delivery,Lazada,3.8,0,0,Delivered
+BAK-00045,Baking Powder 100g,Baking Ingredients,1,43.87,43.87,2026-03-09,CUST-0008,Cash on Delivery,Standard Delivery,Lazada,4.9,0,0,Delivered
+BAK-00046,Maya All-Purpose Flour 1kg,Baking Ingredients,1,55.6,55.6,2026-08-07,CUST-0056,Debit/Credit Card,Same-Day Delivery,Lazada,3.9,0,35,Delivered
+BAK-00046,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,178.73,178.73,2026-08-07,CUST-0056,Debit/Credit Card,Same-Day Delivery,Lazada,4.0,0,35,Delivered
+BAK-00046,Round Cake Pan 8-inch,Bakeware,3,137.56,412.68,2026-08-07,CUST-0056,Debit/Credit Card,Same-Day Delivery,Lazada,4.2,0,35,Delivered
+BAK-00047,All-Purpose Cream 250ml,Baking Ingredients,1,71.33,71.33,2026-08-09,CUST-0232,Maya,Express Delivery,Lazada,4.0,10,45,Shipped
+BAK-00047,Electric Hand Mixer 5-Speed,Baking Equipment,1,697.0,697.0,2026-08-09,CUST-0232,Maya,Express Delivery,Lazada,4.5,10,45,Shipped
+BAK-00047,Unsalted Butter 225g,Baking Ingredients,1,158.71,158.71,2026-08-09,CUST-0232,Maya,Express Delivery,Lazada,3.6,10,45,Shipped
+BAK-00048,Offset Icing Spatula 8-inch,Baking Tools,2,99.16,198.32,2026-10-15,CUST-0169,GCash,Express Delivery,Lazada,5.0,50,45,Shipped
+BAK-00048,Cooling Rack 2-Tier,Bakeware,1,188.19,188.19,2026-10-15,CUST-0169,GCash,Express Delivery,Lazada,4.4,50,45,Shipped
+BAK-00048,Silicone Spatula Set 3pcs,Baking Tools,1,133.56,133.56,2026-10-15,CUST-0169,GCash,Express Delivery,Lazada,3.8,50,45,Shipped
+BAK-00049,Measuring Cups and Spoons Set,Baking Tools,1,141.15,141.15,2026-10-21,CUST-0116,Debit/Credit Card,Same-Day Delivery,Shopee,4.6,30,65,Delivered
+BAK-00050,Vanilla Extract 60ml,Baking Ingredients,1,89.8,89.8,2026-10-17,CUST-0206,GCash,Standard Delivery,Shopee,3.7,20,0,Delivered
+BAK-00050,Unsalted Butter 225g,Baking Ingredients,1,163.71,163.71,2026-10-17,CUST-0206,GCash,Standard Delivery,Shopee,4.9,20,0,Delivered
+BAK-00051,Maya All-Purpose Flour 1kg,Baking Ingredients,1,57.24,57.24,2026-09-06,CUST-0227,Debit/Credit Card,Express Delivery,Shopee,4.5,0,35,Delivered
+BAK-00051,Baking Powder 100g,Baking Ingredients,1,43.54,43.54,2026-09-06,CUST-0227,Debit/Credit Card,Express Delivery,Shopee,3.6,0,35,Delivered
+BAK-00051,Measuring Cups and Spoons Set,Baking Tools,1,149.05,149.05,2026-09-06,CUST-0227,Debit/Credit Card,Express Delivery,Shopee,3.5,0,35,Delivered
+BAK-00052,Instant Dry Yeast 100g,Baking Ingredients,1,82.55,82.55,2026-01-04,CUST-0255,Debit/Credit Card,Standard Delivery,Shopee,4.7,30,0,Delivered
+BAK-00052,White Sugar 1kg,Baking Ingredients,1,93.46,93.46,2026-01-04,CUST-0255,Debit/Credit Card,Standard Delivery,Shopee,3.6,30,0,Delivered
+BAK-00053,Cupcake Boxes 6-Cavity 5pcs,Packaging,2,131.27,262.54,2026-10-22,CUST-0220,Debit/Credit Card,Same-Day Delivery,Lazada,4.9,10,0,Delivered
+BAK-00054,White Sugar 1kg,Baking Ingredients,1,89.67,89.67,2026-07-22,CUST-0159,Cash on Delivery,Standard Delivery,Lazada,3.8,0,55,Delivered
+BAK-00054,Cooling Rack 2-Tier,Bakeware,1,188.18,188.18,2026-07-22,CUST-0159,Cash on Delivery,Standard Delivery,Lazada,4.9,0,55,Delivered
+BAK-00054,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,115.33,115.33,2026-07-22,CUST-0159,Cash on Delivery,Standard Delivery,Lazada,3.7,0,55,Delivered
+BAK-00055,White Sugar 1kg,Baking Ingredients,1,87.06,87.06,2026-08-26,CUST-0230,Cash on Delivery,Same-Day Delivery,Lazada,3.9,0,45,Delivered
+BAK-00055,Disposable Piping Bags 100pcs,Decorating Supplies,1,111.75,111.75,2026-08-26,CUST-0230,Cash on Delivery,Same-Day Delivery,Lazada,4.0,0,45,Delivered
+BAK-00056,Baking Powder 100g,Baking Ingredients,1,40.24,40.24,2026-07-16,CUST-0237,GCash,Express Delivery,Shopee,3.7,10,55,Delivered
+BAK-00056,White Sugar 1kg,Baking Ingredients,2,87.53,175.06,2026-07-16,CUST-0237,GCash,Express Delivery,Shopee,4.6,10,55,Delivered
+BAK-00056,Parchment Baking Paper Roll,Bakeware,1,96.27,96.27,2026-07-16,CUST-0237,GCash,Express Delivery,Shopee,3.9,10,55,Delivered
+BAK-00057,Cake Box 8x8-inch 10pcs,Packaging,1,115.47,115.47,2026-07-18,CUST-0210,Cash on Delivery,Same-Day Delivery,Shopee,4.5,30,35,Shipped
+BAK-00057,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,197.33,197.33,2026-07-18,CUST-0210,Cash on Delivery,Same-Day Delivery,Shopee,4.5,30,35,Shipped
+BAK-00057,Cookie Bags with Sealing Stickers 50pcs,Packaging,2,90.4,180.8,2026-07-18,CUST-0210,Cash on Delivery,Same-Day Delivery,Shopee,4.0,30,35,Shipped
+BAK-00058,Cooling Rack 2-Tier,Bakeware,1,188.46,188.46,2026-06-08,CUST-0193,Cash on Delivery,Standard Delivery,Shopee,3.8,10,55,Delivered
+BAK-00058,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,202.83,202.83,2026-06-08,CUST-0193,Cash on Delivery,Standard Delivery,Shopee,4.2,10,55,Delivered
+BAK-00058,White Sugar 1kg,Baking Ingredients,1,85.17,85.17,2026-06-08,CUST-0193,Cash on Delivery,Standard Delivery,Shopee,3.6,10,55,Delivered
+BAK-00059,Electric Hand Mixer 5-Speed,Baking Equipment,1,630.52,630.52,2026-03-09,CUST-0193,Maya,Standard Delivery,Shopee,4.2,50,55,Shipped
+BAK-00059,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,258.44,258.44,2026-03-09,CUST-0193,Maya,Standard Delivery,Shopee,3.9,50,55,Shipped
+BAK-00059,Cake Box 8x8-inch 10pcs,Packaging,1,118.44,118.44,2026-03-09,CUST-0193,Maya,Standard Delivery,Shopee,4.6,50,55,Shipped
+BAK-00059,Silicone Spatula Set 3pcs,Baking Tools,1,131.51,131.51,2026-03-09,CUST-0193,Maya,Standard Delivery,Shopee,4.0,50,55,Shipped
+BAK-00060,White Sugar 1kg,Baking Ingredients,1,89.1,89.1,2026-07-15,CUST-0258,Debit/Credit Card,Standard Delivery,Shopee,4.1,0,35,Shipped
+BAK-00060,Cake Box 8x8-inch 10pcs,Packaging,2,125.1,250.2,2026-07-15,CUST-0258,Debit/Credit Card,Standard Delivery,Shopee,4.3,0,35,Shipped
+BAK-00060,Unsalted Butter 225g,Baking Ingredients,1,158.55,158.55,2026-07-15,CUST-0258,Debit/Credit Card,Standard Delivery,Shopee,3.7,0,35,Shipped
+BAK-00060,Maya Cake Flour 1kg,Baking Ingredients,1,73.2,73.2,2026-07-15,CUST-0258,Debit/Credit Card,Standard Delivery,Shopee,4.7,0,35,Shipped
+BAK-00061,All-Purpose Cream 250ml,Baking Ingredients,3,71.91,215.73,2026-06-28,CUST-0014,Debit/Credit Card,Standard Delivery,Lazada,3.5,0,45,Delivered
+BAK-00062,Cream Cheese 225g,Baking Ingredients,2,159.52,319.04,2026-08-18,CUST-0003,GCash,Standard Delivery,Lazada,4.1,0,55,Delivered
+BAK-00062,Measuring Cups and Spoons Set,Baking Tools,1,142.23,142.23,2026-08-18,CUST-0003,GCash,Standard Delivery,Lazada,3.7,0,55,Delivered
+BAK-00062,Baking Powder 100g,Baking Ingredients,1,43.39,43.39,2026-08-18,CUST-0003,GCash,Standard Delivery,Lazada,4.4,0,55,Delivered
+BAK-00062,Vanilla Extract 60ml,Baking Ingredients,1,94.23,94.23,2026-08-18,CUST-0003,GCash,Standard Delivery,Lazada,4.2,0,55,Delivered
+BAK-00062,Round Cake Pan 8-inch,Bakeware,1,139.34,139.34,2026-08-18,CUST-0003,GCash,Standard Delivery,Lazada,4.4,0,55,Delivered
+BAK-00063,Cake Box 8x8-inch 10pcs,Packaging,1,114.25,114.25,2026-07-04,CUST-0035,GCash,Express Delivery,Lazada,4.7,10,35,Delivered
+BAK-00063,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,141.11,141.11,2026-07-04,CUST-0035,GCash,Express Delivery,Lazada,4.4,10,35,Delivered
+BAK-00063,Cake Turntable Rotating Stand,Decorating Supplies,1,312.63,312.63,2026-07-04,CUST-0035,GCash,Express Delivery,Lazada,4.0,10,35,Delivered
+BAK-00063,Stand Mixer 5L Stainless Bowl,Baking Equipment,1,3572.42,3572.42,2026-07-04,CUST-0035,GCash,Express Delivery,Lazada,4.7,10,35,Delivered
+BAK-00064,Condensed Milk 390g,Baking Ingredients,2,67.39,134.78,2026-03-11,CUST-0033,Debit/Credit Card,Standard Delivery,Lazada,4.0,50,0,Delivered
+BAK-00064,Cocoa Powder 250g,Baking Ingredients,1,153.12,153.12,2026-03-11,CUST-0033,Debit/Credit Card,Standard Delivery,Lazada,4.2,50,0,Delivered
+BAK-00065,Maya All-Purpose Flour 1kg,Baking Ingredients,2,58.02,116.04,2026-06-19,CUST-0140,GCash,Express Delivery,Lazada,5.0,30,45,Processing
+BAK-00066,Cake Turntable Rotating Stand,Decorating Supplies,1,307.47,307.47,2026-08-09,CUST-0093,Cash on Delivery,Express Delivery,Shopee,4.1,30,35,Delivered
+BAK-00066,White Sugar 1kg,Baking Ingredients,1,87.62,87.62,2026-08-09,CUST-0093,Cash on Delivery,Express Delivery,Shopee,3.6,30,35,Delivered
+BAK-00066,Instant Dry Yeast 100g,Baking Ingredients,2,77.67,155.34,2026-08-09,CUST-0093,Cash on Delivery,Express Delivery,Shopee,5.0,30,35,Delivered
+BAK-00067,Measuring Cups and Spoons Set,Baking Tools,1,144.97,144.97,2026-01-16,CUST-0074,Debit/Credit Card,Standard Delivery,Shopee,4.4,50,65,Delivered
+BAK-00067,Unsalted Butter 225g,Baking Ingredients,1,171.32,171.32,2026-01-16,CUST-0074,Debit/Credit Card,Standard Delivery,Shopee,4.9,50,65,Delivered
+BAK-00068,Electric Hand Mixer 5-Speed,Baking Equipment,1,675.95,675.95,2026-02-28,CUST-0014,Maya,Express Delivery,Lazada,3.8,0,35,Processing
+BAK-00068,Silicone Spatula Set 3pcs,Baking Tools,1,134.19,134.19,2026-02-28,CUST-0014,Maya,Express Delivery,Lazada,5.0,0,35,Processing
+BAK-00068,Unsalted Butter 225g,Baking Ingredients,1,159.66,159.66,2026-02-28,CUST-0014,Maya,Express Delivery,Lazada,3.6,0,35,Processing
+BAK-00069,Silicone Spatula Set 3pcs,Baking Tools,1,138.1,138.1,2026-06-13,CUST-0178,GCash,Same-Day Delivery,Lazada,4.5,50,0,Processing
+BAK-00069,Cocoa Powder 250g,Baking Ingredients,1,147.34,147.34,2026-06-13,CUST-0178,GCash,Same-Day Delivery,Lazada,3.7,50,0,Processing
+BAK-00070,Disposable Piping Bags 100pcs,Decorating Supplies,1,118.79,118.79,2026-10-21,CUST-0189,Debit/Credit Card,Same-Day Delivery,Shopee,4.6,0,0,Delivered
+BAK-00070,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,183.75,183.75,2026-10-21,CUST-0189,Debit/Credit Card,Same-Day Delivery,Shopee,4.7,0,0,Delivered
+BAK-00071,Round Cake Pan 8-inch,Bakeware,1,143.49,143.49,2026-08-27,CUST-0177,Maya,Same-Day Delivery,Shopee,4.7,0,45,Delivered
+BAK-00072,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,191.9,191.9,2026-05-26,CUST-0041,Cash on Delivery,Standard Delivery,Lazada,3.8,0,55,Delivered
+BAK-00072,Electric Hand Mixer 5-Speed,Baking Equipment,2,629.56,1259.12,2026-05-26,CUST-0041,Cash on Delivery,Standard Delivery,Lazada,4.5,0,55,Delivered
+BAK-00072,Cake Turntable Rotating Stand,Decorating Supplies,1,307.57,307.57,2026-05-26,CUST-0041,Cash on Delivery,Standard Delivery,Lazada,4.8,0,55,Delivered
+BAK-00073,Baking Powder 100g,Baking Ingredients,1,40.3,40.3,2026-09-12,CUST-0149,Cash on Delivery,Express Delivery,Shopee,3.6,30,45,Shipped
+BAK-00073,Measuring Cups and Spoons Set,Baking Tools,1,146.88,146.88,2026-09-12,CUST-0149,Cash on Delivery,Express Delivery,Shopee,3.8,30,45,Shipped
+BAK-00073,Maya All-Purpose Flour 1kg,Baking Ingredients,1,57.46,57.46,2026-09-12,CUST-0149,Cash on Delivery,Express Delivery,Shopee,4.6,30,45,Shipped
+BAK-00074,White Sugar 1kg,Baking Ingredients,2,88.38,176.76,2026-03-04,CUST-0137,Debit/Credit Card,Standard Delivery,Shopee,4.9,0,45,Delivered
+BAK-00074,Stainless Steel Mixing Bowl 3pcs,Baking Tools,2,262.88,525.76,2026-03-04,CUST-0137,Debit/Credit Card,Standard Delivery,Shopee,4.9,0,45,Delivered
+BAK-00074,Round Cake Pan 8-inch,Bakeware,1,131.58,131.58,2026-03-04,CUST-0137,Debit/Credit Card,Standard Delivery,Shopee,3.7,0,45,Delivered
+BAK-00074,Bread Storage Bags 20pcs,Packaging,3,75.8,227.4,2026-03-04,CUST-0137,Debit/Credit Card,Standard Delivery,Shopee,4.8,0,45,Delivered
+BAK-00075,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,126.7,126.7,2026-01-25,CUST-0026,Cash on Delivery,Express Delivery,Lazada,4.6,0,0,Delivered
+BAK-00075,Unsalted Butter 225g,Baking Ingredients,1,164.6,164.6,2026-01-25,CUST-0026,Cash on Delivery,Express Delivery,Lazada,4.1,0,0,Delivered
+BAK-00075,Silicone Spatula Set 3pcs,Baking Tools,1,125.81,125.81,2026-01-25,CUST-0026,Cash on Delivery,Express Delivery,Lazada,4.3,0,0,Delivered
+BAK-00076,Unsalted Butter 225g,Baking Ingredients,2,172.94,345.88,2026-03-02,CUST-0066,GCash,Express Delivery,Lazada,3.8,0,55,Shipped
+BAK-00077,Unsalted Butter 225g,Baking Ingredients,2,169.49,338.98,2026-09-21,CUST-0072,Cash on Delivery,Same-Day Delivery,Lazada,4.3,20,65,Delivered
+BAK-00077,Round Cake Pan 8-inch,Bakeware,1,136.85,136.85,2026-09-21,CUST-0072,Cash on Delivery,Same-Day Delivery,Lazada,4.3,20,65,Delivered
+BAK-00077,Maya All-Purpose Flour 1kg,Baking Ingredients,1,55.23,55.23,2026-09-21,CUST-0072,Cash on Delivery,Same-Day Delivery,Lazada,4.0,20,65,Delivered
+BAK-00078,Maya All-Purpose Flour 1kg,Baking Ingredients,1,59.77,59.77,2026-08-31,CUST-0136,Maya,Same-Day Delivery,Shopee,4.8,0,55,Delivered
+BAK-00079,White Sugar 1kg,Baking Ingredients,2,93.59,187.18,2026-06-10,CUST-0215,Maya,Express Delivery,Shopee,4.6,50,55,Delivered
+BAK-00079,Muffin Cupcake Tray 12-Cavity,Bakeware,1,217.79,217.79,2026-06-10,CUST-0215,Maya,Express Delivery,Shopee,3.8,50,55,Delivered
+BAK-00080,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,186.88,186.88,2026-08-24,CUST-0176,Cash on Delivery,Same-Day Delivery,Lazada,4.9,0,0,Delivered
+BAK-00080,Electric Hand Mixer 5-Speed,Baking Equipment,3,681.61,2044.83,2026-08-24,CUST-0176,Cash on Delivery,Same-Day Delivery,Lazada,4.6,0,0,Delivered
+BAK-00081,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,190.42,190.42,2026-07-22,CUST-0177,Maya,Express Delivery,Shopee,3.9,30,0,Delivered
+BAK-00081,Unsalted Butter 225g,Baking Ingredients,1,161.08,161.08,2026-07-22,CUST-0177,Maya,Express Delivery,Shopee,4.3,30,0,Delivered
+BAK-00081,Cake Box 8x8-inch 10pcs,Packaging,2,124.86,249.72,2026-07-22,CUST-0177,Maya,Express Delivery,Shopee,3.7,30,0,Delivered
+BAK-00081,Disposable Piping Bags 100pcs,Decorating Supplies,1,112.89,112.89,2026-07-22,CUST-0177,Maya,Express Delivery,Shopee,3.9,30,0,Delivered
+BAK-00082,Maya All-Purpose Flour 1kg,Baking Ingredients,1,59.97,59.97,2026-01-03,CUST-0081,Debit/Credit Card,Same-Day Delivery,Lazada,4.9,0,35,Delivered
+BAK-00082,Stainless Steel Balloon Whisk,Baking Tools,1,80.95,80.95,2026-01-03,CUST-0081,Debit/Credit Card,Same-Day Delivery,Lazada,4.3,0,35,Delivered
+BAK-00082,White Sugar 1kg,Baking Ingredients,1,94.32,94.32,2026-01-03,CUST-0081,Debit/Credit Card,Same-Day Delivery,Lazada,4.9,0,35,Delivered
+BAK-00082,Brown Sugar 1kg,Baking Ingredients,1,101.15,101.15,2026-01-03,CUST-0081,Debit/Credit Card,Same-Day Delivery,Lazada,3.8,0,35,Delivered
+BAK-00083,Muffin Cupcake Tray 12-Cavity,Bakeware,1,235.14,235.14,2026-05-26,CUST-0233,Debit/Credit Card,Standard Delivery,Lazada,4.5,50,0,Delivered
+BAK-00083,Condensed Milk 390g,Baking Ingredients,1,64.72,64.72,2026-05-26,CUST-0233,Debit/Credit Card,Standard Delivery,Lazada,4.0,50,0,Delivered
+BAK-00083,Silicone Baking Mat,Bakeware,1,185.74,185.74,2026-05-26,CUST-0233,Debit/Credit Card,Standard Delivery,Lazada,3.8,50,0,Delivered
+BAK-00083,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,87.81,87.81,2026-05-26,CUST-0233,Debit/Credit Card,Standard Delivery,Lazada,4.1,50,0,Delivered
+BAK-00083,Stainless Steel Balloon Whisk,Baking Tools,1,78.42,78.42,2026-05-26,CUST-0233,Debit/Credit Card,Standard Delivery,Lazada,4.1,50,0,Delivered
+BAK-00084,Baking Powder 100g,Baking Ingredients,1,43.03,43.03,2026-01-04,CUST-0134,Debit/Credit Card,Standard Delivery,Lazada,3.9,0,35,Delivered
+BAK-00085,White Sugar 1kg,Baking Ingredients,1,86.11,86.11,2026-07-27,CUST-0258,Cash on Delivery,Same-Day Delivery,Shopee,3.7,0,35,Delivered
+BAK-00085,Brown Sugar 1kg,Baking Ingredients,1,99.48,99.48,2026-07-27,CUST-0258,Cash on Delivery,Same-Day Delivery,Shopee,4.4,0,35,Delivered
+BAK-00086,Chocolate Chips 200g,Baking Ingredients,1,137.67,137.67,2026-02-11,CUST-0229,Cash on Delivery,Standard Delivery,Shopee,3.7,20,55,Delivered
+BAK-00086,Cake Box 8x8-inch 10pcs,Packaging,2,120.89,241.78,2026-02-11,CUST-0229,Cash on Delivery,Standard Delivery,Shopee,4.5,20,55,Delivered
+BAK-00086,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,120.61,120.61,2026-02-11,CUST-0229,Cash on Delivery,Standard Delivery,Shopee,4.8,20,55,Delivered
+BAK-00087,Parchment Baking Paper Roll,Bakeware,1,94.87,94.87,2026-01-12,CUST-0203,Cash on Delivery,Standard Delivery,Shopee,5.0,0,45,Delivered
+BAK-00087,Maya All-Purpose Flour 1kg,Baking Ingredients,2,55.62,111.24,2026-01-12,CUST-0203,Cash on Delivery,Standard Delivery,Shopee,4.9,0,45,Delivered
+BAK-00087,Baking Powder 100g,Baking Ingredients,1,42.13,42.13,2026-01-12,CUST-0203,Cash on Delivery,Standard Delivery,Shopee,4.7,0,45,Delivered
+BAK-00088,Nonstick Loaf Pan 9-inch,Bakeware,1,171.28,171.28,2026-03-02,CUST-0092,Debit/Credit Card,Same-Day Delivery,Shopee,4.2,0,0,Delivered
+BAK-00088,Silicone Baking Mat,Bakeware,1,179.92,179.92,2026-03-02,CUST-0092,Debit/Credit Card,Same-Day Delivery,Shopee,4.1,0,0,Delivered
+BAK-00088,Stainless Steel Balloon Whisk,Baking Tools,1,79.78,79.78,2026-03-02,CUST-0092,Debit/Credit Card,Same-Day Delivery,Shopee,3.7,0,0,Delivered
+BAK-00088,White Sugar 1kg,Baking Ingredients,1,93.61,93.61,2026-03-02,CUST-0092,Debit/Credit Card,Same-Day Delivery,Shopee,4.6,0,0,Delivered
+BAK-00089,Maya All-Purpose Flour 1kg,Baking Ingredients,2,56.95,113.9,2026-05-04,CUST-0106,GCash,Standard Delivery,Shopee,3.6,30,65,Delivered
+BAK-00090,Maya All-Purpose Flour 1kg,Baking Ingredients,1,57.17,57.17,2026-10-23,CUST-0165,Maya,Express Delivery,Shopee,4.3,20,0,Cancelled
+BAK-00090,Instant Dry Yeast 100g,Baking Ingredients,1,81.56,81.56,2026-10-23,CUST-0165,Maya,Express Delivery,Shopee,3.8,20,0,Cancelled
+BAK-00090,Stainless Steel Balloon Whisk,Baking Tools,1,80.76,80.76,2026-10-23,CUST-0165,Maya,Express Delivery,Shopee,3.6,20,0,Cancelled
+BAK-00091,Condensed Milk 390g,Baking Ingredients,2,67.26,134.52,2026-07-29,CUST-0077,Cash on Delivery,Express Delivery,Shopee,4.6,10,0,Delivered
+BAK-00091,Nonstick Loaf Pan 9-inch,Bakeware,1,169.96,169.96,2026-07-29,CUST-0077,Cash on Delivery,Express Delivery,Shopee,4.3,10,0,Delivered
+BAK-00092,All-Purpose Cream 250ml,Baking Ingredients,1,73.63,73.63,2026-01-27,CUST-0138,Debit/Credit Card,Same-Day Delivery,Shopee,4.2,0,55,Shipped
+BAK-00092,White Sugar 1kg,Baking Ingredients,2,87.41,174.82,2026-01-27,CUST-0138,Debit/Credit Card,Same-Day Delivery,Shopee,4.9,0,55,Shipped
+BAK-00092,Brown Sugar 1kg,Baking Ingredients,1,101.82,101.82,2026-01-27,CUST-0138,Debit/Credit Card,Same-Day Delivery,Shopee,4.9,0,55,Shipped
+BAK-00092,Oven Thermometer Stainless Steel,Baking Equipment,1,171.71,171.71,2026-01-27,CUST-0138,Debit/Credit Card,Same-Day Delivery,Shopee,4.2,0,55,Shipped
+BAK-00092,Baking Powder 100g,Baking Ingredients,1,43.2,43.2,2026-01-27,CUST-0138,Debit/Credit Card,Same-Day Delivery,Shopee,3.8,0,55,Shipped
+BAK-00093,Dough Scraper Stainless Steel,Baking Tools,1,65.7,65.7,2026-06-13,CUST-0105,Cash on Delivery,Express Delivery,Lazada,4.3,50,0,Delivered
+BAK-00093,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,259.86,259.86,2026-06-13,CUST-0105,Cash on Delivery,Express Delivery,Lazada,3.9,50,0,Delivered
+BAK-00093,Round Cake Pan 8-inch,Bakeware,1,132.29,132.29,2026-06-13,CUST-0105,Cash on Delivery,Express Delivery,Lazada,4.4,50,0,Delivered
+BAK-00093,All-Purpose Cream 250ml,Baking Ingredients,1,73.55,73.55,2026-06-13,CUST-0105,Cash on Delivery,Express Delivery,Lazada,4.9,50,0,Delivered
+BAK-00093,White Sugar 1kg,Baking Ingredients,1,92.33,92.33,2026-06-13,CUST-0105,Cash on Delivery,Express Delivery,Lazada,4.2,50,0,Delivered
+BAK-00094,Gel Food Coloring Set 6 Colors,Decorating Supplies,2,185.24,370.48,2026-01-31,CUST-0018,GCash,Same-Day Delivery,Shopee,4.6,10,0,Delivered
+BAK-00094,Cake Turntable Rotating Stand,Decorating Supplies,1,303.71,303.71,2026-01-31,CUST-0018,GCash,Same-Day Delivery,Shopee,4.1,10,0,Delivered
+BAK-00094,All-Purpose Cream 250ml,Baking Ingredients,1,74.64,74.64,2026-01-31,CUST-0018,GCash,Same-Day Delivery,Shopee,4.4,10,0,Delivered
+BAK-00094,Silicone Baking Mat,Bakeware,1,181.4,181.4,2026-01-31,CUST-0018,GCash,Same-Day Delivery,Shopee,3.5,10,0,Delivered
+BAK-00095,Baking Powder 100g,Baking Ingredients,1,41.84,41.84,2026-04-02,CUST-0055,GCash,Same-Day Delivery,Shopee,4.7,20,55,Delivered
+BAK-00095,Measuring Cups and Spoons Set,Baking Tools,1,155.83,155.83,2026-04-02,CUST-0055,GCash,Same-Day Delivery,Shopee,4.2,20,55,Delivered
+BAK-00095,Dough Scraper Stainless Steel,Baking Tools,1,71.8,71.8,2026-04-02,CUST-0055,GCash,Same-Day Delivery,Shopee,3.9,20,55,Delivered
+BAK-00096,Maya All-Purpose Flour 1kg,Baking Ingredients,2,62.03,124.06,2026-03-29,CUST-0043,Debit/Credit Card,Express Delivery,Lazada,3.8,50,0,Delivered
+BAK-00096,Stainless Steel Mixing Bowl 3pcs,Baking Tools,2,258.96,517.92,2026-03-29,CUST-0043,Debit/Credit Card,Express Delivery,Lazada,4.4,50,0,Delivered
+BAK-00096,Nonstick Loaf Pan 9-inch,Bakeware,1,170.15,170.15,2026-03-29,CUST-0043,Debit/Credit Card,Express Delivery,Lazada,4.5,50,0,Delivered
+BAK-00096,Digital Food Thermometer,Baking Equipment,1,203.1,203.1,2026-03-29,CUST-0043,Debit/Credit Card,Express Delivery,Lazada,4.5,50,0,Delivered
+BAK-00097,Silicone Spatula Set 3pcs,Baking Tools,1,131.62,131.62,2026-02-09,CUST-0154,Maya,Same-Day Delivery,Shopee,4.1,50,45,Delivered
+BAK-00097,Dough Scraper Stainless Steel,Baking Tools,1,72.64,72.64,2026-02-09,CUST-0154,Maya,Same-Day Delivery,Shopee,4.5,50,45,Delivered
+BAK-00098,Dough Scraper Stainless Steel,Baking Tools,1,72.58,72.58,2026-04-29,CUST-0039,Cash on Delivery,Same-Day Delivery,Lazada,4.2,0,0,Cancelled
+BAK-00099,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,85.06,85.06,2026-06-01,CUST-0127,GCash,Standard Delivery,Lazada,4.0,30,65,Delivered
+BAK-00099,Brown Sugar 1kg,Baking Ingredients,1,101.9,101.9,2026-06-01,CUST-0127,GCash,Standard Delivery,Lazada,4.2,30,65,Delivered
+BAK-00100,Chocolate Chips 200g,Baking Ingredients,1,138.07,138.07,2026-07-01,CUST-0048,Cash on Delivery,Express Delivery,Shopee,5.0,10,0,Delivered
+BAK-00100,Electric Hand Mixer 5-Speed,Baking Equipment,1,660.52,660.52,2026-07-01,CUST-0048,Cash on Delivery,Express Delivery,Shopee,4.5,10,0,Delivered
+BAK-00100,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,245.25,245.25,2026-07-01,CUST-0048,Cash on Delivery,Express Delivery,Shopee,3.9,10,0,Delivered
+BAK-00100,Cocoa Powder 250g,Baking Ingredients,1,140.9,140.9,2026-07-01,CUST-0048,Cash on Delivery,Express Delivery,Shopee,3.9,10,0,Delivered
+BAK-00101,Unsalted Butter 225g,Baking Ingredients,2,164.9,329.8,2026-04-11,CUST-0235,GCash,Standard Delivery,Lazada,4.8,10,35,Delivered
+BAK-00101,Nonstick Loaf Pan 9-inch,Bakeware,1,159.95,159.95,2026-04-11,CUST-0235,GCash,Standard Delivery,Lazada,4.7,10,35,Delivered
+BAK-00102,Cake Turntable Rotating Stand,Decorating Supplies,1,294.95,294.95,2026-04-01,CUST-0204,Cash on Delivery,Express Delivery,Lazada,4.7,50,0,Cancelled
+BAK-00102,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,187.45,187.45,2026-04-01,CUST-0204,Cash on Delivery,Express Delivery,Lazada,3.8,50,0,Cancelled
+BAK-00102,Cream Cheese 225g,Baking Ingredients,3,150.88,452.64,2026-04-01,CUST-0204,Cash on Delivery,Express Delivery,Lazada,4.7,50,0,Cancelled
+BAK-00103,Brown Sugar 1kg,Baking Ingredients,1,91.97,91.97,2026-04-18,CUST-0225,Cash on Delivery,Same-Day Delivery,Shopee,4.0,50,45,Shipped
+BAK-00104,Gel Food Coloring Set 6 Colors,Decorating Supplies,2,192.74,385.48,2026-09-03,CUST-0206,Debit/Credit Card,Same-Day Delivery,Shopee,4.5,0,65,Shipped
+BAK-00104,Cake Turntable Rotating Stand,Decorating Supplies,1,313.94,313.94,2026-09-03,CUST-0206,Debit/Credit Card,Same-Day Delivery,Shopee,4.5,0,65,Shipped
+BAK-00105,Measuring Cups and Spoons Set,Baking Tools,1,148.69,148.69,2026-06-19,CUST-0221,GCash,Standard Delivery,Shopee,4.4,20,65,Delivered
+BAK-00105,Silicone Baking Mat,Bakeware,1,179.15,179.15,2026-06-19,CUST-0221,GCash,Standard Delivery,Shopee,4.7,20,65,Delivered
+BAK-00106,Maya Cake Flour 1kg,Baking Ingredients,1,72.86,72.86,2026-03-01,CUST-0073,Cash on Delivery,Express Delivery,Lazada,4.2,0,55,Delivered
+BAK-00106,All-Purpose Cream 250ml,Baking Ingredients,1,71.38,71.38,2026-03-01,CUST-0073,Cash on Delivery,Express Delivery,Lazada,4.0,0,55,Delivered
+BAK-00106,White Sugar 1kg,Baking Ingredients,1,84.92,84.92,2026-03-01,CUST-0073,Cash on Delivery,Express Delivery,Lazada,4.8,0,55,Delivered
+BAK-00107,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,119.17,119.17,2026-06-19,CUST-0219,Debit/Credit Card,Standard Delivery,Lazada,4.6,0,65,Delivered
+BAK-00107,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,2,176.48,352.96,2026-06-19,CUST-0219,Debit/Credit Card,Standard Delivery,Lazada,4.1,0,65,Delivered
+BAK-00107,Vanilla Extract 60ml,Baking Ingredients,1,87.04,87.04,2026-06-19,CUST-0219,Debit/Credit Card,Standard Delivery,Lazada,3.9,0,65,Delivered
+BAK-00108,Electric Hand Mixer 5-Speed,Baking Equipment,2,668.64,1337.28,2026-09-28,CUST-0161,Debit/Credit Card,Same-Day Delivery,Lazada,4.7,0,35,Delivered
+BAK-00108,Silicone Spatula Set 3pcs,Baking Tools,1,127.54,127.54,2026-09-28,CUST-0161,Debit/Credit Card,Same-Day Delivery,Lazada,4.4,0,35,Delivered
+BAK-00108,Cocoa Powder 250g,Baking Ingredients,1,140.27,140.27,2026-09-28,CUST-0161,Debit/Credit Card,Same-Day Delivery,Lazada,3.7,0,35,Delivered
+BAK-00108,Nonstick Loaf Pan 9-inch,Bakeware,1,154.83,154.83,2026-09-28,CUST-0161,Debit/Credit Card,Same-Day Delivery,Lazada,4.5,0,35,Delivered
+BAK-00109,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,90.31,90.31,2026-03-30,CUST-0086,Debit/Credit Card,Express Delivery,Shopee,4.9,50,45,Delivered
+BAK-00109,Baking Powder 100g,Baking Ingredients,1,40.97,40.97,2026-03-30,CUST-0086,Debit/Credit Card,Express Delivery,Shopee,4.1,50,45,Delivered
+BAK-00109,Silicone Baking Mat,Bakeware,1,185.25,185.25,2026-03-30,CUST-0086,Debit/Credit Card,Express Delivery,Shopee,4.1,50,45,Delivered
+BAK-00110,White Sugar 1kg,Baking Ingredients,1,92.47,92.47,2026-04-26,CUST-0148,Maya,Express Delivery,Lazada,4.7,0,55,Delivered
+BAK-00110,Chocolate Chips 200g,Baking Ingredients,1,142.69,142.69,2026-04-26,CUST-0148,Maya,Express Delivery,Lazada,3.6,0,55,Delivered
+BAK-00110,Unsalted Butter 225g,Baking Ingredients,1,168.47,168.47,2026-04-26,CUST-0148,Maya,Express Delivery,Lazada,5.0,0,55,Delivered
+BAK-00111,Maya All-Purpose Flour 1kg,Baking Ingredients,1,60.66,60.66,2026-08-19,CUST-0135,Cash on Delivery,Standard Delivery,Lazada,4.5,0,0,Shipped
+BAK-00112,Baking Powder 100g,Baking Ingredients,1,41.36,41.36,2026-10-19,CUST-0180,Cash on Delivery,Same-Day Delivery,Shopee,4.8,30,35,Delivered
+BAK-00112,Stainless Steel Balloon Whisk,Baking Tools,3,82.03,246.09,2026-10-19,CUST-0180,Cash on Delivery,Same-Day Delivery,Shopee,3.6,30,35,Delivered
+BAK-00112,Reusable Silicone Cupcake Liners 12pcs,Bakeware,2,125.2,250.4,2026-10-19,CUST-0180,Cash on Delivery,Same-Day Delivery,Shopee,4.9,30,35,Delivered
+BAK-00112,Cake Turntable Rotating Stand,Decorating Supplies,3,317.75,953.25,2026-10-19,CUST-0180,Cash on Delivery,Same-Day Delivery,Shopee,3.7,30,35,Delivered
+BAK-00113,Stainless Steel Balloon Whisk,Baking Tools,1,84.06,84.06,2026-08-01,CUST-0193,Debit/Credit Card,Standard Delivery,Shopee,4.2,30,35,Delivered
+BAK-00113,Offset Icing Spatula 8-inch,Baking Tools,1,97.44,97.44,2026-08-01,CUST-0193,Debit/Credit Card,Standard Delivery,Shopee,4.8,30,35,Delivered
+BAK-00113,Measuring Cups and Spoons Set,Baking Tools,2,139.51,279.02,2026-08-01,CUST-0193,Debit/Credit Card,Standard Delivery,Shopee,5.0,30,35,Delivered
+BAK-00113,Instant Dry Yeast 100g,Baking Ingredients,1,81.17,81.17,2026-08-01,CUST-0193,Debit/Credit Card,Standard Delivery,Shopee,4.8,30,35,Delivered
+BAK-00114,Nonstick Loaf Pan 9-inch,Bakeware,1,170.26,170.26,2026-06-22,CUST-0067,Debit/Credit Card,Express Delivery,Shopee,3.7,30,45,Delivered
+BAK-00114,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,203.92,203.92,2026-06-22,CUST-0067,Debit/Credit Card,Express Delivery,Shopee,4.1,30,45,Delivered
+BAK-00114,Stainless Steel Balloon Whisk,Baking Tools,3,84.39,253.17,2026-06-22,CUST-0067,Debit/Credit Card,Express Delivery,Shopee,4.8,30,45,Delivered
+BAK-00114,Maya All-Purpose Flour 1kg,Baking Ingredients,1,61.69,61.69,2026-06-22,CUST-0067,Debit/Credit Card,Express Delivery,Shopee,4.8,30,45,Delivered
+BAK-00115,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,239.5,239.5,2026-03-26,CUST-0027,Debit/Credit Card,Same-Day Delivery,Lazada,3.6,50,0,Delivered
+BAK-00116,Unsalted Butter 225g,Baking Ingredients,1,158.67,158.67,2026-01-05,CUST-0005,Cash on Delivery,Standard Delivery,Lazada,4.7,10,0,Delivered
+BAK-00116,Nonstick Loaf Pan 9-inch,Bakeware,1,158.65,158.65,2026-01-05,CUST-0005,Cash on Delivery,Standard Delivery,Lazada,3.9,10,0,Delivered
+BAK-00117,Vanilla Extract 60ml,Baking Ingredients,1,87.06,87.06,2026-08-14,CUST-0180,Maya,Same-Day Delivery,Shopee,4.8,20,65,Processing
+BAK-00117,Cake Turntable Rotating Stand,Decorating Supplies,1,288.84,288.84,2026-08-14,CUST-0180,Maya,Same-Day Delivery,Shopee,4.6,20,65,Processing
+BAK-00117,Brown Sugar 1kg,Baking Ingredients,1,95.55,95.55,2026-08-14,CUST-0180,Maya,Same-Day Delivery,Shopee,4.7,20,65,Processing
+BAK-00118,Vanilla Extract 60ml,Baking Ingredients,1,85.85,85.85,2026-06-04,CUST-0106,Maya,Same-Day Delivery,Lazada,4.2,0,0,Delivered
+BAK-00118,Maya All-Purpose Flour 1kg,Baking Ingredients,1,59.08,59.08,2026-06-04,CUST-0106,Maya,Same-Day Delivery,Lazada,5.0,0,0,Delivered
+BAK-00119,Cooling Rack 2-Tier,Bakeware,1,194.99,194.99,2026-10-28,CUST-0035,GCash,Express Delivery,Shopee,4.3,0,45,Delivered
+BAK-00119,Digital Kitchen Scale 10kg,Baking Equipment,1,311.33,311.33,2026-10-28,CUST-0035,GCash,Express Delivery,Shopee,3.6,0,45,Delivered
+BAK-00119,Round Cake Pan 8-inch,Bakeware,1,139.06,139.06,2026-10-28,CUST-0035,GCash,Express Delivery,Shopee,3.9,0,45,Delivered
+BAK-00119,Maya Cake Flour 1kg,Baking Ingredients,1,73.19,73.19,2026-10-28,CUST-0035,GCash,Express Delivery,Shopee,3.8,0,45,Delivered
+BAK-00119,Maya All-Purpose Flour 1kg,Baking Ingredients,1,59.14,59.14,2026-10-28,CUST-0035,GCash,Express Delivery,Shopee,4.1,0,45,Delivered
+BAK-00120,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,240.42,240.42,2026-08-11,CUST-0060,Debit/Credit Card,Same-Day Delivery,Shopee,4.6,30,65,Delivered
+BAK-00120,Unsalted Butter 225g,Baking Ingredients,1,160.26,160.26,2026-08-11,CUST-0060,Debit/Credit Card,Same-Day Delivery,Shopee,4.9,30,65,Delivered
+BAK-00120,Cocoa Powder 250g,Baking Ingredients,1,152.51,152.51,2026-08-11,CUST-0060,Debit/Credit Card,Same-Day Delivery,Shopee,4.6,30,65,Delivered
+BAK-00121,All-Purpose Cream 250ml,Baking Ingredients,1,72.66,72.66,2026-01-16,CUST-0172,Debit/Credit Card,Express Delivery,Shopee,4.0,20,65,Delivered
+BAK-00121,White Sugar 1kg,Baking Ingredients,1,90.09,90.09,2026-01-16,CUST-0172,Debit/Credit Card,Express Delivery,Shopee,4.1,20,65,Delivered
+BAK-00122,Dough Scraper Stainless Steel,Baking Tools,2,67.16,134.32,2026-04-27,CUST-0002,GCash,Standard Delivery,Shopee,4.9,0,45,Delivered
+BAK-00122,Cocoa Powder 250g,Baking Ingredients,1,152.89,152.89,2026-04-27,CUST-0002,GCash,Standard Delivery,Shopee,4.6,0,45,Delivered
+BAK-00123,Measuring Cups and Spoons Set,Baking Tools,3,155.73,467.19,2026-10-20,CUST-0191,GCash,Same-Day Delivery,Shopee,3.6,50,55,Delivered
+BAK-00123,All-Purpose Cream 250ml,Baking Ingredients,1,71.04,71.04,2026-10-20,CUST-0191,GCash,Same-Day Delivery,Shopee,4.8,50,55,Delivered
+BAK-00123,White Sugar 1kg,Baking Ingredients,1,89.93,89.93,2026-10-20,CUST-0191,GCash,Same-Day Delivery,Shopee,3.5,50,55,Delivered
+BAK-00124,Unsalted Butter 225g,Baking Ingredients,1,170.39,170.39,2026-09-10,CUST-0101,Maya,Standard Delivery,Shopee,4.5,0,0,Processing
+BAK-00124,Cake Box 8x8-inch 10pcs,Packaging,1,119.23,119.23,2026-09-10,CUST-0101,Maya,Standard Delivery,Shopee,4.6,0,0,Processing
+BAK-00125,Cake Turntable Rotating Stand,Decorating Supplies,1,298.53,298.53,2026-03-14,CUST-0144,GCash,Standard Delivery,Shopee,5.0,20,45,Processing
+BAK-00125,Offset Icing Spatula 8-inch,Baking Tools,1,91.43,91.43,2026-03-14,CUST-0144,GCash,Standard Delivery,Shopee,3.7,20,45,Processing
+BAK-00125,Maya All-Purpose Flour 1kg,Baking Ingredients,1,55.66,55.66,2026-03-14,CUST-0144,GCash,Standard Delivery,Shopee,4.4,20,45,Processing
+BAK-00126,All-Purpose Cream 250ml,Baking Ingredients,1,73.87,73.87,2026-07-21,CUST-0168,Cash on Delivery,Express Delivery,Lazada,3.7,0,0,Delivered
+BAK-00126,Cooling Rack 2-Tier,Bakeware,1,191.0,191.0,2026-07-21,CUST-0168,Cash on Delivery,Express Delivery,Lazada,4.1,0,0,Delivered
+BAK-00126,Baking Powder 100g,Baking Ingredients,1,45.17,45.17,2026-07-21,CUST-0168,Cash on Delivery,Express Delivery,Lazada,3.8,0,0,Delivered
+BAK-00127,Sprinkles Assorted 100g,Decorating Supplies,1,62.16,62.16,2026-06-05,CUST-0021,Maya,Express Delivery,Shopee,3.9,0,35,Delivered
+BAK-00127,Cupcake Boxes 6-Cavity 5pcs,Packaging,2,131.3,262.6,2026-06-05,CUST-0021,Maya,Express Delivery,Shopee,4.9,0,35,Delivered
+BAK-00128,White Sugar 1kg,Baking Ingredients,1,84.34,84.34,2026-03-08,CUST-0102,Debit/Credit Card,Express Delivery,Shopee,4.9,0,0,Delivered
+BAK-00128,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,115.04,115.04,2026-03-08,CUST-0102,Debit/Credit Card,Express Delivery,Shopee,4.9,0,0,Delivered
+BAK-00128,Maya All-Purpose Flour 1kg,Baking Ingredients,2,57.6,115.2,2026-03-08,CUST-0102,Debit/Credit Card,Express Delivery,Shopee,3.6,0,0,Delivered
+BAK-00128,Baking Powder 100g,Baking Ingredients,1,40.82,40.82,2026-03-08,CUST-0102,Debit/Credit Card,Express Delivery,Shopee,4.4,0,0,Delivered
+BAK-00129,Nonstick Loaf Pan 9-inch,Bakeware,1,156.83,156.83,2026-03-18,CUST-0018,Maya,Same-Day Delivery,Lazada,3.7,20,45,Delivered
+BAK-00129,Baking Powder 100g,Baking Ingredients,1,44.73,44.73,2026-03-18,CUST-0018,Maya,Same-Day Delivery,Lazada,4.3,20,45,Delivered
+BAK-00129,Muffin Cupcake Tray 12-Cavity,Bakeware,1,237.21,237.21,2026-03-18,CUST-0018,Maya,Same-Day Delivery,Lazada,4.7,20,45,Delivered
+BAK-00129,Vanilla Extract 60ml,Baking Ingredients,3,93.6,280.8,2026-03-18,CUST-0018,Maya,Same-Day Delivery,Lazada,4.0,20,45,Delivered
+BAK-00130,Cake Box 8x8-inch 10pcs,Packaging,1,123.11,123.11,2026-06-13,CUST-0113,GCash,Express Delivery,Shopee,3.8,10,55,Shipped
+BAK-00130,Disposable Piping Bags 100pcs,Decorating Supplies,1,108.04,108.04,2026-06-13,CUST-0113,GCash,Express Delivery,Shopee,3.9,10,55,Shipped
+BAK-00130,Maya All-Purpose Flour 1kg,Baking Ingredients,1,61.07,61.07,2026-06-13,CUST-0113,GCash,Express Delivery,Shopee,4.6,10,55,Shipped
+BAK-00131,Measuring Cups and Spoons Set,Baking Tools,1,141.06,141.06,2026-07-03,CUST-0015,Cash on Delivery,Same-Day Delivery,Shopee,3.6,0,45,Delivered
+BAK-00131,Brown Sugar 1kg,Baking Ingredients,1,97.68,97.68,2026-07-03,CUST-0015,Cash on Delivery,Same-Day Delivery,Shopee,3.5,0,45,Delivered
+BAK-00131,Stainless Steel Balloon Whisk,Baking Tools,1,78.46,78.46,2026-07-03,CUST-0015,Cash on Delivery,Same-Day Delivery,Shopee,4.4,0,45,Delivered
+BAK-00131,White Sugar 1kg,Baking Ingredients,1,87.5,87.5,2026-07-03,CUST-0015,Cash on Delivery,Same-Day Delivery,Shopee,3.8,0,45,Delivered
+BAK-00132,Vanilla Extract 60ml,Baking Ingredients,3,93.02,279.06,2026-02-07,CUST-0192,Debit/Credit Card,Same-Day Delivery,Shopee,4.2,0,0,Delivered
+BAK-00132,Digital Kitchen Scale 10kg,Baking Equipment,1,302.99,302.99,2026-02-07,CUST-0192,Debit/Credit Card,Same-Day Delivery,Shopee,4.0,0,0,Delivered
+BAK-00132,Instant Dry Yeast 100g,Baking Ingredients,1,79.8,79.8,2026-02-07,CUST-0192,Debit/Credit Card,Same-Day Delivery,Shopee,4.8,0,0,Delivered
+BAK-00132,Chocolate Chips 200g,Baking Ingredients,1,134.51,134.51,2026-02-07,CUST-0192,Debit/Credit Card,Same-Day Delivery,Shopee,4.5,0,0,Delivered
+BAK-00133,Condensed Milk 390g,Baking Ingredients,1,65.52,65.52,2026-07-20,CUST-0017,Maya,Same-Day Delivery,Lazada,4.2,20,0,Processing
+BAK-00133,Maya All-Purpose Flour 1kg,Baking Ingredients,1,55.69,55.69,2026-07-20,CUST-0017,Maya,Same-Day Delivery,Lazada,4.0,20,0,Processing
+BAK-00133,Cake Box 8x8-inch 10pcs,Packaging,1,123.92,123.92,2026-07-20,CUST-0017,Maya,Same-Day Delivery,Lazada,4.9,20,0,Processing
+BAK-00133,Electric Hand Mixer 5-Speed,Baking Equipment,2,673.08,1346.16,2026-07-20,CUST-0017,Maya,Same-Day Delivery,Lazada,4.6,20,0,Processing
+BAK-00134,Vanilla Extract 60ml,Baking Ingredients,2,90.25,180.5,2026-05-12,CUST-0056,GCash,Standard Delivery,Lazada,4.1,10,0,Delivered
+BAK-00134,Offset Icing Spatula 8-inch,Baking Tools,1,91.5,91.5,2026-05-12,CUST-0056,GCash,Standard Delivery,Lazada,4.2,10,0,Delivered
+BAK-00135,White Sugar 1kg,Baking Ingredients,1,94.87,94.87,2026-02-07,CUST-0176,Maya,Express Delivery,Shopee,4.8,20,0,Delivered
+BAK-00135,Dough Scraper Stainless Steel,Baking Tools,1,69.42,69.42,2026-02-07,CUST-0176,Maya,Express Delivery,Shopee,4.5,20,0,Delivered
+BAK-00135,Maya All-Purpose Flour 1kg,Baking Ingredients,1,58.37,58.37,2026-02-07,CUST-0176,Maya,Express Delivery,Shopee,3.6,20,0,Delivered
+BAK-00135,Digital Food Thermometer,Baking Equipment,1,214.26,214.26,2026-02-07,CUST-0176,Maya,Express Delivery,Shopee,4.1,20,0,Delivered
+BAK-00136,Sprinkles Assorted 100g,Decorating Supplies,1,65.81,65.81,2026-09-09,CUST-0079,GCash,Express Delivery,Shopee,3.6,0,65,Delivered
+BAK-00136,Maya All-Purpose Flour 1kg,Baking Ingredients,1,59.91,59.91,2026-09-09,CUST-0079,GCash,Express Delivery,Shopee,5.0,0,65,Delivered
+BAK-00136,Cake Turntable Rotating Stand,Decorating Supplies,1,288.54,288.54,2026-09-09,CUST-0079,GCash,Express Delivery,Shopee,4.7,0,65,Delivered
+BAK-00137,Cake Turntable Rotating Stand,Decorating Supplies,2,305.98,611.96,2026-07-09,CUST-0096,Debit/Credit Card,Standard Delivery,Lazada,3.7,0,0,Delivered
+BAK-00137,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,181.93,181.93,2026-07-09,CUST-0096,Debit/Credit Card,Standard Delivery,Lazada,4.5,0,0,Delivered
+BAK-00137,Electric Hand Mixer 5-Speed,Baking Equipment,1,651.48,651.48,2026-07-09,CUST-0096,Debit/Credit Card,Standard Delivery,Lazada,4.6,0,0,Delivered
+BAK-00138,Unsalted Butter 225g,Baking Ingredients,1,169.0,169.0,2026-08-03,CUST-0244,Maya,Express Delivery,Lazada,4.3,50,65,Delivered
+BAK-00138,Cooling Rack 2-Tier,Bakeware,1,203.7,203.7,2026-08-03,CUST-0244,Maya,Express Delivery,Lazada,3.7,50,65,Delivered
+BAK-00139,Cocoa Powder 250g,Baking Ingredients,1,153.9,153.9,2026-04-14,CUST-0076,Cash on Delivery,Express Delivery,Shopee,4.3,20,45,Delivered
+BAK-00139,Silicone Spatula Set 3pcs,Baking Tools,2,122.76,245.52,2026-04-14,CUST-0076,Cash on Delivery,Express Delivery,Shopee,4.6,20,45,Delivered
+BAK-00139,Electric Hand Mixer 5-Speed,Baking Equipment,1,682.5,682.5,2026-04-14,CUST-0076,Cash on Delivery,Express Delivery,Shopee,3.7,20,45,Delivered
+BAK-00139,Disposable Piping Bags 100pcs,Decorating Supplies,1,112.6,112.6,2026-04-14,CUST-0076,Cash on Delivery,Express Delivery,Shopee,4.4,20,45,Delivered
+BAK-00139,Cooling Rack 2-Tier,Bakeware,2,182.01,364.02,2026-04-14,CUST-0076,Cash on Delivery,Express Delivery,Shopee,3.7,20,45,Delivered
+BAK-00140,All-Purpose Cream 250ml,Baking Ingredients,1,72.16,72.16,2026-09-06,CUST-0243,GCash,Standard Delivery,Lazada,4.1,20,55,Delivered
+BAK-00140,Brown Sugar 1kg,Baking Ingredients,2,98.78,197.56,2026-09-06,CUST-0243,GCash,Standard Delivery,Lazada,3.6,20,55,Delivered
+BAK-00140,Vanilla Extract 60ml,Baking Ingredients,1,87.66,87.66,2026-09-06,CUST-0243,GCash,Standard Delivery,Lazada,4.1,20,55,Delivered
+BAK-00140,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,142.18,142.18,2026-09-06,CUST-0243,GCash,Standard Delivery,Lazada,4.0,20,55,Delivered
+BAK-00141,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,198.21,198.21,2026-05-18,CUST-0214,GCash,Standard Delivery,Lazada,4.8,50,45,Delivered
+BAK-00141,Vanilla Extract 60ml,Baking Ingredients,2,90.51,181.02,2026-05-18,CUST-0214,GCash,Standard Delivery,Lazada,3.7,50,45,Delivered
+BAK-00141,Electric Hand Mixer 5-Speed,Baking Equipment,1,659.31,659.31,2026-05-18,CUST-0214,GCash,Standard Delivery,Lazada,3.7,50,45,Delivered
+BAK-00141,Silicone Spatula Set 3pcs,Baking Tools,2,137.3,274.6,2026-05-18,CUST-0214,GCash,Standard Delivery,Lazada,3.5,50,45,Delivered
+BAK-00142,Oven Thermometer Stainless Steel,Baking Equipment,1,153.61,153.61,2026-01-26,CUST-0185,Maya,Express Delivery,Lazada,3.5,20,45,Shipped
+BAK-00142,Muffin Cupcake Tray 12-Cavity,Bakeware,1,231.13,231.13,2026-01-26,CUST-0185,Maya,Express Delivery,Lazada,3.8,20,45,Shipped
+BAK-00143,Measuring Cups and Spoons Set,Baking Tools,1,152.46,152.46,2026-04-20,CUST-0114,Maya,Same-Day Delivery,Shopee,4.7,10,55,Delivered
+BAK-00143,White Sugar 1kg,Baking Ingredients,1,94.03,94.03,2026-04-20,CUST-0114,Maya,Same-Day Delivery,Shopee,4.5,10,55,Delivered
+BAK-00143,Dough Scraper Stainless Steel,Baking Tools,1,65.63,65.63,2026-04-20,CUST-0114,Maya,Same-Day Delivery,Shopee,3.9,10,55,Delivered
+BAK-00143,Cooling Rack 2-Tier,Bakeware,1,187.06,187.06,2026-04-20,CUST-0114,Maya,Same-Day Delivery,Shopee,5.0,10,55,Delivered
+BAK-00144,Maya All-Purpose Flour 1kg,Baking Ingredients,1,59.58,59.58,2026-08-27,CUST-0155,Debit/Credit Card,Same-Day Delivery,Shopee,3.9,30,35,Delivered
+BAK-00144,Offset Icing Spatula 8-inch,Baking Tools,1,96.2,96.2,2026-08-27,CUST-0155,Debit/Credit Card,Same-Day Delivery,Shopee,4.0,30,35,Delivered
+BAK-00144,All-Purpose Cream 250ml,Baking Ingredients,1,71.44,71.44,2026-08-27,CUST-0155,Debit/Credit Card,Same-Day Delivery,Shopee,3.9,30,35,Delivered
+BAK-00145,Cake Turntable Rotating Stand,Decorating Supplies,2,299.78,599.56,2026-07-26,CUST-0164,Maya,Same-Day Delivery,Shopee,4.6,0,35,Delivered
+BAK-00145,Maya All-Purpose Flour 1kg,Baking Ingredients,1,62.6,62.6,2026-07-26,CUST-0164,Maya,Same-Day Delivery,Shopee,4.7,0,35,Delivered
+BAK-00145,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,197.08,197.08,2026-07-26,CUST-0164,Maya,Same-Day Delivery,Shopee,4.5,0,35,Delivered
+BAK-00146,Vanilla Extract 60ml,Baking Ingredients,1,93.38,93.38,2026-10-13,CUST-0093,Cash on Delivery,Standard Delivery,Lazada,3.8,0,65,Delivered
+BAK-00146,Cake Turntable Rotating Stand,Decorating Supplies,1,297.1,297.1,2026-10-13,CUST-0093,Cash on Delivery,Standard Delivery,Lazada,3.6,0,65,Delivered
+BAK-00146,Cocoa Powder 250g,Baking Ingredients,1,151.78,151.78,2026-10-13,CUST-0093,Cash on Delivery,Standard Delivery,Lazada,4.0,0,65,Delivered
+BAK-00147,Cooling Rack 2-Tier,Bakeware,1,180.88,180.88,2026-02-06,CUST-0242,Maya,Same-Day Delivery,Shopee,4.8,10,55,Shipped
+BAK-00147,White Sugar 1kg,Baking Ingredients,1,85.89,85.89,2026-02-06,CUST-0242,Maya,Same-Day Delivery,Shopee,4.1,10,55,Shipped
+BAK-00147,Brown Sugar 1kg,Baking Ingredients,1,101.45,101.45,2026-02-06,CUST-0242,Maya,Same-Day Delivery,Shopee,4.2,10,55,Shipped
+BAK-00147,Condensed Milk 390g,Baking Ingredients,1,70.93,70.93,2026-02-06,CUST-0242,Maya,Same-Day Delivery,Shopee,4.7,10,55,Shipped
+BAK-00148,Maya Cake Flour 1kg,Baking Ingredients,1,77.44,77.44,2026-10-23,CUST-0082,Debit/Credit Card,Standard Delivery,Shopee,4.1,30,45,Delivered
+BAK-00148,All-Purpose Cream 250ml,Baking Ingredients,1,70.27,70.27,2026-10-23,CUST-0082,Debit/Credit Card,Standard Delivery,Shopee,4.1,30,45,Delivered
+BAK-00148,Vanilla Extract 60ml,Baking Ingredients,1,88.28,88.28,2026-10-23,CUST-0082,Debit/Credit Card,Standard Delivery,Shopee,4.7,30,45,Delivered
+BAK-00149,Vanilla Extract 60ml,Baking Ingredients,1,87.91,87.91,2026-06-09,CUST-0067,GCash,Express Delivery,Lazada,4.6,50,0,Delivered
+BAK-00149,Offset Icing Spatula 8-inch,Baking Tools,1,94.42,94.42,2026-06-09,CUST-0067,GCash,Express Delivery,Lazada,4.8,50,0,Delivered
+BAK-00150,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,87.83,87.83,2026-04-19,CUST-0012,Maya,Standard Delivery,Lazada,4.7,50,0,Delivered
+BAK-00150,Silicone Spatula Set 3pcs,Baking Tools,1,132.51,132.51,2026-04-19,CUST-0012,Maya,Standard Delivery,Lazada,3.6,50,0,Delivered
+BAK-00150,Dough Scraper Stainless Steel,Baking Tools,1,73.05,73.05,2026-04-19,CUST-0012,Maya,Standard Delivery,Lazada,3.6,50,0,Delivered
+BAK-00150,Vanilla Extract 60ml,Baking Ingredients,1,89.69,89.69,2026-04-19,CUST-0012,Maya,Standard Delivery,Lazada,3.7,50,0,Delivered
+BAK-00150,All-Purpose Cream 250ml,Baking Ingredients,1,74.97,74.97,2026-04-19,CUST-0012,Maya,Standard Delivery,Lazada,3.8,50,0,Delivered
+BAK-00151,White Sugar 1kg,Baking Ingredients,1,93.11,93.11,2026-09-19,CUST-0061,Cash on Delivery,Standard Delivery,Shopee,5.0,20,0,Delivered
+BAK-00151,Baking Powder 100g,Baking Ingredients,1,42.14,42.14,2026-09-19,CUST-0061,Cash on Delivery,Standard Delivery,Shopee,3.7,20,0,Delivered
+BAK-00151,Unsalted Butter 225g,Baking Ingredients,1,176.28,176.28,2026-09-19,CUST-0061,Cash on Delivery,Standard Delivery,Shopee,4.5,20,0,Delivered
+BAK-00151,Offset Icing Spatula 8-inch,Baking Tools,1,93.15,93.15,2026-09-19,CUST-0061,Cash on Delivery,Standard Delivery,Shopee,3.5,20,0,Delivered
+BAK-00152,Muffin Cupcake Tray 12-Cavity,Bakeware,1,227.11,227.11,2026-09-10,CUST-0077,GCash,Same-Day Delivery,Shopee,5.0,0,35,Delivered
+BAK-00153,Unsalted Butter 225g,Baking Ingredients,1,159.72,159.72,2026-05-29,CUST-0185,Cash on Delivery,Express Delivery,Shopee,4.5,50,0,Delivered
+BAK-00153,Condensed Milk 390g,Baking Ingredients,1,72.51,72.51,2026-05-29,CUST-0185,Cash on Delivery,Express Delivery,Shopee,4.9,50,0,Delivered
+BAK-00154,Silicone Spatula Set 3pcs,Baking Tools,1,134.22,134.22,2026-07-24,CUST-0234,Cash on Delivery,Express Delivery,Lazada,3.6,30,0,Shipped
+BAK-00154,Stainless Steel Mixing Bowl 3pcs,Baking Tools,2,241.71,483.42,2026-07-24,CUST-0234,Cash on Delivery,Express Delivery,Lazada,4.1,30,0,Shipped
+BAK-00155,Disposable Piping Bags 100pcs,Decorating Supplies,1,114.58,114.58,2026-09-05,CUST-0250,GCash,Express Delivery,Lazada,4.5,0,65,Delivered
+BAK-00155,Cake Box 8x8-inch 10pcs,Packaging,1,123.0,123.0,2026-09-05,CUST-0250,GCash,Express Delivery,Lazada,4.3,0,65,Delivered
+BAK-00155,Cocoa Powder 250g,Baking Ingredients,3,150.38,451.14,2026-09-05,CUST-0250,GCash,Express Delivery,Lazada,4.0,0,65,Delivered
+BAK-00156,Unsalted Butter 225g,Baking Ingredients,1,167.3,167.3,2026-01-28,CUST-0006,Maya,Same-Day Delivery,Lazada,3.9,50,0,Shipped
+BAK-00156,Stainless Steel Mixing Bowl 3pcs,Baking Tools,3,238.18,714.54,2026-01-28,CUST-0006,Maya,Same-Day Delivery,Lazada,3.8,50,0,Shipped
+BAK-00156,Electric Hand Mixer 5-Speed,Baking Equipment,1,650.57,650.57,2026-01-28,CUST-0006,Maya,Same-Day Delivery,Lazada,3.9,50,0,Shipped
+BAK-00157,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,188.16,188.16,2026-01-10,CUST-0053,Debit/Credit Card,Express Delivery,Shopee,4.5,0,0,Delivered
+BAK-00157,White Sugar 1kg,Baking Ingredients,2,90.03,180.06,2026-01-10,CUST-0053,Debit/Credit Card,Express Delivery,Shopee,4.5,0,0,Delivered
+BAK-00157,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,134.23,134.23,2026-01-10,CUST-0053,Debit/Credit Card,Express Delivery,Shopee,4.7,0,0,Delivered
+BAK-00158,Cake Box 8x8-inch 10pcs,Packaging,1,127.99,127.99,2026-01-02,CUST-0175,Cash on Delivery,Same-Day Delivery,Lazada,4.2,0,65,Delivered
+BAK-00158,Gel Food Coloring Set 6 Colors,Decorating Supplies,2,197.79,395.58,2026-01-02,CUST-0175,Cash on Delivery,Same-Day Delivery,Lazada,4.1,0,65,Delivered
+BAK-00158,White Sugar 1kg,Baking Ingredients,1,85.84,85.84,2026-01-02,CUST-0175,Cash on Delivery,Same-Day Delivery,Lazada,3.7,0,65,Delivered
+BAK-00158,Chocolate Chips 200g,Baking Ingredients,2,132.03,264.06,2026-01-02,CUST-0175,Cash on Delivery,Same-Day Delivery,Lazada,4.7,0,65,Delivered
+BAK-00159,Dough Scraper Stainless Steel,Baking Tools,1,70.51,70.51,2026-03-05,CUST-0231,Debit/Credit Card,Same-Day Delivery,Shopee,4.1,0,55,Cancelled
+BAK-00159,Cooling Rack 2-Tier,Bakeware,1,202.26,202.26,2026-03-05,CUST-0231,Debit/Credit Card,Same-Day Delivery,Shopee,4.7,0,55,Cancelled
+BAK-00160,Vanilla Extract 60ml,Baking Ingredients,1,92.65,92.65,2026-05-08,CUST-0141,Debit/Credit Card,Express Delivery,Lazada,4.6,0,0,Delivered
+BAK-00160,Cake Turntable Rotating Stand,Decorating Supplies,1,311.32,311.32,2026-05-08,CUST-0141,Debit/Credit Card,Express Delivery,Lazada,4.8,0,0,Delivered
+BAK-00160,Cream Cheese 225g,Baking Ingredients,1,166.1,166.1,2026-05-08,CUST-0141,Debit/Credit Card,Express Delivery,Lazada,4.4,0,0,Delivered
+BAK-00160,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,194.89,194.89,2026-05-08,CUST-0141,Debit/Credit Card,Express Delivery,Lazada,3.9,0,0,Delivered
+BAK-00160,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,140.05,140.05,2026-05-08,CUST-0141,Debit/Credit Card,Express Delivery,Lazada,5.0,0,0,Delivered
+BAK-00161,Cream Cheese 225g,Baking Ingredients,1,160.76,160.76,2026-10-20,CUST-0214,Cash on Delivery,Express Delivery,Shopee,3.8,0,45,Delivered
+BAK-00161,Cake Turntable Rotating Stand,Decorating Supplies,1,290.31,290.31,2026-10-20,CUST-0214,Cash on Delivery,Express Delivery,Shopee,3.9,0,45,Delivered
+BAK-00161,Baking Powder 100g,Baking Ingredients,1,44.48,44.48,2026-10-20,CUST-0214,Cash on Delivery,Express Delivery,Shopee,4.5,0,45,Delivered
+BAK-00162,Round Cake Pan 8-inch,Bakeware,1,145.04,145.04,2026-04-25,CUST-0200,Maya,Same-Day Delivery,Lazada,5.0,0,45,Delivered
+BAK-00162,Parchment Baking Paper Roll,Bakeware,1,101.16,101.16,2026-04-25,CUST-0200,Maya,Same-Day Delivery,Lazada,3.5,0,45,Delivered
+BAK-00163,Cake Turntable Rotating Stand,Decorating Supplies,1,290.81,290.81,2026-07-08,CUST-0101,Maya,Express Delivery,Lazada,4.3,30,0,Delivered
+BAK-00163,Instant Dry Yeast 100g,Baking Ingredients,1,78.45,78.45,2026-07-08,CUST-0101,Maya,Express Delivery,Lazada,4.3,30,0,Delivered
+BAK-00164,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,2,173.1,346.2,2026-01-21,CUST-0079,Cash on Delivery,Same-Day Delivery,Shopee,4.7,30,55,Delivered
+BAK-00164,Chocolate Chips 200g,Baking Ingredients,1,129.53,129.53,2026-01-21,CUST-0079,Cash on Delivery,Same-Day Delivery,Shopee,4.6,30,55,Delivered
+BAK-00165,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,2,180.32,360.64,2026-06-28,CUST-0114,Maya,Same-Day Delivery,Lazada,4.2,0,0,Delivered
+BAK-00165,White Sugar 1kg,Baking Ingredients,1,92.2,92.2,2026-06-28,CUST-0114,Maya,Same-Day Delivery,Lazada,4.5,0,0,Delivered
+BAK-00165,Instant Dry Yeast 100g,Baking Ingredients,1,77.61,77.61,2026-06-28,CUST-0114,Maya,Same-Day Delivery,Lazada,3.9,0,0,Delivered
+BAK-00166,Maya Cake Flour 1kg,Baking Ingredients,1,71.17,71.17,2026-07-17,CUST-0132,Cash on Delivery,Standard Delivery,Lazada,4.5,20,45,Delivered
+BAK-00166,Stainless Steel Balloon Whisk,Baking Tools,1,75.9,75.9,2026-07-17,CUST-0132,Cash on Delivery,Standard Delivery,Lazada,3.6,20,45,Delivered
+BAK-00166,White Sugar 1kg,Baking Ingredients,3,92.45,277.35,2026-07-17,CUST-0132,Cash on Delivery,Standard Delivery,Lazada,4.3,20,45,Delivered
+BAK-00167,Baking Powder 100g,Baking Ingredients,1,40.3,40.3,2026-04-16,CUST-0223,GCash,Same-Day Delivery,Shopee,3.8,30,35,Delivered
+BAK-00167,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,238.83,238.83,2026-04-16,CUST-0223,GCash,Same-Day Delivery,Shopee,4.7,30,35,Delivered
+BAK-00167,White Sugar 1kg,Baking Ingredients,2,88.26,176.52,2026-04-16,CUST-0223,GCash,Same-Day Delivery,Shopee,4.2,30,35,Delivered
+BAK-00168,White Sugar 1kg,Baking Ingredients,1,86.82,86.82,2026-01-24,CUST-0038,Cash on Delivery,Same-Day Delivery,Shopee,4.9,30,35,Delivered
+BAK-00168,Cooling Rack 2-Tier,Bakeware,1,199.75,199.75,2026-01-24,CUST-0038,Cash on Delivery,Same-Day Delivery,Shopee,3.5,30,35,Delivered
+BAK-00168,Cake Turntable Rotating Stand,Decorating Supplies,1,292.6,292.6,2026-01-24,CUST-0038,Cash on Delivery,Same-Day Delivery,Shopee,4.6,30,35,Delivered
+BAK-00169,Maya Cake Flour 1kg,Baking Ingredients,1,77.26,77.26,2026-07-11,CUST-0006,Maya,Standard Delivery,Shopee,4.0,20,45,Delivered
+BAK-00169,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,144.11,144.11,2026-07-11,CUST-0006,Maya,Standard Delivery,Shopee,4.0,20,45,Delivered
+BAK-00169,Instant Dry Yeast 100g,Baking Ingredients,1,80.65,80.65,2026-07-11,CUST-0006,Maya,Standard Delivery,Shopee,4.3,20,45,Delivered
+BAK-00169,Cooling Rack 2-Tier,Bakeware,1,184.97,184.97,2026-07-11,CUST-0006,Maya,Standard Delivery,Shopee,4.8,20,45,Delivered
+BAK-00170,Cake Turntable Rotating Stand,Decorating Supplies,1,321.04,321.04,2026-10-09,CUST-0237,GCash,Express Delivery,Shopee,4.0,0,65,Delivered
+BAK-00170,Vanilla Extract 60ml,Baking Ingredients,1,87.26,87.26,2026-10-09,CUST-0237,GCash,Express Delivery,Shopee,3.9,0,65,Delivered
+BAK-00171,Muffin Cupcake Tray 12-Cavity,Bakeware,1,220.95,220.95,2026-06-18,CUST-0157,Maya,Same-Day Delivery,Lazada,3.8,10,0,Shipped
+BAK-00172,Stainless Steel Balloon Whisk,Baking Tools,2,77.07,154.14,2026-06-06,CUST-0250,GCash,Standard Delivery,Shopee,4.6,50,0,Shipped
+BAK-00172,Cocoa Powder 250g,Baking Ingredients,1,151.46,151.46,2026-06-06,CUST-0250,GCash,Standard Delivery,Shopee,4.8,50,0,Shipped
+BAK-00172,Cake Turntable Rotating Stand,Decorating Supplies,2,308.6,617.2,2026-06-06,CUST-0250,GCash,Standard Delivery,Shopee,4.7,50,0,Shipped
+BAK-00172,Bread Storage Bags 20pcs,Packaging,1,78.75,78.75,2026-06-06,CUST-0250,GCash,Standard Delivery,Shopee,3.8,50,0,Shipped
+BAK-00173,Cake Turntable Rotating Stand,Decorating Supplies,2,289.25,578.5,2026-08-30,CUST-0077,Cash on Delivery,Express Delivery,Shopee,4.3,20,65,Processing
+BAK-00174,Silicone Spatula Set 3pcs,Baking Tools,2,125.0,250.0,2026-03-26,CUST-0072,Debit/Credit Card,Standard Delivery,Shopee,4.6,20,65,Delivered
+BAK-00175,Round Cake Pan 8-inch,Bakeware,1,145.25,145.25,2026-07-04,CUST-0199,Debit/Credit Card,Express Delivery,Shopee,4.5,30,35,Delivered
+BAK-00175,Baking Powder 100g,Baking Ingredients,1,43.95,43.95,2026-07-04,CUST-0199,Debit/Credit Card,Express Delivery,Shopee,4.4,30,35,Delivered
+BAK-00175,Maya All-Purpose Flour 1kg,Baking Ingredients,1,57.94,57.94,2026-07-04,CUST-0199,Debit/Credit Card,Express Delivery,Shopee,4.1,30,35,Delivered
+BAK-00175,Parchment Baking Paper Roll,Bakeware,1,105.61,105.61,2026-07-04,CUST-0199,Debit/Credit Card,Express Delivery,Shopee,3.6,30,35,Delivered
+BAK-00175,Vanilla Extract 60ml,Baking Ingredients,1,95.8,95.8,2026-07-04,CUST-0199,Debit/Credit Card,Express Delivery,Shopee,3.8,30,35,Delivered
+BAK-00176,Round Cake Pan 8-inch,Bakeware,1,140.84,140.84,2026-08-14,CUST-0085,Maya,Standard Delivery,Lazada,3.7,0,0,Delivered
+BAK-00176,Nonstick Loaf Pan 9-inch,Bakeware,1,167.82,167.82,2026-08-14,CUST-0085,Maya,Standard Delivery,Lazada,4.6,0,0,Delivered
+BAK-00176,Vanilla Extract 60ml,Baking Ingredients,1,90.09,90.09,2026-08-14,CUST-0085,Maya,Standard Delivery,Lazada,3.8,0,0,Delivered
+BAK-00177,Maya All-Purpose Flour 1kg,Baking Ingredients,1,58.16,58.16,2026-03-24,CUST-0069,GCash,Same-Day Delivery,Shopee,5.0,0,0,Delivered
+BAK-00177,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,90.46,90.46,2026-03-24,CUST-0069,GCash,Same-Day Delivery,Shopee,4.6,0,0,Delivered
+BAK-00178,Nonstick Loaf Pan 9-inch,Bakeware,1,158.87,158.87,2026-09-19,CUST-0136,Maya,Same-Day Delivery,Lazada,3.7,20,55,Processing
+BAK-00178,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,121.14,121.14,2026-09-19,CUST-0136,Maya,Same-Day Delivery,Lazada,4.9,20,55,Processing
+BAK-00178,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,263.3,263.3,2026-09-19,CUST-0136,Maya,Same-Day Delivery,Lazada,4.4,20,55,Processing
+BAK-00178,Chocolate Chips 200g,Baking Ingredients,1,144.07,144.07,2026-09-19,CUST-0136,Maya,Same-Day Delivery,Lazada,4.4,20,55,Processing
+BAK-00179,Chocolate Chips 200g,Baking Ingredients,1,134.94,134.94,2026-08-09,CUST-0216,Cash on Delivery,Standard Delivery,Lazada,4.4,50,45,Delivered
+BAK-00179,Vanilla Extract 60ml,Baking Ingredients,1,93.36,93.36,2026-08-09,CUST-0216,Cash on Delivery,Standard Delivery,Lazada,4.5,50,45,Delivered
+BAK-00179,Maya All-Purpose Flour 1kg,Baking Ingredients,1,56.11,56.11,2026-08-09,CUST-0216,Cash on Delivery,Standard Delivery,Lazada,4.2,50,45,Delivered
+BAK-00179,Silicone Baking Mat,Bakeware,1,190.04,190.04,2026-08-09,CUST-0216,Cash on Delivery,Standard Delivery,Lazada,3.9,50,45,Delivered
+BAK-00180,Maya All-Purpose Flour 1kg,Baking Ingredients,1,61.55,61.55,2026-04-16,CUST-0162,Debit/Credit Card,Express Delivery,Shopee,4.1,30,55,Delivered
+BAK-00180,Brown Sugar 1kg,Baking Ingredients,1,93.65,93.65,2026-04-16,CUST-0162,Debit/Credit Card,Express Delivery,Shopee,4.5,30,55,Delivered
+BAK-00180,Nonstick Loaf Pan 9-inch,Bakeware,1,159.59,159.59,2026-04-16,CUST-0162,Debit/Credit Card,Express Delivery,Shopee,4.7,30,55,Delivered
+BAK-00180,Cream Cheese 225g,Baking Ingredients,1,154.71,154.71,2026-04-16,CUST-0162,Debit/Credit Card,Express Delivery,Shopee,4.3,30,55,Delivered
+BAK-00181,Disposable Piping Bags 100pcs,Decorating Supplies,1,115.95,115.95,2026-03-02,CUST-0118,Debit/Credit Card,Same-Day Delivery,Shopee,4.4,20,45,Delivered
+BAK-00181,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,129.16,129.16,2026-03-02,CUST-0118,Debit/Credit Card,Same-Day Delivery,Shopee,4.1,20,45,Delivered
+BAK-00182,Dough Scraper Stainless Steel,Baking Tools,1,68.12,68.12,2026-04-24,CUST-0190,GCash,Same-Day Delivery,Shopee,4.9,10,55,Delivered
+BAK-00182,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,261.59,261.59,2026-04-24,CUST-0190,GCash,Same-Day Delivery,Shopee,3.8,10,55,Delivered
+BAK-00182,Vanilla Extract 60ml,Baking Ingredients,1,84.67,84.67,2026-04-24,CUST-0190,GCash,Same-Day Delivery,Shopee,4.8,10,55,Delivered
+BAK-00183,Cake Box 8x8-inch 10pcs,Packaging,1,124.98,124.98,2026-02-14,CUST-0142,Debit/Credit Card,Express Delivery,Lazada,4.9,0,55,Delivered
+BAK-00183,Unsalted Butter 225g,Baking Ingredients,1,172.33,172.33,2026-02-14,CUST-0142,Debit/Credit Card,Express Delivery,Lazada,4.3,0,55,Delivered
+BAK-00183,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,134.35,134.35,2026-02-14,CUST-0142,Debit/Credit Card,Express Delivery,Lazada,4.7,0,55,Delivered
+BAK-00183,Chocolate Chips 200g,Baking Ingredients,1,145.15,145.15,2026-02-14,CUST-0142,Debit/Credit Card,Express Delivery,Lazada,4.2,0,55,Delivered
+BAK-00183,Dough Scraper Stainless Steel,Baking Tools,1,65.59,65.59,2026-02-14,CUST-0142,Debit/Credit Card,Express Delivery,Lazada,3.8,0,55,Delivered
+BAK-00184,Silicone Spatula Set 3pcs,Baking Tools,2,130.24,260.48,2026-05-12,CUST-0129,Debit/Credit Card,Express Delivery,Lazada,4.2,50,35,Delivered
+BAK-00184,White Sugar 1kg,Baking Ingredients,1,83.91,83.91,2026-05-12,CUST-0129,Debit/Credit Card,Express Delivery,Lazada,3.7,50,35,Delivered
+BAK-00184,Stand Mixer 5L Stainless Bowl,Baking Equipment,1,3612.28,3612.28,2026-05-12,CUST-0129,Debit/Credit Card,Express Delivery,Lazada,5.0,50,35,Delivered
+BAK-00185,All-Purpose Cream 250ml,Baking Ingredients,1,70.45,70.45,2026-05-08,CUST-0148,GCash,Express Delivery,Lazada,4.4,0,45,Delivered
+BAK-00185,Stainless Steel Balloon Whisk,Baking Tools,1,82.71,82.71,2026-05-08,CUST-0148,GCash,Express Delivery,Lazada,4.9,0,45,Delivered
+BAK-00185,Maya All-Purpose Flour 1kg,Baking Ingredients,1,60.66,60.66,2026-05-08,CUST-0148,GCash,Express Delivery,Lazada,3.9,0,45,Delivered
+BAK-00185,Instant Dry Yeast 100g,Baking Ingredients,1,76.79,76.79,2026-05-08,CUST-0148,GCash,Express Delivery,Lazada,3.8,0,45,Delivered
+BAK-00186,White Sugar 1kg,Baking Ingredients,1,94.86,94.86,2026-01-22,CUST-0247,Cash on Delivery,Same-Day Delivery,Lazada,4.9,20,35,Delivered
+BAK-00186,Round Cake Pan 8-inch,Bakeware,1,132.15,132.15,2026-01-22,CUST-0247,Cash on Delivery,Same-Day Delivery,Lazada,4.4,20,35,Delivered
+BAK-00186,Digital Kitchen Scale 10kg,Baking Equipment,1,315.12,315.12,2026-01-22,CUST-0247,Cash on Delivery,Same-Day Delivery,Lazada,4.2,20,35,Delivered
+BAK-00186,Unsalted Butter 225g,Baking Ingredients,1,167.53,167.53,2026-01-22,CUST-0247,Cash on Delivery,Same-Day Delivery,Lazada,4.1,20,35,Delivered
+BAK-00187,White Sugar 1kg,Baking Ingredients,1,94.57,94.57,2026-07-14,CUST-0052,Cash on Delivery,Express Delivery,Lazada,4.0,0,0,Delivered
+BAK-00187,Disposable Piping Bags 100pcs,Decorating Supplies,1,110.56,110.56,2026-07-14,CUST-0052,Cash on Delivery,Express Delivery,Lazada,4.1,0,0,Delivered
+BAK-00187,Maya Cake Flour 1kg,Baking Ingredients,1,71.82,71.82,2026-07-14,CUST-0052,Cash on Delivery,Express Delivery,Lazada,4.1,0,0,Delivered
+BAK-00187,Baking Powder 100g,Baking Ingredients,1,43.02,43.02,2026-07-14,CUST-0052,Cash on Delivery,Express Delivery,Lazada,5.0,0,0,Delivered
+BAK-00188,Unsalted Butter 225g,Baking Ingredients,1,168.93,168.93,2026-04-01,CUST-0216,Debit/Credit Card,Standard Delivery,Lazada,4.1,0,35,Shipped
+BAK-00188,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,238.49,238.49,2026-04-01,CUST-0216,Debit/Credit Card,Standard Delivery,Lazada,4.7,0,35,Shipped
+BAK-00188,Chocolate Chips 200g,Baking Ingredients,1,139.3,139.3,2026-04-01,CUST-0216,Debit/Credit Card,Standard Delivery,Lazada,4.2,0,35,Shipped
+BAK-00188,Maya All-Purpose Flour 1kg,Baking Ingredients,1,57.82,57.82,2026-04-01,CUST-0216,Debit/Credit Card,Standard Delivery,Lazada,4.3,0,35,Shipped
+BAK-00189,Disposable Piping Bags 100pcs,Decorating Supplies,1,108.6,108.6,2026-03-31,CUST-0146,Cash on Delivery,Express Delivery,Lazada,4.4,10,0,Delivered
+BAK-00189,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,131.19,131.19,2026-03-31,CUST-0146,Cash on Delivery,Express Delivery,Lazada,4.7,10,0,Delivered
+BAK-00189,Maya Cake Flour 1kg,Baking Ingredients,1,74.31,74.31,2026-03-31,CUST-0146,Cash on Delivery,Express Delivery,Lazada,4.4,10,0,Delivered
+BAK-00189,Cake Box 8x8-inch 10pcs,Packaging,2,115.11,230.22,2026-03-31,CUST-0146,Cash on Delivery,Express Delivery,Lazada,3.7,10,0,Delivered
+BAK-00189,Cake Turntable Rotating Stand,Decorating Supplies,1,296.37,296.37,2026-03-31,CUST-0146,Cash on Delivery,Express Delivery,Lazada,3.9,10,0,Delivered
+BAK-00190,Muffin Cupcake Tray 12-Cavity,Bakeware,1,221.11,221.11,2026-07-05,CUST-0231,Debit/Credit Card,Standard Delivery,Shopee,4.6,0,65,Shipped
+BAK-00190,Measuring Cups and Spoons Set,Baking Tools,1,141.72,141.72,2026-07-05,CUST-0231,Debit/Credit Card,Standard Delivery,Shopee,4.1,0,65,Shipped
+BAK-00191,Maya All-Purpose Flour 1kg,Baking Ingredients,1,60.66,60.66,2026-07-23,CUST-0043,GCash,Express Delivery,Shopee,4.2,10,35,Delivered
+BAK-00192,Cream Cheese 225g,Baking Ingredients,1,159.16,159.16,2026-06-16,CUST-0244,Debit/Credit Card,Same-Day Delivery,Lazada,4.2,0,65,Delivered
+BAK-00192,Nonstick Loaf Pan 9-inch,Bakeware,1,169.18,169.18,2026-06-16,CUST-0244,Debit/Credit Card,Same-Day Delivery,Lazada,4.2,0,65,Delivered
+BAK-00193,Maya All-Purpose Flour 1kg,Baking Ingredients,1,60.82,60.82,2026-08-15,CUST-0158,Cash on Delivery,Express Delivery,Lazada,3.7,0,0,Delivered
+BAK-00193,Unsalted Butter 225g,Baking Ingredients,1,168.23,168.23,2026-08-15,CUST-0158,Cash on Delivery,Express Delivery,Lazada,4.5,0,0,Delivered
+BAK-00193,Offset Icing Spatula 8-inch,Baking Tools,1,99.58,99.58,2026-08-15,CUST-0158,Cash on Delivery,Express Delivery,Lazada,3.9,0,0,Delivered
+BAK-00194,Maya All-Purpose Flour 1kg,Baking Ingredients,1,61.13,61.13,2026-03-25,CUST-0200,Debit/Credit Card,Standard Delivery,Lazada,4.4,30,0,Delivered
+BAK-00194,Unsalted Butter 225g,Baking Ingredients,1,162.58,162.58,2026-03-25,CUST-0200,Debit/Credit Card,Standard Delivery,Lazada,4.5,30,0,Delivered
+BAK-00194,Cake Turntable Rotating Stand,Decorating Supplies,1,294.5,294.5,2026-03-25,CUST-0200,Debit/Credit Card,Standard Delivery,Lazada,3.8,30,0,Delivered
+BAK-00194,Vanilla Extract 60ml,Baking Ingredients,1,86.13,86.13,2026-03-25,CUST-0200,Debit/Credit Card,Standard Delivery,Lazada,3.7,30,0,Delivered
+BAK-00195,Cake Box 8x8-inch 10pcs,Packaging,1,117.63,117.63,2026-10-01,CUST-0012,Maya,Standard Delivery,Lazada,3.7,30,45,Delivered
+BAK-00195,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,187.95,187.95,2026-10-01,CUST-0012,Maya,Standard Delivery,Lazada,4.0,30,45,Delivered
+BAK-00195,Maya All-Purpose Flour 1kg,Baking Ingredients,1,62.62,62.62,2026-10-01,CUST-0012,Maya,Standard Delivery,Lazada,4.2,30,45,Delivered
+BAK-00196,Vanilla Extract 60ml,Baking Ingredients,1,84.94,84.94,2026-07-15,CUST-0007,GCash,Same-Day Delivery,Shopee,4.2,10,0,Delivered
+BAK-00196,Dough Scraper Stainless Steel,Baking Tools,1,70.22,70.22,2026-07-15,CUST-0007,GCash,Same-Day Delivery,Shopee,5.0,10,0,Delivered
+BAK-00196,Round Cake Pan 8-inch,Bakeware,1,140.21,140.21,2026-07-15,CUST-0007,GCash,Same-Day Delivery,Shopee,4.0,10,0,Delivered
+BAK-00196,Measuring Cups and Spoons Set,Baking Tools,1,149.61,149.61,2026-07-15,CUST-0007,GCash,Same-Day Delivery,Shopee,3.6,10,0,Delivered
+BAK-00197,Vanilla Extract 60ml,Baking Ingredients,2,91.27,182.54,2026-06-16,CUST-0008,Maya,Express Delivery,Shopee,4.5,0,0,Delivered
+BAK-00197,Maya All-Purpose Flour 1kg,Baking Ingredients,1,56.27,56.27,2026-06-16,CUST-0008,Maya,Express Delivery,Shopee,4.7,0,0,Delivered
+BAK-00197,Round Cake Pan 8-inch,Bakeware,1,137.02,137.02,2026-06-16,CUST-0008,Maya,Express Delivery,Shopee,4.5,0,0,Delivered
+BAK-00197,Cocoa Powder 250g,Baking Ingredients,1,156.03,156.03,2026-06-16,CUST-0008,Maya,Express Delivery,Shopee,4.6,0,0,Delivered
+BAK-00197,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,248.06,248.06,2026-06-16,CUST-0008,Maya,Express Delivery,Shopee,3.7,0,0,Delivered
+BAK-00198,Unsalted Butter 225g,Baking Ingredients,2,167.16,334.32,2026-06-27,CUST-0225,Maya,Standard Delivery,Lazada,4.2,0,35,Delivered
+BAK-00198,Electric Hand Mixer 5-Speed,Baking Equipment,1,675.36,675.36,2026-06-27,CUST-0225,Maya,Standard Delivery,Lazada,3.8,0,35,Delivered
+BAK-00198,Chocolate Chips 200g,Baking Ingredients,1,134.35,134.35,2026-06-27,CUST-0225,Maya,Standard Delivery,Lazada,4.6,0,35,Delivered
+BAK-00199,Vanilla Extract 60ml,Baking Ingredients,2,93.53,187.06,2026-10-05,CUST-0188,Debit/Credit Card,Standard Delivery,Lazada,3.9,0,55,Delivered
+BAK-00199,All-Purpose Cream 250ml,Baking Ingredients,1,74.56,74.56,2026-10-05,CUST-0188,Debit/Credit Card,Standard Delivery,Lazada,4.3,0,55,Delivered
+BAK-00200,Cocoa Powder 250g,Baking Ingredients,1,141.36,141.36,2026-02-26,CUST-0050,GCash,Standard Delivery,Shopee,3.5,0,0,Delivered
+BAK-00200,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,189.1,189.1,2026-02-26,CUST-0050,GCash,Standard Delivery,Shopee,4.2,0,0,Delivered
+BAK-00200,Muffin Cupcake Tray 12-Cavity,Bakeware,1,231.02,231.02,2026-02-26,CUST-0050,GCash,Standard Delivery,Shopee,3.6,0,0,Delivered
+BAK-00201,Unsalted Butter 225g,Baking Ingredients,1,169.98,169.98,2026-08-28,CUST-0032,Cash on Delivery,Same-Day Delivery,Lazada,4.3,50,65,Shipped
+BAK-00201,Cocoa Powder 250g,Baking Ingredients,1,153.48,153.48,2026-08-28,CUST-0032,Cash on Delivery,Same-Day Delivery,Lazada,3.6,50,65,Shipped
+BAK-00202,Unsalted Butter 225g,Baking Ingredients,1,171.22,171.22,2026-04-09,CUST-0128,Maya,Same-Day Delivery,Lazada,4.6,50,65,Delivered
+BAK-00202,Cream Cheese 225g,Baking Ingredients,1,149.35,149.35,2026-04-09,CUST-0128,Maya,Same-Day Delivery,Lazada,4.7,50,65,Delivered
+BAK-00203,Digital Kitchen Scale 10kg,Baking Equipment,1,305.26,305.26,2026-06-11,CUST-0167,Cash on Delivery,Express Delivery,Lazada,4.1,0,55,Shipped
+BAK-00203,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,88.98,88.98,2026-06-11,CUST-0167,Cash on Delivery,Express Delivery,Lazada,4.0,0,55,Shipped
+BAK-00203,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,267.62,267.62,2026-06-11,CUST-0167,Cash on Delivery,Express Delivery,Lazada,3.5,0,55,Shipped
+BAK-00204,Cake Turntable Rotating Stand,Decorating Supplies,1,320.72,320.72,2026-03-11,CUST-0155,GCash,Express Delivery,Shopee,4.7,0,0,Delivered
+BAK-00205,Disposable Piping Bags 100pcs,Decorating Supplies,1,116.31,116.31,2026-02-17,CUST-0205,Maya,Same-Day Delivery,Shopee,4.5,50,45,Delivered
+BAK-00205,Vanilla Extract 60ml,Baking Ingredients,1,95.05,95.05,2026-02-17,CUST-0205,Maya,Same-Day Delivery,Shopee,4.4,50,45,Delivered
+BAK-00205,Cake Turntable Rotating Stand,Decorating Supplies,1,312.46,312.46,2026-02-17,CUST-0205,Maya,Same-Day Delivery,Shopee,4.4,50,45,Delivered
+BAK-00205,All-Purpose Cream 250ml,Baking Ingredients,1,68.92,68.92,2026-02-17,CUST-0205,Maya,Same-Day Delivery,Shopee,4.7,50,45,Delivered
+BAK-00205,Cocoa Powder 250g,Baking Ingredients,1,153.15,153.15,2026-02-17,CUST-0205,Maya,Same-Day Delivery,Shopee,4.1,50,45,Delivered
+BAK-00206,Maya All-Purpose Flour 1kg,Baking Ingredients,3,62.42,187.26,2026-10-17,CUST-0077,Cash on Delivery,Same-Day Delivery,Shopee,4.6,30,65,Delivered
+BAK-00206,Measuring Cups and Spoons Set,Baking Tools,1,139.45,139.45,2026-10-17,CUST-0077,Cash on Delivery,Same-Day Delivery,Shopee,4.1,30,65,Delivered
+BAK-00206,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,115.34,115.34,2026-10-17,CUST-0077,Cash on Delivery,Same-Day Delivery,Shopee,4.0,30,65,Delivered
+BAK-00206,Condensed Milk 390g,Baking Ingredients,1,71.19,71.19,2026-10-17,CUST-0077,Cash on Delivery,Same-Day Delivery,Shopee,4.3,30,65,Delivered
+BAK-00207,Baking Powder 100g,Baking Ingredients,1,40.29,40.29,2026-10-14,CUST-0102,Debit/Credit Card,Express Delivery,Shopee,4.7,30,55,Delivered
+BAK-00207,Muffin Cupcake Tray 12-Cavity,Bakeware,1,240.78,240.78,2026-10-14,CUST-0102,Debit/Credit Card,Express Delivery,Shopee,3.6,30,55,Delivered
+BAK-00208,All-Purpose Cream 250ml,Baking Ingredients,1,76.38,76.38,2026-08-15,CUST-0075,Debit/Credit Card,Standard Delivery,Shopee,3.7,0,0,Delivered
+BAK-00208,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,91.24,91.24,2026-08-15,CUST-0075,Debit/Credit Card,Standard Delivery,Shopee,4.9,0,0,Delivered
+BAK-00208,Condensed Milk 390g,Baking Ingredients,2,71.85,143.7,2026-08-15,CUST-0075,Debit/Credit Card,Standard Delivery,Shopee,3.5,0,0,Delivered
+BAK-00208,Stainless Steel Balloon Whisk,Baking Tools,1,76.19,76.19,2026-08-15,CUST-0075,Debit/Credit Card,Standard Delivery,Shopee,4.2,0,0,Delivered
+BAK-00209,Baking Powder 100g,Baking Ingredients,1,44.85,44.85,2026-04-15,CUST-0133,Debit/Credit Card,Same-Day Delivery,Shopee,4.3,30,0,Delivered
+BAK-00210,Baking Powder 100g,Baking Ingredients,2,43.45,86.9,2026-02-04,CUST-0199,Cash on Delivery,Same-Day Delivery,Lazada,3.8,0,35,Shipped
+BAK-00210,Maya All-Purpose Flour 1kg,Baking Ingredients,1,62.46,62.46,2026-02-04,CUST-0199,Cash on Delivery,Same-Day Delivery,Lazada,3.6,0,35,Shipped
+BAK-00211,Electric Hand Mixer 5-Speed,Baking Equipment,1,645.81,645.81,2026-10-15,CUST-0012,GCash,Standard Delivery,Lazada,4.0,10,65,Delivered
+BAK-00211,Brown Sugar 1kg,Baking Ingredients,1,93.17,93.17,2026-10-15,CUST-0012,GCash,Standard Delivery,Lazada,5.0,10,65,Delivered
+BAK-00212,Measuring Cups and Spoons Set,Baking Tools,1,144.95,144.95,2026-01-16,CUST-0144,Maya,Standard Delivery,Lazada,4.9,30,0,Processing
+BAK-00212,Cake Box 8x8-inch 10pcs,Packaging,1,123.76,123.76,2026-01-16,CUST-0144,Maya,Standard Delivery,Lazada,3.8,30,0,Processing
+BAK-00212,Digital Food Thermometer,Baking Equipment,1,193.0,193.0,2026-01-16,CUST-0144,Maya,Standard Delivery,Lazada,5.0,30,0,Processing
+BAK-00213,Vanilla Extract 60ml,Baking Ingredients,2,85.92,171.84,2026-03-11,CUST-0221,Maya,Same-Day Delivery,Shopee,4.0,20,55,Delivered
+BAK-00213,Silicone Spatula Set 3pcs,Baking Tools,2,134.74,269.48,2026-03-11,CUST-0221,Maya,Same-Day Delivery,Shopee,4.6,20,55,Delivered
+BAK-00213,Baking Powder 100g,Baking Ingredients,2,42.16,84.32,2026-03-11,CUST-0221,Maya,Same-Day Delivery,Shopee,4.1,20,55,Delivered
+BAK-00213,Digital Kitchen Scale 10kg,Baking Equipment,1,320.35,320.35,2026-03-11,CUST-0221,Maya,Same-Day Delivery,Shopee,4.8,20,55,Delivered
+BAK-00213,Round Cake Pan 8-inch,Bakeware,2,133.06,266.12,2026-03-11,CUST-0221,Maya,Same-Day Delivery,Shopee,4.7,20,55,Delivered
+BAK-00214,Cake Turntable Rotating Stand,Decorating Supplies,1,316.94,316.94,2026-05-17,CUST-0119,Maya,Standard Delivery,Shopee,4.2,30,45,Delivered
+BAK-00215,Electric Hand Mixer 5-Speed,Baking Equipment,1,622.13,622.13,2026-01-17,CUST-0210,GCash,Express Delivery,Lazada,4.9,30,0,Delivered
+BAK-00215,Vanilla Extract 60ml,Baking Ingredients,3,94.58,283.74,2026-01-17,CUST-0210,GCash,Express Delivery,Lazada,4.2,30,0,Delivered
+BAK-00215,Baking Powder 100g,Baking Ingredients,1,42.4,42.4,2026-01-17,CUST-0210,GCash,Express Delivery,Lazada,3.9,30,0,Delivered
+BAK-00216,Measuring Cups and Spoons Set,Baking Tools,1,145.21,145.21,2026-09-26,CUST-0020,GCash,Express Delivery,Lazada,4.6,0,0,Shipped
+BAK-00216,Parchment Baking Paper Roll,Bakeware,1,100.69,100.69,2026-09-26,CUST-0020,GCash,Express Delivery,Lazada,4.4,0,0,Shipped
+BAK-00216,Stainless Steel Balloon Whisk,Baking Tools,1,78.04,78.04,2026-09-26,CUST-0020,GCash,Express Delivery,Lazada,4.1,0,0,Shipped
+BAK-00217,Disposable Piping Bags 100pcs,Decorating Supplies,1,112.87,112.87,2026-09-22,CUST-0073,Debit/Credit Card,Same-Day Delivery,Lazada,4.8,20,0,Delivered
+BAK-00217,Maya All-Purpose Flour 1kg,Baking Ingredients,1,58.06,58.06,2026-09-22,CUST-0073,Debit/Credit Card,Same-Day Delivery,Lazada,4.0,20,0,Delivered
+BAK-00218,Chocolate Chips 200g,Baking Ingredients,1,136.14,136.14,2026-08-21,CUST-0047,Cash on Delivery,Express Delivery,Shopee,4.0,0,0,Delivered
+BAK-00219,Silicone Baking Mat,Bakeware,1,171.24,171.24,2026-01-23,CUST-0088,Cash on Delivery,Same-Day Delivery,Shopee,4.0,0,0,Delivered
+BAK-00219,Baking Powder 100g,Baking Ingredients,1,45.15,45.15,2026-01-23,CUST-0088,Cash on Delivery,Same-Day Delivery,Shopee,3.9,0,0,Delivered
+BAK-00219,Nonstick Loaf Pan 9-inch,Bakeware,1,169.62,169.62,2026-01-23,CUST-0088,Cash on Delivery,Same-Day Delivery,Shopee,4.9,0,0,Delivered
+BAK-00220,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,168.06,168.06,2026-09-13,CUST-0003,Debit/Credit Card,Standard Delivery,Shopee,4.4,10,45,Delivered
+BAK-00221,Cake Turntable Rotating Stand,Decorating Supplies,2,309.98,619.96,2026-04-17,CUST-0026,Maya,Standard Delivery,Shopee,4.8,0,0,Delivered
+BAK-00221,Silicone Spatula Set 3pcs,Baking Tools,1,137.98,137.98,2026-04-17,CUST-0026,Maya,Standard Delivery,Shopee,3.6,0,0,Delivered
+BAK-00222,All-Purpose Cream 250ml,Baking Ingredients,2,76.08,152.16,2026-04-01,CUST-0234,Cash on Delivery,Standard Delivery,Shopee,4.6,0,35,Delivered
+BAK-00222,Cake Turntable Rotating Stand,Decorating Supplies,2,286.57,573.14,2026-04-01,CUST-0234,Cash on Delivery,Standard Delivery,Shopee,4.2,0,35,Delivered
+BAK-00222,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,185.8,185.8,2026-04-01,CUST-0234,Cash on Delivery,Standard Delivery,Shopee,4.0,0,35,Delivered
+BAK-00223,Maya All-Purpose Flour 1kg,Baking Ingredients,1,56.08,56.08,2026-09-05,CUST-0148,Debit/Credit Card,Same-Day Delivery,Lazada,4.3,20,55,Delivered
+BAK-00223,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,122.82,122.82,2026-09-05,CUST-0148,Debit/Credit Card,Same-Day Delivery,Lazada,4.2,20,55,Delivered
+BAK-00223,Vanilla Extract 60ml,Baking Ingredients,1,91.6,91.6,2026-09-05,CUST-0148,Debit/Credit Card,Same-Day Delivery,Lazada,4.6,20,55,Delivered
+BAK-00224,Round Cake Pan 8-inch,Bakeware,1,142.12,142.12,2026-07-31,CUST-0024,Cash on Delivery,Express Delivery,Shopee,4.0,0,65,Delivered
+BAK-00224,White Sugar 1kg,Baking Ingredients,1,87.31,87.31,2026-07-31,CUST-0024,Cash on Delivery,Express Delivery,Shopee,3.5,0,65,Delivered
+BAK-00224,Vanilla Extract 60ml,Baking Ingredients,1,88.5,88.5,2026-07-31,CUST-0024,Cash on Delivery,Express Delivery,Shopee,4.6,0,65,Delivered
+BAK-00224,Brown Sugar 1kg,Baking Ingredients,1,90.61,90.61,2026-07-31,CUST-0024,Cash on Delivery,Express Delivery,Shopee,3.8,0,65,Delivered
+BAK-00224,Cooling Rack 2-Tier,Bakeware,1,187.85,187.85,2026-07-31,CUST-0024,Cash on Delivery,Express Delivery,Shopee,4.5,0,65,Delivered
+BAK-00225,Round Cake Pan 8-inch,Bakeware,1,143.83,143.83,2026-01-29,CUST-0154,Cash on Delivery,Same-Day Delivery,Shopee,4.0,30,35,Delivered
+BAK-00225,Cooling Rack 2-Tier,Bakeware,2,186.44,372.88,2026-01-29,CUST-0154,Cash on Delivery,Same-Day Delivery,Shopee,3.5,30,35,Delivered
+BAK-00225,Offset Icing Spatula 8-inch,Baking Tools,3,97.99,293.97,2026-01-29,CUST-0154,Cash on Delivery,Same-Day Delivery,Shopee,4.8,30,35,Delivered
+BAK-00225,Measuring Cups and Spoons Set,Baking Tools,1,145.09,145.09,2026-01-29,CUST-0154,Cash on Delivery,Same-Day Delivery,Shopee,4.4,30,35,Delivered
+BAK-00225,Dough Scraper Stainless Steel,Baking Tools,2,72.29,144.58,2026-01-29,CUST-0154,Cash on Delivery,Same-Day Delivery,Shopee,4.6,30,35,Delivered
+BAK-00226,White Sugar 1kg,Baking Ingredients,1,94.05,94.05,2026-07-10,CUST-0232,Cash on Delivery,Standard Delivery,Lazada,4.2,0,0,Delivered
+BAK-00226,Vanilla Extract 60ml,Baking Ingredients,1,90.13,90.13,2026-07-10,CUST-0232,Cash on Delivery,Standard Delivery,Lazada,4.3,0,0,Delivered
+BAK-00227,Cake Turntable Rotating Stand,Decorating Supplies,1,296.14,296.14,2026-03-15,CUST-0051,Maya,Standard Delivery,Shopee,3.6,30,55,Delivered
+BAK-00227,Gel Food Coloring Set 6 Colors,Decorating Supplies,2,200.97,401.94,2026-03-15,CUST-0051,Maya,Standard Delivery,Shopee,4.0,30,55,Delivered
+BAK-00228,Vanilla Extract 60ml,Baking Ingredients,2,91.02,182.04,2026-06-13,CUST-0226,GCash,Express Delivery,Shopee,3.7,0,0,Delivered
+BAK-00228,Unsalted Butter 225g,Baking Ingredients,1,168.53,168.53,2026-06-13,CUST-0226,GCash,Express Delivery,Shopee,3.9,0,0,Delivered
+BAK-00228,Electric Hand Mixer 5-Speed,Baking Equipment,2,684.38,1368.76,2026-06-13,CUST-0226,GCash,Express Delivery,Shopee,4.4,0,0,Delivered
+BAK-00228,Condensed Milk 390g,Baking Ingredients,1,67.35,67.35,2026-06-13,CUST-0226,GCash,Express Delivery,Shopee,4.8,0,0,Delivered
+BAK-00228,Silicone Baking Mat,Bakeware,1,171.23,171.23,2026-06-13,CUST-0226,GCash,Express Delivery,Shopee,3.5,0,0,Delivered
+BAK-00229,Maya All-Purpose Flour 1kg,Baking Ingredients,1,58.54,58.54,2026-10-01,CUST-0041,Debit/Credit Card,Same-Day Delivery,Shopee,4.5,50,65,Delivered
+BAK-00229,Measuring Cups and Spoons Set,Baking Tools,1,146.52,146.52,2026-10-01,CUST-0041,Debit/Credit Card,Same-Day Delivery,Shopee,3.8,50,65,Delivered
+BAK-00229,Round Cake Pan 8-inch,Bakeware,1,143.36,143.36,2026-10-01,CUST-0041,Debit/Credit Card,Same-Day Delivery,Shopee,4.4,50,65,Delivered
+BAK-00229,Baking Powder 100g,Baking Ingredients,2,42.04,84.08,2026-10-01,CUST-0041,Debit/Credit Card,Same-Day Delivery,Shopee,4.5,50,65,Delivered
+BAK-00229,Vanilla Extract 60ml,Baking Ingredients,1,93.68,93.68,2026-10-01,CUST-0041,Debit/Credit Card,Same-Day Delivery,Shopee,4.8,50,65,Delivered
+BAK-00230,White Sugar 1kg,Baking Ingredients,1,91.03,91.03,2026-05-25,CUST-0179,Maya,Same-Day Delivery,Shopee,4.7,30,0,Delivered
+BAK-00230,Round Cake Pan 8-inch,Bakeware,1,135.28,135.28,2026-05-25,CUST-0179,Maya,Same-Day Delivery,Shopee,4.1,30,0,Delivered
+BAK-00230,Cooling Rack 2-Tier,Bakeware,1,193.01,193.01,2026-05-25,CUST-0179,Maya,Same-Day Delivery,Shopee,5.0,30,0,Delivered
+BAK-00231,Cooling Rack 2-Tier,Bakeware,2,182.36,364.72,2026-10-06,CUST-0121,Maya,Same-Day Delivery,Shopee,4.4,30,55,Delivered
+BAK-00231,Dough Scraper Stainless Steel,Baking Tools,1,66.43,66.43,2026-10-06,CUST-0121,Maya,Same-Day Delivery,Shopee,4.2,30,55,Delivered
+BAK-00231,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,249.69,249.69,2026-10-06,CUST-0121,Maya,Same-Day Delivery,Shopee,4.4,30,55,Delivered
+BAK-00232,Maya All-Purpose Flour 1kg,Baking Ingredients,1,60.24,60.24,2026-01-01,CUST-0076,Maya,Express Delivery,Lazada,4.0,20,45,Delivered
+BAK-00232,Baking Powder 100g,Baking Ingredients,1,44.89,44.89,2026-01-01,CUST-0076,Maya,Express Delivery,Lazada,4.0,20,45,Delivered
+BAK-00232,Digital Food Thermometer,Baking Equipment,2,200.3,400.6,2026-01-01,CUST-0076,Maya,Express Delivery,Lazada,5.0,20,45,Delivered
+BAK-00232,Digital Kitchen Scale 10kg,Baking Equipment,1,287.52,287.52,2026-01-01,CUST-0076,Maya,Express Delivery,Lazada,3.5,20,45,Delivered
+BAK-00233,Round Cake Pan 8-inch,Bakeware,1,140.74,140.74,2026-07-03,CUST-0057,Cash on Delivery,Standard Delivery,Shopee,4.1,20,45,Delivered
+BAK-00233,White Sugar 1kg,Baking Ingredients,1,86.02,86.02,2026-07-03,CUST-0057,Cash on Delivery,Standard Delivery,Shopee,3.8,20,45,Delivered
+BAK-00233,Silicone Baking Mat,Bakeware,1,182.97,182.97,2026-07-03,CUST-0057,Cash on Delivery,Standard Delivery,Shopee,4.8,20,45,Delivered
+BAK-00233,Chocolate Chips 200g,Baking Ingredients,1,135.57,135.57,2026-07-03,CUST-0057,Cash on Delivery,Standard Delivery,Shopee,3.9,20,45,Delivered
+BAK-00233,Cooling Rack 2-Tier,Bakeware,2,182.63,365.26,2026-07-03,CUST-0057,Cash on Delivery,Standard Delivery,Shopee,3.5,20,45,Delivered
+BAK-00234,Disposable Piping Bags 100pcs,Decorating Supplies,1,107.16,107.16,2026-08-22,CUST-0218,Maya,Express Delivery,Lazada,4.4,10,45,Delivered
+BAK-00234,Vanilla Extract 60ml,Baking Ingredients,1,94.35,94.35,2026-08-22,CUST-0218,Maya,Express Delivery,Lazada,3.9,10,45,Delivered
+BAK-00234,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,189.64,189.64,2026-08-22,CUST-0218,Maya,Express Delivery,Lazada,4.3,10,45,Delivered
+BAK-00235,Offset Icing Spatula 8-inch,Baking Tools,1,98.04,98.04,2026-02-10,CUST-0073,Cash on Delivery,Express Delivery,Shopee,4.5,20,0,Delivered
+BAK-00235,Round Cake Pan 8-inch,Bakeware,1,140.26,140.26,2026-02-10,CUST-0073,Cash on Delivery,Express Delivery,Shopee,4.3,20,0,Delivered
+BAK-00235,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,256.39,256.39,2026-02-10,CUST-0073,Cash on Delivery,Express Delivery,Shopee,4.9,20,0,Delivered
+BAK-00236,Parchment Baking Paper Roll,Bakeware,1,104.15,104.15,2026-08-04,CUST-0181,Cash on Delivery,Express Delivery,Shopee,3.9,20,65,Delivered
+BAK-00236,Maya All-Purpose Flour 1kg,Baking Ingredients,1,59.46,59.46,2026-08-04,CUST-0181,Cash on Delivery,Express Delivery,Shopee,4.4,20,65,Delivered
+BAK-00236,Offset Icing Spatula 8-inch,Baking Tools,1,93.85,93.85,2026-08-04,CUST-0181,Cash on Delivery,Express Delivery,Shopee,4.6,20,65,Delivered
+BAK-00237,Cake Turntable Rotating Stand,Decorating Supplies,1,307.52,307.52,2026-02-09,CUST-0143,Cash on Delivery,Standard Delivery,Lazada,4.9,0,0,Delivered
+BAK-00238,Cocoa Powder 250g,Baking Ingredients,1,142.24,142.24,2026-06-25,CUST-0044,Maya,Same-Day Delivery,Shopee,4.2,50,45,Shipped
+BAK-00238,Chocolate Chips 200g,Baking Ingredients,1,131.95,131.95,2026-06-25,CUST-0044,Maya,Same-Day Delivery,Shopee,4.6,50,45,Shipped
+BAK-00238,Cake Turntable Rotating Stand,Decorating Supplies,1,309.01,309.01,2026-06-25,CUST-0044,Maya,Same-Day Delivery,Shopee,4.6,50,45,Shipped
+BAK-00238,Brown Sugar 1kg,Baking Ingredients,1,92.32,92.32,2026-06-25,CUST-0044,Maya,Same-Day Delivery,Shopee,4.1,50,45,Shipped
+BAK-00239,Measuring Cups and Spoons Set,Baking Tools,1,138.52,138.52,2026-09-29,CUST-0223,GCash,Express Delivery,Lazada,4.9,0,55,Delivered
+BAK-00239,Brown Sugar 1kg,Baking Ingredients,1,102.06,102.06,2026-09-29,CUST-0223,GCash,Express Delivery,Lazada,4.1,0,55,Delivered
+BAK-00240,Sprinkles Assorted 100g,Decorating Supplies,1,62.58,62.58,2026-04-10,CUST-0173,Maya,Express Delivery,Shopee,3.7,50,0,Delivered
+BAK-00240,Nonstick Loaf Pan 9-inch,Bakeware,1,155.59,155.59,2026-04-10,CUST-0173,Maya,Express Delivery,Shopee,3.9,50,0,Delivered
+BAK-00240,Cake Box 8x8-inch 10pcs,Packaging,1,114.37,114.37,2026-04-10,CUST-0173,Maya,Express Delivery,Shopee,3.6,50,0,Delivered
+BAK-00240,Cupcake Boxes 6-Cavity 5pcs,Packaging,2,139.77,279.54,2026-04-10,CUST-0173,Maya,Express Delivery,Shopee,4.8,50,0,Delivered
+BAK-00240,Maya All-Purpose Flour 1kg,Baking Ingredients,2,59.91,119.82,2026-04-10,CUST-0173,Maya,Express Delivery,Shopee,4.6,50,0,Delivered
+BAK-00241,Cake Turntable Rotating Stand,Decorating Supplies,1,322.74,322.74,2026-04-05,CUST-0057,Maya,Express Delivery,Lazada,4.7,0,65,Delivered
+BAK-00242,White Sugar 1kg,Baking Ingredients,1,90.98,90.98,2026-05-13,CUST-0136,Maya,Express Delivery,Shopee,3.7,0,55,Delivered
+BAK-00242,Maya All-Purpose Flour 1kg,Baking Ingredients,1,58.35,58.35,2026-05-13,CUST-0136,Maya,Express Delivery,Shopee,4.4,0,55,Delivered
+BAK-00242,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,250.84,250.84,2026-05-13,CUST-0136,Maya,Express Delivery,Shopee,3.9,0,55,Delivered
+BAK-00242,Chocolate Chips 200g,Baking Ingredients,1,129.49,129.49,2026-05-13,CUST-0136,Maya,Express Delivery,Shopee,4.6,0,55,Delivered
+BAK-00243,Silicone Spatula Set 3pcs,Baking Tools,1,129.32,129.32,2026-03-19,CUST-0169,Debit/Credit Card,Same-Day Delivery,Shopee,4.6,50,45,Delivered
+BAK-00243,Maya All-Purpose Flour 1kg,Baking Ingredients,1,55.63,55.63,2026-03-19,CUST-0169,Debit/Credit Card,Same-Day Delivery,Shopee,3.8,50,45,Delivered
+BAK-00243,Muffin Cupcake Tray 12-Cavity,Bakeware,1,233.91,233.91,2026-03-19,CUST-0169,Debit/Credit Card,Same-Day Delivery,Shopee,4.7,50,45,Delivered
+BAK-00243,Baking Powder 100g,Baking Ingredients,1,42.82,42.82,2026-03-19,CUST-0169,Debit/Credit Card,Same-Day Delivery,Shopee,5.0,50,45,Delivered
+BAK-00244,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,137.98,137.98,2026-02-16,CUST-0188,Cash on Delivery,Standard Delivery,Lazada,5.0,0,65,Delivered
+BAK-00244,Round Cake Pan 8-inch,Bakeware,1,133.5,133.5,2026-02-16,CUST-0188,Cash on Delivery,Standard Delivery,Lazada,4.1,0,65,Delivered
+BAK-00245,Round Cake Pan 8-inch,Bakeware,1,129.36,129.36,2026-04-08,CUST-0072,GCash,Standard Delivery,Shopee,4.3,20,0,Delivered
+BAK-00246,Vanilla Extract 60ml,Baking Ingredients,1,95.43,95.43,2026-01-29,CUST-0173,GCash,Express Delivery,Shopee,4.8,30,65,Delivered
+BAK-00246,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,197.76,197.76,2026-01-29,CUST-0173,GCash,Express Delivery,Shopee,3.8,30,65,Delivered
+BAK-00247,Maya Cake Flour 1kg,Baking Ingredients,2,76.08,152.16,2026-08-30,CUST-0024,Maya,Same-Day Delivery,Shopee,3.6,30,0,Delivered
+BAK-00248,Silicone Baking Mat,Bakeware,1,177.53,177.53,2026-02-02,CUST-0104,Debit/Credit Card,Express Delivery,Lazada,4.9,30,55,Delivered
+BAK-00248,Nonstick Loaf Pan 9-inch,Bakeware,1,151.99,151.99,2026-02-02,CUST-0104,Debit/Credit Card,Express Delivery,Lazada,3.8,30,55,Delivered
+BAK-00248,Unsalted Butter 225g,Baking Ingredients,1,162.63,162.63,2026-02-02,CUST-0104,Debit/Credit Card,Express Delivery,Lazada,4.6,30,55,Delivered
+BAK-00249,Round Cake Pan 8-inch,Bakeware,1,128.38,128.38,2026-01-21,CUST-0069,GCash,Same-Day Delivery,Lazada,4.9,0,45,Delivered
+BAK-00249,Cooling Rack 2-Tier,Bakeware,1,194.14,194.14,2026-01-21,CUST-0069,GCash,Same-Day Delivery,Lazada,3.9,0,45,Delivered
+BAK-00250,Chocolate Chips 200g,Baking Ingredients,1,128.33,128.33,2026-01-20,CUST-0093,Debit/Credit Card,Same-Day Delivery,Shopee,3.9,50,35,Delivered
+BAK-00250,Unsalted Butter 225g,Baking Ingredients,1,168.12,168.12,2026-01-20,CUST-0093,Debit/Credit Card,Same-Day Delivery,Shopee,3.6,50,35,Delivered
+BAK-00250,Disposable Piping Bags 100pcs,Decorating Supplies,1,115.38,115.38,2026-01-20,CUST-0093,Debit/Credit Card,Same-Day Delivery,Shopee,4.3,50,35,Delivered
+BAK-00250,Cocoa Powder 250g,Baking Ingredients,1,152.27,152.27,2026-01-20,CUST-0093,Debit/Credit Card,Same-Day Delivery,Shopee,4.5,50,35,Delivered
+BAK-00251,Brown Sugar 1kg,Baking Ingredients,1,93.35,93.35,2026-09-12,CUST-0091,Maya,Same-Day Delivery,Shopee,4.4,0,35,Delivered
+BAK-00251,Muffin Cupcake Tray 12-Cavity,Bakeware,2,227.0,454.0,2026-09-12,CUST-0091,Maya,Same-Day Delivery,Shopee,3.7,0,35,Delivered
+BAK-00252,Maya Cake Flour 1kg,Baking Ingredients,1,74.74,74.74,2026-09-06,CUST-0060,GCash,Standard Delivery,Lazada,4.0,0,45,Delivered
+BAK-00253,Silicone Spatula Set 3pcs,Baking Tools,1,124.84,124.84,2026-09-06,CUST-0028,Debit/Credit Card,Standard Delivery,Shopee,4.6,10,0,Processing
+BAK-00253,Cooling Rack 2-Tier,Bakeware,1,203.52,203.52,2026-09-06,CUST-0028,Debit/Credit Card,Standard Delivery,Shopee,3.8,10,0,Processing
+BAK-00253,Vanilla Extract 60ml,Baking Ingredients,1,92.56,92.56,2026-09-06,CUST-0028,Debit/Credit Card,Standard Delivery,Shopee,3.6,10,0,Processing
+BAK-00253,All-Purpose Cream 250ml,Baking Ingredients,1,76.37,76.37,2026-09-06,CUST-0028,Debit/Credit Card,Standard Delivery,Shopee,4.2,10,0,Processing
+BAK-00254,Measuring Cups and Spoons Set,Baking Tools,1,146.47,146.47,2026-03-29,CUST-0118,GCash,Express Delivery,Lazada,3.5,0,55,Shipped
+BAK-00254,Cooling Rack 2-Tier,Bakeware,1,200.99,200.99,2026-03-29,CUST-0118,GCash,Express Delivery,Lazada,3.9,0,55,Shipped
+BAK-00255,Parchment Baking Paper Roll,Bakeware,1,99.12,99.12,2026-01-03,CUST-0214,GCash,Standard Delivery,Lazada,4.7,20,0,Delivered
+BAK-00255,Brown Sugar 1kg,Baking Ingredients,1,91.46,91.46,2026-01-03,CUST-0214,GCash,Standard Delivery,Lazada,4.2,20,0,Delivered
+BAK-00255,Round Cake Pan 8-inch,Bakeware,1,141.47,141.47,2026-01-03,CUST-0214,GCash,Standard Delivery,Lazada,4.5,20,0,Delivered
+BAK-00256,Instant Dry Yeast 100g,Baking Ingredients,1,82.11,82.11,2026-03-24,CUST-0236,GCash,Express Delivery,Lazada,4.1,50,65,Delivered
+BAK-00256,White Sugar 1kg,Baking Ingredients,1,90.85,90.85,2026-03-24,CUST-0236,GCash,Express Delivery,Lazada,4.8,50,65,Delivered
+BAK-00256,Oven Thermometer Stainless Steel,Baking Equipment,1,169.52,169.52,2026-03-24,CUST-0236,GCash,Express Delivery,Lazada,4.0,50,65,Delivered
+BAK-00257,Cookie Bags with Sealing Stickers 50pcs,Packaging,2,88.2,176.4,2026-10-05,CUST-0107,GCash,Same-Day Delivery,Lazada,4.8,0,55,Delivered
+BAK-00258,Maya All-Purpose Flour 1kg,Baking Ingredients,1,57.63,57.63,2026-07-07,CUST-0188,Maya,Same-Day Delivery,Shopee,4.3,50,0,Delivered
+BAK-00259,Baking Powder 100g,Baking Ingredients,2,42.47,84.94,2026-05-22,CUST-0028,GCash,Express Delivery,Lazada,4.3,20,55,Delivered
+BAK-00259,Instant Dry Yeast 100g,Baking Ingredients,2,83.22,166.44,2026-05-22,CUST-0028,GCash,Express Delivery,Lazada,4.2,20,55,Delivered
+BAK-00259,Measuring Cups and Spoons Set,Baking Tools,1,150.44,150.44,2026-05-22,CUST-0028,GCash,Express Delivery,Lazada,4.5,20,55,Delivered
+BAK-00260,Nonstick Loaf Pan 9-inch,Bakeware,1,171.09,171.09,2026-02-27,CUST-0076,Debit/Credit Card,Standard Delivery,Shopee,4.3,30,0,Delivered
+BAK-00260,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,247.77,247.77,2026-02-27,CUST-0076,Debit/Credit Card,Standard Delivery,Shopee,4.2,30,0,Delivered
+BAK-00260,Round Cake Pan 8-inch,Bakeware,1,133.37,133.37,2026-02-27,CUST-0076,Debit/Credit Card,Standard Delivery,Shopee,3.6,30,0,Delivered
+BAK-00260,Cocoa Powder 250g,Baking Ingredients,2,142.13,284.26,2026-02-27,CUST-0076,Debit/Credit Card,Standard Delivery,Shopee,4.9,30,0,Delivered
+BAK-00260,Vanilla Extract 60ml,Baking Ingredients,1,89.31,89.31,2026-02-27,CUST-0076,Debit/Credit Card,Standard Delivery,Shopee,4.0,30,0,Delivered
+BAK-00261,Digital Kitchen Scale 10kg,Baking Equipment,1,285.89,285.89,2026-10-18,CUST-0068,Cash on Delivery,Standard Delivery,Lazada,4.0,0,35,Delivered
+BAK-00261,Stainless Steel Balloon Whisk,Baking Tools,1,76.76,76.76,2026-10-18,CUST-0068,Cash on Delivery,Standard Delivery,Lazada,4.9,0,35,Delivered
+BAK-00261,Measuring Cups and Spoons Set,Baking Tools,1,143.13,143.13,2026-10-18,CUST-0068,Cash on Delivery,Standard Delivery,Lazada,5.0,0,35,Delivered
+BAK-00262,White Sugar 1kg,Baking Ingredients,1,84.99,84.99,2026-04-16,CUST-0018,Cash on Delivery,Express Delivery,Shopee,3.5,20,0,Delivered
+BAK-00262,Cream Cheese 225g,Baking Ingredients,2,162.74,325.48,2026-04-16,CUST-0018,Cash on Delivery,Express Delivery,Shopee,4.9,20,0,Delivered
+BAK-00262,Disposable Piping Bags 100pcs,Decorating Supplies,2,106.73,213.46,2026-04-16,CUST-0018,Cash on Delivery,Express Delivery,Shopee,5.0,20,0,Delivered
+BAK-00262,Vanilla Extract 60ml,Baking Ingredients,1,90.42,90.42,2026-04-16,CUST-0018,Cash on Delivery,Express Delivery,Shopee,4.5,20,0,Delivered
+BAK-00263,Brown Sugar 1kg,Baking Ingredients,1,91.69,91.69,2026-03-17,CUST-0227,Cash on Delivery,Same-Day Delivery,Shopee,3.5,0,0,Delivered
+BAK-00263,Cake Box 8x8-inch 10pcs,Packaging,1,117.44,117.44,2026-03-17,CUST-0227,Cash on Delivery,Same-Day Delivery,Shopee,4.0,0,0,Delivered
+BAK-00264,Baking Powder 100g,Baking Ingredients,1,42.58,42.58,2026-05-23,CUST-0101,GCash,Standard Delivery,Lazada,4.4,0,55,Delivered
+BAK-00264,Cream Cheese 225g,Baking Ingredients,1,148.38,148.38,2026-05-23,CUST-0101,GCash,Standard Delivery,Lazada,4.5,0,55,Delivered
+BAK-00265,Stainless Steel Balloon Whisk,Baking Tools,1,83.32,83.32,2026-10-15,CUST-0045,Maya,Same-Day Delivery,Lazada,5.0,10,45,Delivered
+BAK-00265,Muffin Cupcake Tray 12-Cavity,Bakeware,1,239.97,239.97,2026-10-15,CUST-0045,Maya,Same-Day Delivery,Lazada,3.7,10,45,Delivered
+BAK-00265,Baking Powder 100g,Baking Ingredients,1,40.37,40.37,2026-10-15,CUST-0045,Maya,Same-Day Delivery,Lazada,3.8,10,45,Delivered
+BAK-00266,Cooling Rack 2-Tier,Bakeware,1,191.6,191.6,2026-08-01,CUST-0090,Debit/Credit Card,Same-Day Delivery,Shopee,4.7,50,45,Delivered
+BAK-00266,White Sugar 1kg,Baking Ingredients,1,90.29,90.29,2026-08-01,CUST-0090,Debit/Credit Card,Same-Day Delivery,Shopee,4.2,50,45,Delivered
+BAK-00266,Measuring Cups and Spoons Set,Baking Tools,1,141.98,141.98,2026-08-01,CUST-0090,Debit/Credit Card,Same-Day Delivery,Shopee,4.7,50,45,Delivered
+BAK-00267,Baking Powder 100g,Baking Ingredients,1,40.55,40.55,2026-08-30,CUST-0064,Cash on Delivery,Express Delivery,Shopee,3.9,30,65,Delivered
+BAK-00267,Cupcake Boxes 6-Cavity 5pcs,Packaging,3,129.42,388.26,2026-08-30,CUST-0064,Cash on Delivery,Express Delivery,Shopee,4.6,30,65,Delivered
+BAK-00268,Cream Cheese 225g,Baking Ingredients,1,161.22,161.22,2026-03-03,CUST-0192,GCash,Express Delivery,Shopee,4.0,0,35,Delivered
+BAK-00268,Muffin Cupcake Tray 12-Cavity,Bakeware,1,224.31,224.31,2026-03-03,CUST-0192,GCash,Express Delivery,Shopee,4.5,0,35,Delivered
+BAK-00268,Cooling Rack 2-Tier,Bakeware,2,180.75,361.5,2026-03-03,CUST-0192,GCash,Express Delivery,Shopee,3.9,0,35,Delivered
+BAK-00269,Chocolate Chips 200g,Baking Ingredients,1,134.8,134.8,2026-06-04,CUST-0139,Cash on Delivery,Standard Delivery,Lazada,4.2,0,0,Shipped
+BAK-00269,Silicone Spatula Set 3pcs,Baking Tools,1,137.82,137.82,2026-06-04,CUST-0139,Cash on Delivery,Standard Delivery,Lazada,3.7,0,0,Shipped
+BAK-00269,Dough Scraper Stainless Steel,Baking Tools,1,67.53,67.53,2026-06-04,CUST-0139,Cash on Delivery,Standard Delivery,Lazada,3.8,0,0,Shipped
+BAK-00270,Cocoa Powder 250g,Baking Ingredients,1,153.9,153.9,2026-08-15,CUST-0176,Maya,Same-Day Delivery,Lazada,3.7,50,0,Delivered
+BAK-00270,Chocolate Chips 200g,Baking Ingredients,1,130.45,130.45,2026-08-15,CUST-0176,Maya,Same-Day Delivery,Lazada,3.7,50,0,Delivered
+BAK-00270,Digital Kitchen Scale 10kg,Baking Equipment,1,310.9,310.9,2026-08-15,CUST-0176,Maya,Same-Day Delivery,Lazada,4.7,50,0,Delivered
+BAK-00270,Vanilla Extract 60ml,Baking Ingredients,1,93.51,93.51,2026-08-15,CUST-0176,Maya,Same-Day Delivery,Lazada,4.6,50,0,Delivered
+BAK-00270,Cake Turntable Rotating Stand,Decorating Supplies,1,288.24,288.24,2026-08-15,CUST-0176,Maya,Same-Day Delivery,Lazada,4.7,50,0,Delivered
+BAK-00271,Baking Powder 100g,Baking Ingredients,2,45.08,90.16,2026-03-05,CUST-0106,Maya,Standard Delivery,Lazada,4.0,0,65,Delivered
+BAK-00271,White Sugar 1kg,Baking Ingredients,1,89.33,89.33,2026-03-05,CUST-0106,Maya,Standard Delivery,Lazada,4.6,0,65,Delivered
+BAK-00271,Measuring Cups and Spoons Set,Baking Tools,1,148.5,148.5,2026-03-05,CUST-0106,Maya,Standard Delivery,Lazada,3.6,0,65,Delivered
+BAK-00272,Vanilla Extract 60ml,Baking Ingredients,1,95.63,95.63,2026-01-03,CUST-0051,Maya,Same-Day Delivery,Lazada,3.8,20,0,Delivered
+BAK-00272,Cake Turntable Rotating Stand,Decorating Supplies,1,298.81,298.81,2026-01-03,CUST-0051,Maya,Same-Day Delivery,Lazada,3.8,20,0,Delivered
+BAK-00272,Parchment Baking Paper Roll,Bakeware,1,95.5,95.5,2026-01-03,CUST-0051,Maya,Same-Day Delivery,Lazada,5.0,20,0,Delivered
+BAK-00273,Nonstick Loaf Pan 9-inch,Bakeware,1,157.5,157.5,2026-10-13,CUST-0021,GCash,Express Delivery,Lazada,5.0,0,45,Delivered
+BAK-00273,Vanilla Extract 60ml,Baking Ingredients,1,90.96,90.96,2026-10-13,CUST-0021,GCash,Express Delivery,Lazada,3.9,0,45,Delivered
+BAK-00274,Unsalted Butter 225g,Baking Ingredients,1,171.26,171.26,2026-07-08,CUST-0092,GCash,Same-Day Delivery,Lazada,3.7,10,45,Delivered
+BAK-00274,Silicone Baking Mat,Bakeware,1,186.22,186.22,2026-07-08,CUST-0092,GCash,Same-Day Delivery,Lazada,5.0,10,45,Delivered
+BAK-00274,Instant Dry Yeast 100g,Baking Ingredients,1,83.15,83.15,2026-07-08,CUST-0092,GCash,Same-Day Delivery,Lazada,3.8,10,45,Delivered
+BAK-00274,Maya All-Purpose Flour 1kg,Baking Ingredients,1,56.6,56.6,2026-07-08,CUST-0092,GCash,Same-Day Delivery,Lazada,3.8,10,45,Delivered
+BAK-00275,Nonstick Loaf Pan 9-inch,Bakeware,1,161.16,161.16,2026-07-02,CUST-0244,Debit/Credit Card,Express Delivery,Lazada,3.8,10,0,Delivered
+BAK-00275,Condensed Milk 390g,Baking Ingredients,2,64.86,129.72,2026-07-02,CUST-0244,Debit/Credit Card,Express Delivery,Lazada,4.6,10,0,Delivered
+BAK-00275,Cookie Bags with Sealing Stickers 50pcs,Packaging,2,86.25,172.5,2026-07-02,CUST-0244,Debit/Credit Card,Express Delivery,Lazada,3.5,10,0,Delivered
+BAK-00275,Round Cake Pan 8-inch,Bakeware,1,138.86,138.86,2026-07-02,CUST-0244,Debit/Credit Card,Express Delivery,Lazada,4.0,10,0,Delivered
+BAK-00276,Electric Hand Mixer 5-Speed,Baking Equipment,1,696.92,696.92,2026-04-14,CUST-0151,Debit/Credit Card,Express Delivery,Lazada,3.5,50,55,Delivered
+BAK-00276,Nonstick Loaf Pan 9-inch,Bakeware,1,169.96,169.96,2026-04-14,CUST-0151,Debit/Credit Card,Express Delivery,Lazada,4.1,50,55,Delivered
+BAK-00277,Maya All-Purpose Flour 1kg,Baking Ingredients,1,59.39,59.39,2026-06-05,CUST-0085,Debit/Credit Card,Express Delivery,Shopee,4.2,10,45,Delivered
+BAK-00277,Silicone Baking Mat,Bakeware,1,182.6,182.6,2026-06-05,CUST-0085,Debit/Credit Card,Express Delivery,Shopee,4.2,10,45,Delivered
+BAK-00278,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,197.78,197.78,2026-06-30,CUST-0146,Cash on Delivery,Standard Delivery,Shopee,3.5,0,35,Delivered
+BAK-00278,Cake Turntable Rotating Stand,Decorating Supplies,2,297.31,594.62,2026-06-30,CUST-0146,Cash on Delivery,Standard Delivery,Shopee,3.6,0,35,Delivered
+BAK-00278,Chocolate Chips 200g,Baking Ingredients,1,134.52,134.52,2026-06-30,CUST-0146,Cash on Delivery,Standard Delivery,Shopee,4.0,0,35,Delivered
+BAK-00279,Instant Dry Yeast 100g,Baking Ingredients,1,78.86,78.86,2026-01-11,CUST-0167,GCash,Express Delivery,Lazada,3.5,10,35,Delivered
+BAK-00279,White Sugar 1kg,Baking Ingredients,1,90.12,90.12,2026-01-11,CUST-0167,GCash,Express Delivery,Lazada,4.0,10,35,Delivered
+BAK-00279,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,86.15,86.15,2026-01-11,CUST-0167,GCash,Express Delivery,Lazada,4.5,10,35,Delivered
+BAK-00279,Brown Sugar 1kg,Baking Ingredients,1,96.38,96.38,2026-01-11,CUST-0167,GCash,Express Delivery,Lazada,4.7,10,35,Delivered
+BAK-00280,Cream Cheese 225g,Baking Ingredients,1,159.84,159.84,2026-10-02,CUST-0110,Cash on Delivery,Express Delivery,Shopee,4.9,20,45,Delivered
+BAK-00280,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,87.14,87.14,2026-10-02,CUST-0110,Cash on Delivery,Express Delivery,Shopee,4.4,20,45,Delivered
+BAK-00280,White Sugar 1kg,Baking Ingredients,1,90.08,90.08,2026-10-02,CUST-0110,Cash on Delivery,Express Delivery,Shopee,4.3,20,45,Delivered
+BAK-00280,Cake Box 8x8-inch 10pcs,Packaging,1,119.42,119.42,2026-10-02,CUST-0110,Cash on Delivery,Express Delivery,Shopee,3.6,20,45,Delivered
+BAK-00281,Cake Turntable Rotating Stand,Decorating Supplies,2,312.9,625.8,2026-10-08,CUST-0093,GCash,Same-Day Delivery,Shopee,4.2,0,65,Delivered
+BAK-00281,Disposable Piping Bags 100pcs,Decorating Supplies,2,112.12,224.24,2026-10-08,CUST-0093,GCash,Same-Day Delivery,Shopee,4.4,0,65,Delivered
+BAK-00281,Cake Box 8x8-inch 10pcs,Packaging,1,120.77,120.77,2026-10-08,CUST-0093,GCash,Same-Day Delivery,Shopee,4.3,0,65,Delivered
+BAK-00281,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,137.42,137.42,2026-10-08,CUST-0093,GCash,Same-Day Delivery,Shopee,4.0,0,65,Delivered
+BAK-00282,All-Purpose Cream 250ml,Baking Ingredients,1,70.8,70.8,2026-07-30,CUST-0164,GCash,Same-Day Delivery,Shopee,4.4,0,35,Shipped
+BAK-00282,Cream Cheese 225g,Baking Ingredients,1,149.54,149.54,2026-07-30,CUST-0164,GCash,Same-Day Delivery,Shopee,3.8,0,35,Shipped
+BAK-00283,Cake Turntable Rotating Stand,Decorating Supplies,1,290.89,290.89,2026-08-05,CUST-0019,Maya,Standard Delivery,Lazada,4.8,0,35,Delivered
+BAK-00283,Maya All-Purpose Flour 1kg,Baking Ingredients,2,58.76,117.52,2026-08-05,CUST-0019,Maya,Standard Delivery,Lazada,3.5,0,35,Delivered
+BAK-00284,Vanilla Extract 60ml,Baking Ingredients,1,94.14,94.14,2026-02-16,CUST-0204,Maya,Standard Delivery,Shopee,4.9,20,0,Delivered
+BAK-00284,Cake Box 8x8-inch 10pcs,Packaging,2,117.93,235.86,2026-02-16,CUST-0204,Maya,Standard Delivery,Shopee,4.8,20,0,Delivered
+BAK-00284,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,182.55,182.55,2026-02-16,CUST-0204,Maya,Standard Delivery,Shopee,4.7,20,0,Delivered
+BAK-00284,Silicone Spatula Set 3pcs,Baking Tools,1,132.35,132.35,2026-02-16,CUST-0204,Maya,Standard Delivery,Shopee,4.1,20,0,Delivered
+BAK-00285,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,145.16,145.16,2026-01-29,CUST-0252,Cash on Delivery,Same-Day Delivery,Shopee,4.8,10,45,Delivered
+BAK-00285,White Sugar 1kg,Baking Ingredients,2,87.75,175.5,2026-01-29,CUST-0252,Cash on Delivery,Same-Day Delivery,Shopee,4.6,10,45,Delivered
+BAK-00285,Instant Dry Yeast 100g,Baking Ingredients,2,74.31,148.62,2026-01-29,CUST-0252,Cash on Delivery,Same-Day Delivery,Shopee,5.0,10,45,Delivered
+BAK-00285,Oven Thermometer Stainless Steel,Baking Equipment,1,168.44,168.44,2026-01-29,CUST-0252,Cash on Delivery,Same-Day Delivery,Shopee,4.5,10,45,Delivered
+BAK-00286,Measuring Cups and Spoons Set,Baking Tools,1,153.95,153.95,2026-08-15,CUST-0199,GCash,Express Delivery,Lazada,3.7,50,0,Delivered
+BAK-00286,Stainless Steel Balloon Whisk,Baking Tools,1,78.31,78.31,2026-08-15,CUST-0199,GCash,Express Delivery,Lazada,4.7,50,0,Delivered
+BAK-00286,Instant Dry Yeast 100g,Baking Ingredients,1,82.1,82.1,2026-08-15,CUST-0199,GCash,Express Delivery,Lazada,3.9,50,0,Delivered
+BAK-00286,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,125.11,125.11,2026-08-15,CUST-0199,GCash,Express Delivery,Lazada,4.2,50,0,Delivered
+BAK-00286,Cream Cheese 225g,Baking Ingredients,1,165.92,165.92,2026-08-15,CUST-0199,GCash,Express Delivery,Lazada,4.0,50,0,Delivered
+BAK-00287,Oven Thermometer Stainless Steel,Baking Equipment,1,160.22,160.22,2026-10-08,CUST-0168,Debit/Credit Card,Same-Day Delivery,Shopee,4.5,30,65,Delivered
+BAK-00287,Electric Hand Mixer 5-Speed,Baking Equipment,1,633.43,633.43,2026-10-08,CUST-0168,Debit/Credit Card,Same-Day Delivery,Shopee,4.0,30,65,Delivered
+BAK-00287,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,240.14,240.14,2026-10-08,CUST-0168,Debit/Credit Card,Same-Day Delivery,Shopee,3.9,30,65,Delivered
+BAK-00288,All-Purpose Cream 250ml,Baking Ingredients,2,76.68,153.36,2026-06-17,CUST-0145,Maya,Standard Delivery,Lazada,3.8,10,45,Delivered
+BAK-00288,Cream Cheese 225g,Baking Ingredients,2,165.85,331.7,2026-06-17,CUST-0145,Maya,Standard Delivery,Lazada,4.5,10,45,Delivered
+BAK-00288,Vanilla Extract 60ml,Baking Ingredients,1,95.04,95.04,2026-06-17,CUST-0145,Maya,Standard Delivery,Lazada,5.0,10,45,Delivered
+BAK-00288,Cake Turntable Rotating Stand,Decorating Supplies,1,311.31,311.31,2026-06-17,CUST-0145,Maya,Standard Delivery,Lazada,3.8,10,45,Delivered
+BAK-00289,Baking Powder 100g,Baking Ingredients,1,44.61,44.61,2026-03-02,CUST-0008,Debit/Credit Card,Express Delivery,Lazada,4.7,30,0,Delivered
+BAK-00289,Stainless Steel Balloon Whisk,Baking Tools,1,80.13,80.13,2026-03-02,CUST-0008,Debit/Credit Card,Express Delivery,Lazada,3.7,30,0,Delivered
+BAK-00289,Cookie Bags with Sealing Stickers 50pcs,Packaging,2,87.38,174.76,2026-03-02,CUST-0008,Debit/Credit Card,Express Delivery,Lazada,5.0,30,0,Delivered
+BAK-00290,Measuring Cups and Spoons Set,Baking Tools,1,146.39,146.39,2026-01-15,CUST-0149,Cash on Delivery,Standard Delivery,Lazada,3.5,0,55,Processing
+BAK-00290,Chocolate Chips 200g,Baking Ingredients,1,133.92,133.92,2026-01-15,CUST-0149,Cash on Delivery,Standard Delivery,Lazada,4.5,0,55,Processing
+BAK-00291,Cookie Bags with Sealing Stickers 50pcs,Packaging,3,88.17,264.51,2026-08-30,CUST-0182,GCash,Standard Delivery,Lazada,3.7,10,35,Delivered
+BAK-00291,Brown Sugar 1kg,Baking Ingredients,2,90.76,181.52,2026-08-30,CUST-0182,GCash,Standard Delivery,Lazada,3.8,10,35,Delivered
+BAK-00291,Maya All-Purpose Flour 1kg,Baking Ingredients,1,58.82,58.82,2026-08-30,CUST-0182,GCash,Standard Delivery,Lazada,4.0,10,35,Delivered
+BAK-00291,All-Purpose Cream 250ml,Baking Ingredients,1,69.24,69.24,2026-08-30,CUST-0182,GCash,Standard Delivery,Lazada,4.6,10,35,Delivered
+BAK-00292,Maya All-Purpose Flour 1kg,Baking Ingredients,1,62.6,62.6,2026-07-04,CUST-0221,Cash on Delivery,Express Delivery,Lazada,4.6,10,0,Delivered
+BAK-00292,Stainless Steel Balloon Whisk,Baking Tools,1,83.81,83.81,2026-07-04,CUST-0221,Cash on Delivery,Express Delivery,Lazada,4.5,10,0,Delivered
+BAK-00292,Sprinkles Assorted 100g,Decorating Supplies,1,62.2,62.2,2026-07-04,CUST-0221,Cash on Delivery,Express Delivery,Lazada,3.7,10,0,Delivered
+BAK-00293,Unsalted Butter 225g,Baking Ingredients,1,159.16,159.16,2026-03-01,CUST-0254,GCash,Express Delivery,Lazada,4.6,20,45,Cancelled
+BAK-00293,Measuring Cups and Spoons Set,Baking Tools,1,144.34,144.34,2026-03-01,CUST-0254,GCash,Express Delivery,Lazada,3.8,20,45,Cancelled
+BAK-00294,All-Purpose Cream 250ml,Baking Ingredients,1,71.48,71.48,2026-04-19,CUST-0003,Maya,Express Delivery,Shopee,3.9,10,65,Delivered
+BAK-00294,Cake Turntable Rotating Stand,Decorating Supplies,3,288.79,866.37,2026-04-19,CUST-0003,Maya,Express Delivery,Shopee,4.1,10,65,Delivered
+BAK-00295,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,89.57,89.57,2026-06-18,CUST-0023,Debit/Credit Card,Express Delivery,Shopee,4.6,0,65,Delivered
+BAK-00295,Cocoa Powder 250g,Baking Ingredients,1,149.1,149.1,2026-06-18,CUST-0023,Debit/Credit Card,Express Delivery,Shopee,3.6,0,65,Delivered
+BAK-00295,Nonstick Loaf Pan 9-inch,Bakeware,1,156.01,156.01,2026-06-18,CUST-0023,Debit/Credit Card,Express Delivery,Shopee,4.7,0,65,Delivered
+BAK-00295,Vanilla Extract 60ml,Baking Ingredients,1,84.79,84.79,2026-06-18,CUST-0023,Debit/Credit Card,Express Delivery,Shopee,3.8,0,65,Delivered
+BAK-00295,Maya All-Purpose Flour 1kg,Baking Ingredients,1,58.13,58.13,2026-06-18,CUST-0023,Debit/Credit Card,Express Delivery,Shopee,4.5,0,65,Delivered
+BAK-00296,Disposable Piping Bags 100pcs,Decorating Supplies,1,110.55,110.55,2026-02-19,CUST-0189,Maya,Express Delivery,Lazada,4.6,10,35,Processing
+BAK-00296,Muffin Cupcake Tray 12-Cavity,Bakeware,1,231.71,231.71,2026-02-19,CUST-0189,Maya,Express Delivery,Lazada,4.2,10,35,Processing
+BAK-00296,All-Purpose Cream 250ml,Baking Ingredients,1,68.78,68.78,2026-02-19,CUST-0189,Maya,Express Delivery,Lazada,4.0,10,35,Processing
+BAK-00296,Stainless Steel Balloon Whisk,Baking Tools,1,77.35,77.35,2026-02-19,CUST-0189,Maya,Express Delivery,Lazada,4.5,10,35,Processing
+BAK-00296,Cream Cheese 225g,Baking Ingredients,1,157.23,157.23,2026-02-19,CUST-0189,Maya,Express Delivery,Lazada,4.4,10,35,Processing
+BAK-00297,White Sugar 1kg,Baking Ingredients,1,84.12,84.12,2026-03-07,CUST-0154,Maya,Same-Day Delivery,Lazada,3.7,0,55,Delivered
+BAK-00297,Brown Sugar 1kg,Baking Ingredients,1,91.42,91.42,2026-03-07,CUST-0154,Maya,Same-Day Delivery,Lazada,4.5,0,55,Delivered
+BAK-00297,Chocolate Chips 200g,Baking Ingredients,1,132.7,132.7,2026-03-07,CUST-0154,Maya,Same-Day Delivery,Lazada,3.9,0,55,Delivered
+BAK-00298,Round Cake Pan 8-inch,Bakeware,1,140.96,140.96,2026-04-02,CUST-0094,Debit/Credit Card,Standard Delivery,Shopee,4.6,30,35,Delivered
+BAK-00299,Chocolate Chips 200g,Baking Ingredients,1,136.62,136.62,2026-05-13,CUST-0055,Debit/Credit Card,Same-Day Delivery,Shopee,4.5,0,0,Delivered
+BAK-00299,White Sugar 1kg,Baking Ingredients,2,94.65,189.3,2026-05-13,CUST-0055,Debit/Credit Card,Same-Day Delivery,Shopee,4.4,0,0,Delivered
+BAK-00299,Cake Box 8x8-inch 10pcs,Packaging,1,123.65,123.65,2026-05-13,CUST-0055,Debit/Credit Card,Same-Day Delivery,Shopee,5.0,0,0,Delivered
+BAK-00300,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,256.82,256.82,2026-01-09,CUST-0097,GCash,Standard Delivery,Lazada,4.7,30,0,Delivered
+BAK-00300,Baking Powder 100g,Baking Ingredients,1,41.54,41.54,2026-01-09,CUST-0097,GCash,Standard Delivery,Lazada,4.2,30,0,Delivered
+BAK-00300,Brown Sugar 1kg,Baking Ingredients,1,90.52,90.52,2026-01-09,CUST-0097,GCash,Standard Delivery,Lazada,3.7,30,0,Delivered
+BAK-00301,Bread Storage Bags 20pcs,Packaging,1,78.2,78.2,2026-10-27,CUST-0125,Maya,Express Delivery,Lazada,5.0,0,0,Delivered
+BAK-00301,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,2,183.02,366.04,2026-10-27,CUST-0125,Maya,Express Delivery,Lazada,4.4,0,0,Delivered
+BAK-00302,Disposable Piping Bags 100pcs,Decorating Supplies,1,117.27,117.27,2026-09-07,CUST-0119,GCash,Same-Day Delivery,Shopee,4.1,0,55,Delivered
+BAK-00302,Cake Box 8x8-inch 10pcs,Packaging,1,121.72,121.72,2026-09-07,CUST-0119,GCash,Same-Day Delivery,Shopee,4.9,0,55,Delivered
+BAK-00302,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,140.49,140.49,2026-09-07,CUST-0119,GCash,Same-Day Delivery,Shopee,3.5,0,55,Delivered
+BAK-00303,Muffin Cupcake Tray 12-Cavity,Bakeware,2,233.44,466.88,2026-10-28,CUST-0174,Debit/Credit Card,Standard Delivery,Lazada,4.6,10,45,Delivered
+BAK-00303,Baking Powder 100g,Baking Ingredients,1,44.27,44.27,2026-10-28,CUST-0174,Debit/Credit Card,Standard Delivery,Lazada,4.8,10,45,Delivered
+BAK-00304,White Sugar 1kg,Baking Ingredients,3,87.7,263.1,2026-09-09,CUST-0052,Debit/Credit Card,Express Delivery,Lazada,3.9,20,0,Delivered
+BAK-00304,Chocolate Chips 200g,Baking Ingredients,1,131.32,131.32,2026-09-09,CUST-0052,Debit/Credit Card,Express Delivery,Lazada,4.8,20,0,Delivered
+BAK-00304,Cocoa Powder 250g,Baking Ingredients,1,152.96,152.96,2026-09-09,CUST-0052,Debit/Credit Card,Express Delivery,Lazada,4.0,20,0,Delivered
+BAK-00305,Baking Powder 100g,Baking Ingredients,2,44.56,89.12,2026-09-07,CUST-0133,Cash on Delivery,Express Delivery,Shopee,4.8,20,35,Delivered
+BAK-00306,Nonstick Loaf Pan 9-inch,Bakeware,1,155.3,155.3,2026-02-26,CUST-0055,GCash,Same-Day Delivery,Shopee,4.0,0,65,Delivered
+BAK-00306,Offset Icing Spatula 8-inch,Baking Tools,1,99.0,99.0,2026-02-26,CUST-0055,GCash,Same-Day Delivery,Shopee,4.6,0,65,Delivered
+BAK-00306,Digital Food Thermometer,Baking Equipment,1,211.57,211.57,2026-02-26,CUST-0055,GCash,Same-Day Delivery,Shopee,3.7,0,65,Delivered
+BAK-00307,Baking Powder 100g,Baking Ingredients,1,41.87,41.87,2026-05-06,CUST-0243,Cash on Delivery,Express Delivery,Shopee,4.5,0,65,Delivered
+BAK-00307,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,198.06,198.06,2026-05-06,CUST-0243,Cash on Delivery,Express Delivery,Shopee,4.1,0,65,Delivered
+BAK-00307,Maya Cake Flour 1kg,Baking Ingredients,1,75.9,75.9,2026-05-06,CUST-0243,Cash on Delivery,Express Delivery,Shopee,4.1,0,65,Delivered
+BAK-00308,Parchment Baking Paper Roll,Bakeware,3,96.16,288.48,2026-08-15,CUST-0075,GCash,Same-Day Delivery,Shopee,3.6,0,45,Delivered
+BAK-00308,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,195.77,195.77,2026-08-15,CUST-0075,GCash,Same-Day Delivery,Shopee,4.5,0,45,Delivered
+BAK-00308,Muffin Cupcake Tray 12-Cavity,Bakeware,2,215.44,430.88,2026-08-15,CUST-0075,GCash,Same-Day Delivery,Shopee,4.4,0,45,Delivered
+BAK-00309,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,139.1,139.1,2026-01-05,CUST-0144,Maya,Same-Day Delivery,Lazada,4.2,0,55,Delivered
+BAK-00309,Sprinkles Assorted 100g,Decorating Supplies,1,68.61,68.61,2026-01-05,CUST-0144,Maya,Same-Day Delivery,Lazada,4.5,0,55,Delivered
+BAK-00309,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,201.2,201.2,2026-01-05,CUST-0144,Maya,Same-Day Delivery,Lazada,3.6,0,55,Delivered
+BAK-00309,Muffin Cupcake Tray 12-Cavity,Bakeware,1,225.16,225.16,2026-01-05,CUST-0144,Maya,Same-Day Delivery,Lazada,4.6,0,55,Delivered
+BAK-00310,Cake Turntable Rotating Stand,Decorating Supplies,1,298.55,298.55,2026-10-04,CUST-0133,Maya,Express Delivery,Lazada,4.4,0,65,Cancelled
+BAK-00310,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,129.09,129.09,2026-10-04,CUST-0133,Maya,Express Delivery,Lazada,4.5,0,65,Cancelled
+BAK-00310,Maya All-Purpose Flour 1kg,Baking Ingredients,1,57.35,57.35,2026-10-04,CUST-0133,Maya,Express Delivery,Lazada,4.6,0,65,Cancelled
+BAK-00310,Condensed Milk 390g,Baking Ingredients,1,73.29,73.29,2026-10-04,CUST-0133,Maya,Express Delivery,Lazada,4.7,0,65,Cancelled
+BAK-00311,Instant Dry Yeast 100g,Baking Ingredients,1,83.11,83.11,2026-07-04,CUST-0233,GCash,Standard Delivery,Lazada,4.2,0,0,Shipped
+BAK-00311,Brown Sugar 1kg,Baking Ingredients,1,94.81,94.81,2026-07-04,CUST-0233,GCash,Standard Delivery,Lazada,4.3,0,0,Shipped
+BAK-00311,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,121.08,121.08,2026-07-04,CUST-0233,GCash,Standard Delivery,Lazada,4.1,0,0,Shipped
+BAK-00311,White Sugar 1kg,Baking Ingredients,1,89.31,89.31,2026-07-04,CUST-0233,GCash,Standard Delivery,Lazada,4.1,0,0,Shipped
+BAK-00311,Baking Powder 100g,Baking Ingredients,1,44.98,44.98,2026-07-04,CUST-0233,GCash,Standard Delivery,Lazada,4.2,0,0,Shipped
+BAK-00312,Vanilla Extract 60ml,Baking Ingredients,1,89.28,89.28,2026-08-22,CUST-0243,GCash,Same-Day Delivery,Shopee,3.7,0,0,Processing
+BAK-00312,Disposable Piping Bags 100pcs,Decorating Supplies,1,105.08,105.08,2026-08-22,CUST-0243,GCash,Same-Day Delivery,Shopee,3.7,0,0,Processing
+BAK-00312,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,188.8,188.8,2026-08-22,CUST-0243,GCash,Same-Day Delivery,Shopee,4.0,0,0,Processing
+BAK-00312,Instant Dry Yeast 100g,Baking Ingredients,1,82.12,82.12,2026-08-22,CUST-0243,GCash,Same-Day Delivery,Shopee,3.7,0,0,Processing
+BAK-00312,Baking Powder 100g,Baking Ingredients,1,40.17,40.17,2026-08-22,CUST-0243,GCash,Same-Day Delivery,Shopee,4.8,0,0,Processing
+BAK-00313,Muffin Cupcake Tray 12-Cavity,Bakeware,1,235.04,235.04,2026-07-13,CUST-0244,Maya,Standard Delivery,Lazada,3.6,30,45,Delivered
+BAK-00313,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,122.7,122.7,2026-07-13,CUST-0244,Maya,Standard Delivery,Lazada,4.1,30,45,Delivered
+BAK-00313,Maya All-Purpose Flour 1kg,Baking Ingredients,2,57.66,115.32,2026-07-13,CUST-0244,Maya,Standard Delivery,Lazada,3.6,30,45,Delivered
+BAK-00313,Instant Dry Yeast 100g,Baking Ingredients,1,78.59,78.59,2026-07-13,CUST-0244,Maya,Standard Delivery,Lazada,3.9,30,45,Delivered
+BAK-00313,Stainless Steel Balloon Whisk,Baking Tools,1,76.75,76.75,2026-07-13,CUST-0244,Maya,Standard Delivery,Lazada,3.5,30,45,Delivered
+BAK-00314,White Sugar 1kg,Baking Ingredients,2,86.75,173.5,2026-10-05,CUST-0028,Maya,Express Delivery,Shopee,3.8,20,0,Delivered
+BAK-00314,Cake Box 8x8-inch 10pcs,Packaging,2,127.09,254.18,2026-10-05,CUST-0028,Maya,Express Delivery,Shopee,4.4,20,0,Delivered
+BAK-00314,Electric Hand Mixer 5-Speed,Baking Equipment,1,661.57,661.57,2026-10-05,CUST-0028,Maya,Express Delivery,Shopee,4.0,20,0,Delivered
+BAK-00315,Electric Hand Mixer 5-Speed,Baking Equipment,1,628.7,628.7,2026-09-28,CUST-0163,Debit/Credit Card,Express Delivery,Shopee,3.9,0,55,Delivered
+BAK-00315,Disposable Piping Bags 100pcs,Decorating Supplies,1,108.89,108.89,2026-09-28,CUST-0163,Debit/Credit Card,Express Delivery,Shopee,4.1,0,55,Delivered
+BAK-00315,Maya All-Purpose Flour 1kg,Baking Ingredients,1,59.73,59.73,2026-09-28,CUST-0163,Debit/Credit Card,Express Delivery,Shopee,4.0,0,55,Delivered
+BAK-00316,White Sugar 1kg,Baking Ingredients,1,86.34,86.34,2026-06-13,CUST-0073,Debit/Credit Card,Express Delivery,Lazada,4.4,50,0,Delivered
+BAK-00317,Digital Food Thermometer,Baking Equipment,1,213.98,213.98,2026-08-26,CUST-0209,GCash,Express Delivery,Shopee,4.5,0,0,Delivered
+BAK-00317,Stainless Steel Balloon Whisk,Baking Tools,1,80.75,80.75,2026-08-26,CUST-0209,GCash,Express Delivery,Shopee,4.7,0,0,Delivered
+BAK-00318,Silicone Baking Mat,Bakeware,1,188.96,188.96,2026-07-11,CUST-0087,Maya,Same-Day Delivery,Lazada,4.9,20,45,Cancelled
+BAK-00318,Baking Powder 100g,Baking Ingredients,1,43.47,43.47,2026-07-11,CUST-0087,Maya,Same-Day Delivery,Lazada,3.8,20,45,Cancelled
+BAK-00319,Unsalted Butter 225g,Baking Ingredients,1,163.2,163.2,2026-07-14,CUST-0180,Maya,Same-Day Delivery,Lazada,4.1,30,55,Delivered
+BAK-00320,All-Purpose Cream 250ml,Baking Ingredients,1,70.7,70.7,2026-04-18,CUST-0259,Cash on Delivery,Same-Day Delivery,Lazada,5.0,50,65,Delivered
+BAK-00320,Cake Box 8x8-inch 10pcs,Packaging,1,121.17,121.17,2026-04-18,CUST-0259,Cash on Delivery,Same-Day Delivery,Lazada,4.4,50,65,Delivered
+BAK-00321,Maya Cake Flour 1kg,Baking Ingredients,1,72.08,72.08,2026-09-01,CUST-0003,GCash,Same-Day Delivery,Shopee,3.6,30,65,Delivered
+BAK-00322,Nonstick Loaf Pan 9-inch,Bakeware,1,166.41,166.41,2026-07-18,CUST-0091,GCash,Standard Delivery,Lazada,4.6,0,45,Delivered
+BAK-00322,Silicone Spatula Set 3pcs,Baking Tools,1,134.44,134.44,2026-07-18,CUST-0091,GCash,Standard Delivery,Lazada,3.8,0,45,Delivered
+BAK-00322,Offset Icing Spatula 8-inch,Baking Tools,1,97.97,97.97,2026-07-18,CUST-0091,GCash,Standard Delivery,Lazada,4.7,0,45,Delivered
+BAK-00322,Cake Turntable Rotating Stand,Decorating Supplies,1,322.15,322.15,2026-07-18,CUST-0091,GCash,Standard Delivery,Lazada,5.0,0,45,Delivered
+BAK-00323,Electric Hand Mixer 5-Speed,Baking Equipment,1,630.93,630.93,2026-04-18,CUST-0004,Maya,Same-Day Delivery,Lazada,3.8,0,55,Delivered
+BAK-00324,Vanilla Extract 60ml,Baking Ingredients,1,87.48,87.48,2026-09-25,CUST-0141,Maya,Same-Day Delivery,Shopee,4.3,30,65,Cancelled
+BAK-00324,Cake Turntable Rotating Stand,Decorating Supplies,1,320.51,320.51,2026-09-25,CUST-0141,Maya,Same-Day Delivery,Shopee,4.5,30,65,Cancelled
+BAK-00324,Round Cake Pan 8-inch,Bakeware,2,129.16,258.32,2026-09-25,CUST-0141,Maya,Same-Day Delivery,Shopee,4.9,30,65,Cancelled
+BAK-00324,Muffin Cupcake Tray 12-Cavity,Bakeware,1,242.86,242.86,2026-09-25,CUST-0141,Maya,Same-Day Delivery,Shopee,3.9,30,65,Cancelled
+BAK-00325,Cake Turntable Rotating Stand,Decorating Supplies,3,292.82,878.46,2026-01-03,CUST-0201,Maya,Express Delivery,Shopee,4.5,50,0,Processing
+BAK-00325,Chocolate Chips 200g,Baking Ingredients,2,144.34,288.68,2026-01-03,CUST-0201,Maya,Express Delivery,Shopee,3.8,50,0,Processing
+BAK-00325,Disposable Piping Bags 100pcs,Decorating Supplies,1,105.4,105.4,2026-01-03,CUST-0201,Maya,Express Delivery,Shopee,4.4,50,0,Processing
+BAK-00325,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,190.16,190.16,2026-01-03,CUST-0201,Maya,Express Delivery,Shopee,3.5,50,0,Processing
+BAK-00326,Digital Kitchen Scale 10kg,Baking Equipment,1,287.37,287.37,2026-06-20,CUST-0122,GCash,Same-Day Delivery,Lazada,3.6,30,45,Delivered
+BAK-00326,Round Cake Pan 8-inch,Bakeware,1,133.75,133.75,2026-06-20,CUST-0122,GCash,Same-Day Delivery,Lazada,4.8,30,45,Delivered
+BAK-00326,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,240.68,240.68,2026-06-20,CUST-0122,GCash,Same-Day Delivery,Lazada,4.9,30,45,Delivered
+BAK-00326,Cooling Rack 2-Tier,Bakeware,1,186.96,186.96,2026-06-20,CUST-0122,GCash,Same-Day Delivery,Lazada,4.4,30,45,Delivered
+BAK-00327,Baking Powder 100g,Baking Ingredients,1,42.38,42.38,2026-07-15,CUST-0206,GCash,Same-Day Delivery,Lazada,4.2,20,65,Delivered
+BAK-00328,Maya All-Purpose Flour 1kg,Baking Ingredients,1,57.78,57.78,2026-02-22,CUST-0007,GCash,Same-Day Delivery,Shopee,4.2,0,65,Processing
+BAK-00328,Silicone Spatula Set 3pcs,Baking Tools,1,125.67,125.67,2026-02-22,CUST-0007,GCash,Same-Day Delivery,Shopee,3.7,0,65,Processing
+BAK-00328,Cocoa Powder 250g,Baking Ingredients,1,140.16,140.16,2026-02-22,CUST-0007,GCash,Same-Day Delivery,Shopee,4.4,0,65,Processing
+BAK-00329,Digital Kitchen Scale 10kg,Baking Equipment,2,300.46,600.92,2026-06-25,CUST-0150,Cash on Delivery,Standard Delivery,Shopee,3.8,20,55,Delivered
+BAK-00329,Vanilla Extract 60ml,Baking Ingredients,1,95.06,95.06,2026-06-25,CUST-0150,Cash on Delivery,Standard Delivery,Shopee,4.7,20,55,Delivered
+BAK-00329,Cooling Rack 2-Tier,Bakeware,1,195.96,195.96,2026-06-25,CUST-0150,Cash on Delivery,Standard Delivery,Shopee,4.5,20,55,Delivered
+BAK-00330,Condensed Milk 390g,Baking Ingredients,1,68.85,68.85,2026-09-11,CUST-0113,GCash,Same-Day Delivery,Shopee,4.7,10,55,Delivered
+BAK-00330,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,262.68,262.68,2026-09-11,CUST-0113,GCash,Same-Day Delivery,Shopee,4.1,10,55,Delivered
+BAK-00330,Dough Scraper Stainless Steel,Baking Tools,1,72.96,72.96,2026-09-11,CUST-0113,GCash,Same-Day Delivery,Shopee,3.5,10,55,Delivered
+BAK-00330,White Sugar 1kg,Baking Ingredients,1,87.69,87.69,2026-09-11,CUST-0113,GCash,Same-Day Delivery,Shopee,4.3,10,55,Delivered
+BAK-00330,Maya All-Purpose Flour 1kg,Baking Ingredients,1,58.42,58.42,2026-09-11,CUST-0113,GCash,Same-Day Delivery,Shopee,4.4,10,55,Delivered
+BAK-00331,Maya All-Purpose Flour 1kg,Baking Ingredients,2,56.13,112.26,2026-05-06,CUST-0092,Maya,Standard Delivery,Shopee,4.5,0,0,Shipped
+BAK-00331,Measuring Cups and Spoons Set,Baking Tools,2,144.13,288.26,2026-05-06,CUST-0092,Maya,Standard Delivery,Shopee,3.8,0,0,Shipped
+BAK-00331,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,248.52,248.52,2026-05-06,CUST-0092,Maya,Standard Delivery,Shopee,4.1,0,0,Shipped
+BAK-00331,Cream Cheese 225g,Baking Ingredients,1,157.87,157.87,2026-05-06,CUST-0092,Maya,Standard Delivery,Shopee,4.7,0,0,Shipped
+BAK-00331,Brown Sugar 1kg,Baking Ingredients,1,95.61,95.61,2026-05-06,CUST-0092,Maya,Standard Delivery,Shopee,4.6,0,0,Shipped
+BAK-00332,Measuring Cups and Spoons Set,Baking Tools,1,148.82,148.82,2026-04-09,CUST-0194,Cash on Delivery,Express Delivery,Lazada,4.8,0,0,Cancelled
+BAK-00333,Maya Cake Flour 1kg,Baking Ingredients,1,69.97,69.97,2026-03-06,CUST-0251,Maya,Same-Day Delivery,Shopee,4.1,50,65,Shipped
+BAK-00333,All-Purpose Cream 250ml,Baking Ingredients,2,75.43,150.86,2026-03-06,CUST-0251,Maya,Same-Day Delivery,Shopee,4.1,50,65,Shipped
+BAK-00334,Cream Cheese 225g,Baking Ingredients,2,155.23,310.46,2026-08-31,CUST-0138,Debit/Credit Card,Same-Day Delivery,Shopee,4.0,0,45,Delivered
+BAK-00334,Disposable Piping Bags 100pcs,Decorating Supplies,2,112.67,225.34,2026-08-31,CUST-0138,Debit/Credit Card,Same-Day Delivery,Shopee,4.9,0,45,Delivered
+BAK-00334,Maya Cake Flour 1kg,Baking Ingredients,1,73.55,73.55,2026-08-31,CUST-0138,Debit/Credit Card,Same-Day Delivery,Shopee,3.7,0,45,Delivered
+BAK-00335,Chocolate Chips 200g,Baking Ingredients,1,142.37,142.37,2026-10-26,CUST-0022,Debit/Credit Card,Same-Day Delivery,Lazada,4.0,10,45,Delivered
+BAK-00336,All-Purpose Cream 250ml,Baking Ingredients,1,70.27,70.27,2026-05-31,CUST-0257,GCash,Express Delivery,Shopee,3.8,0,35,Delivered
+BAK-00336,Cream Cheese 225g,Baking Ingredients,1,153.35,153.35,2026-05-31,CUST-0257,GCash,Express Delivery,Shopee,4.7,0,35,Delivered
+BAK-00336,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,172.49,172.49,2026-05-31,CUST-0257,GCash,Express Delivery,Shopee,4.6,0,35,Delivered
+BAK-00337,Sprinkles Assorted 100g,Decorating Supplies,1,66.11,66.11,2026-01-07,CUST-0242,Maya,Express Delivery,Shopee,4.7,30,0,Delivered
+BAK-00337,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,197.3,197.3,2026-01-07,CUST-0242,Maya,Express Delivery,Shopee,4.2,30,0,Delivered
+BAK-00337,Silicone Spatula Set 3pcs,Baking Tools,1,127.8,127.8,2026-01-07,CUST-0242,Maya,Express Delivery,Shopee,3.8,30,0,Delivered
+BAK-00337,Disposable Piping Bags 100pcs,Decorating Supplies,1,114.48,114.48,2026-01-07,CUST-0242,Maya,Express Delivery,Shopee,3.8,30,0,Delivered
+BAK-00337,Instant Dry Yeast 100g,Baking Ingredients,1,79.76,79.76,2026-01-07,CUST-0242,Maya,Express Delivery,Shopee,4.1,30,0,Delivered
+BAK-00338,Maya Cake Flour 1kg,Baking Ingredients,1,77.32,77.32,2026-08-06,CUST-0207,Cash on Delivery,Express Delivery,Shopee,4.0,0,0,Delivered
+BAK-00338,Cream Cheese 225g,Baking Ingredients,1,159.4,159.4,2026-08-06,CUST-0207,Cash on Delivery,Express Delivery,Shopee,4.4,0,0,Delivered
+BAK-00338,Gel Food Coloring Set 6 Colors,Decorating Supplies,2,203.63,407.26,2026-08-06,CUST-0207,Cash on Delivery,Express Delivery,Shopee,3.8,0,0,Delivered
+BAK-00339,Brown Sugar 1kg,Baking Ingredients,1,92.56,92.56,2026-02-17,CUST-0088,GCash,Same-Day Delivery,Shopee,3.6,30,55,Delivered
+BAK-00339,Muffin Cupcake Tray 12-Cavity,Bakeware,2,222.05,444.1,2026-02-17,CUST-0088,GCash,Same-Day Delivery,Shopee,3.8,30,55,Delivered
+BAK-00339,Condensed Milk 390g,Baking Ingredients,1,65.22,65.22,2026-02-17,CUST-0088,GCash,Same-Day Delivery,Shopee,3.6,30,55,Delivered
+BAK-00340,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,195.88,195.88,2026-09-02,CUST-0036,Debit/Credit Card,Standard Delivery,Shopee,3.7,0,45,Shipped
+BAK-00340,White Sugar 1kg,Baking Ingredients,1,87.15,87.15,2026-09-02,CUST-0036,Debit/Credit Card,Standard Delivery,Shopee,3.8,0,45,Shipped
+BAK-00340,Measuring Cups and Spoons Set,Baking Tools,1,146.4,146.4,2026-09-02,CUST-0036,Debit/Credit Card,Standard Delivery,Shopee,3.8,0,45,Shipped
+BAK-00341,Disposable Piping Bags 100pcs,Decorating Supplies,1,110.09,110.09,2026-01-21,CUST-0047,Cash on Delivery,Same-Day Delivery,Lazada,4.7,50,65,Delivered
+BAK-00341,Chocolate Chips 200g,Baking Ingredients,2,135.53,271.06,2026-01-21,CUST-0047,Cash on Delivery,Same-Day Delivery,Lazada,3.8,50,65,Delivered
+BAK-00341,Cake Box 8x8-inch 10pcs,Packaging,1,120.74,120.74,2026-01-21,CUST-0047,Cash on Delivery,Same-Day Delivery,Lazada,4.1,50,65,Delivered
+BAK-00341,Maya Cake Flour 1kg,Baking Ingredients,1,74.94,74.94,2026-01-21,CUST-0047,Cash on Delivery,Same-Day Delivery,Lazada,3.6,50,65,Delivered
+BAK-00341,Stand Mixer 5L Stainless Bowl,Baking Equipment,1,3343.91,3343.91,2026-01-21,CUST-0047,Cash on Delivery,Same-Day Delivery,Lazada,4.8,50,65,Delivered
+BAK-00342,White Sugar 1kg,Baking Ingredients,1,85.49,85.49,2026-09-10,CUST-0211,GCash,Express Delivery,Shopee,3.8,20,35,Delivered
+BAK-00342,Unsalted Butter 225g,Baking Ingredients,1,157.32,157.32,2026-09-10,CUST-0211,GCash,Express Delivery,Shopee,4.5,20,35,Delivered
+BAK-00343,Disposable Piping Bags 100pcs,Decorating Supplies,1,110.76,110.76,2026-06-17,CUST-0238,Debit/Credit Card,Express Delivery,Shopee,4.2,30,0,Delivered
+BAK-00343,Condensed Milk 390g,Baking Ingredients,1,66.03,66.03,2026-06-17,CUST-0238,Debit/Credit Card,Express Delivery,Shopee,4.8,30,0,Delivered
+BAK-00343,Maya All-Purpose Flour 1kg,Baking Ingredients,1,56.44,56.44,2026-06-17,CUST-0238,Debit/Credit Card,Express Delivery,Shopee,3.7,30,0,Delivered
+BAK-00343,Cocoa Powder 250g,Baking Ingredients,1,140.93,140.93,2026-06-17,CUST-0238,Debit/Credit Card,Express Delivery,Shopee,4.5,30,0,Delivered
+BAK-00344,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,195.3,195.3,2026-04-02,CUST-0111,GCash,Same-Day Delivery,Shopee,4.6,0,65,Delivered
+BAK-00345,Muffin Cupcake Tray 12-Cavity,Bakeware,1,215.6,215.6,2026-04-13,CUST-0047,GCash,Express Delivery,Shopee,4.9,0,0,Cancelled
+BAK-00345,Maya All-Purpose Flour 1kg,Baking Ingredients,1,61.4,61.4,2026-04-13,CUST-0047,GCash,Express Delivery,Shopee,4.5,0,0,Cancelled
+BAK-00345,Nonstick Loaf Pan 9-inch,Bakeware,1,151.96,151.96,2026-04-13,CUST-0047,GCash,Express Delivery,Shopee,4.3,0,0,Cancelled
+BAK-00345,All-Purpose Cream 250ml,Baking Ingredients,1,71.42,71.42,2026-04-13,CUST-0047,GCash,Express Delivery,Shopee,4.4,0,0,Cancelled
+BAK-00345,Cocoa Powder 250g,Baking Ingredients,1,155.36,155.36,2026-04-13,CUST-0047,GCash,Express Delivery,Shopee,4.1,0,0,Cancelled
+BAK-00346,Stainless Steel Balloon Whisk,Baking Tools,1,78.84,78.84,2026-01-07,CUST-0200,Maya,Express Delivery,Shopee,3.6,50,35,Delivered
+BAK-00346,Maya All-Purpose Flour 1kg,Baking Ingredients,1,57.37,57.37,2026-01-07,CUST-0200,Maya,Express Delivery,Shopee,4.4,50,35,Delivered
+BAK-00346,Offset Icing Spatula 8-inch,Baking Tools,3,91.51,274.53,2026-01-07,CUST-0200,Maya,Express Delivery,Shopee,4.3,50,35,Delivered
+BAK-00347,White Sugar 1kg,Baking Ingredients,1,90.32,90.32,2026-09-04,CUST-0035,Cash on Delivery,Standard Delivery,Lazada,5.0,30,65,Delivered
+BAK-00347,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,194.69,194.69,2026-09-04,CUST-0035,Cash on Delivery,Standard Delivery,Lazada,4.8,30,65,Delivered
+BAK-00347,Vanilla Extract 60ml,Baking Ingredients,1,93.09,93.09,2026-09-04,CUST-0035,Cash on Delivery,Standard Delivery,Lazada,4.6,30,65,Delivered
+BAK-00347,Cream Cheese 225g,Baking Ingredients,1,148.46,148.46,2026-09-04,CUST-0035,Cash on Delivery,Standard Delivery,Lazada,4.1,30,65,Delivered
+BAK-00347,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,115.4,115.4,2026-09-04,CUST-0035,Cash on Delivery,Standard Delivery,Lazada,3.8,30,65,Delivered
+BAK-00348,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,197.99,197.99,2026-03-10,CUST-0143,Cash on Delivery,Same-Day Delivery,Shopee,3.8,10,65,Delivered
+BAK-00349,Digital Kitchen Scale 10kg,Baking Equipment,2,286.08,572.16,2026-07-15,CUST-0165,Maya,Express Delivery,Shopee,5.0,10,0,Delivered
+BAK-00349,Silicone Spatula Set 3pcs,Baking Tools,2,124.66,249.32,2026-07-15,CUST-0165,Maya,Express Delivery,Shopee,3.8,10,0,Delivered
+BAK-00349,Vanilla Extract 60ml,Baking Ingredients,1,93.75,93.75,2026-07-15,CUST-0165,Maya,Express Delivery,Shopee,3.8,10,0,Delivered
+BAK-00349,Dough Scraper Stainless Steel,Baking Tools,1,69.37,69.37,2026-07-15,CUST-0165,Maya,Express Delivery,Shopee,4.2,10,0,Delivered
+BAK-00350,Brown Sugar 1kg,Baking Ingredients,1,96.06,96.06,2026-05-27,CUST-0230,Maya,Express Delivery,Lazada,4.1,0,45,Delivered
+BAK-00350,Instant Dry Yeast 100g,Baking Ingredients,1,78.49,78.49,2026-05-27,CUST-0230,Maya,Express Delivery,Lazada,3.7,0,45,Delivered
+BAK-00351,Disposable Piping Bags 100pcs,Decorating Supplies,1,109.27,109.27,2026-05-12,CUST-0195,Debit/Credit Card,Express Delivery,Lazada,4.6,20,55,Delivered
+BAK-00351,White Sugar 1kg,Baking Ingredients,1,94.08,94.08,2026-05-12,CUST-0195,Debit/Credit Card,Express Delivery,Lazada,3.5,20,55,Delivered
+BAK-00351,Unsalted Butter 225g,Baking Ingredients,2,172.42,344.84,2026-05-12,CUST-0195,Debit/Credit Card,Express Delivery,Lazada,4.1,20,55,Delivered
+BAK-00351,Cocoa Powder 250g,Baking Ingredients,1,145.59,145.59,2026-05-12,CUST-0195,Debit/Credit Card,Express Delivery,Lazada,4.1,20,55,Delivered
+BAK-00351,Maya Cake Flour 1kg,Baking Ingredients,1,71.99,71.99,2026-05-12,CUST-0195,Debit/Credit Card,Express Delivery,Lazada,4.0,20,55,Delivered
+BAK-00352,Maya All-Purpose Flour 1kg,Baking Ingredients,1,58.7,58.7,2026-06-28,CUST-0251,Cash on Delivery,Same-Day Delivery,Shopee,4.9,10,65,Delivered
+BAK-00352,Silicone Spatula Set 3pcs,Baking Tools,1,134.4,134.4,2026-06-28,CUST-0251,Cash on Delivery,Same-Day Delivery,Shopee,3.5,10,65,Delivered
+BAK-00352,Chocolate Chips 200g,Baking Ingredients,1,130.85,130.85,2026-06-28,CUST-0251,Cash on Delivery,Same-Day Delivery,Shopee,4.4,10,65,Delivered
+BAK-00352,Stainless Steel Mixing Bowl 3pcs,Baking Tools,2,241.32,482.64,2026-06-28,CUST-0251,Cash on Delivery,Same-Day Delivery,Shopee,3.9,10,65,Delivered
+BAK-00352,Dough Scraper Stainless Steel,Baking Tools,1,71.49,71.49,2026-06-28,CUST-0251,Cash on Delivery,Same-Day Delivery,Shopee,3.7,10,65,Delivered
+BAK-00353,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,267.87,267.87,2026-07-23,CUST-0042,Maya,Express Delivery,Shopee,4.5,0,65,Shipped
+BAK-00354,White Sugar 1kg,Baking Ingredients,1,83.62,83.62,2026-03-15,CUST-0138,Maya,Same-Day Delivery,Lazada,3.6,0,0,Delivered
+BAK-00354,Cake Box 8x8-inch 10pcs,Packaging,1,122.19,122.19,2026-03-15,CUST-0138,Maya,Same-Day Delivery,Lazada,4.5,0,0,Delivered
+BAK-00354,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,183.74,183.74,2026-03-15,CUST-0138,Maya,Same-Day Delivery,Lazada,4.1,0,0,Delivered
+BAK-00355,Reusable Silicone Cupcake Liners 12pcs,Bakeware,2,115.62,231.24,2026-04-04,CUST-0099,Cash on Delivery,Express Delivery,Lazada,3.9,20,0,Delivered
+BAK-00355,Silicone Baking Mat,Bakeware,1,176.49,176.49,2026-04-04,CUST-0099,Cash on Delivery,Express Delivery,Lazada,4.0,20,0,Delivered
+BAK-00355,Baking Powder 100g,Baking Ingredients,1,42.51,42.51,2026-04-04,CUST-0099,Cash on Delivery,Express Delivery,Lazada,4.5,20,0,Delivered
+BAK-00355,Maya All-Purpose Flour 1kg,Baking Ingredients,1,55.56,55.56,2026-04-04,CUST-0099,Cash on Delivery,Express Delivery,Lazada,4.6,20,0,Delivered
+BAK-00356,Parchment Baking Paper Roll,Bakeware,1,102.83,102.83,2026-01-04,CUST-0193,Cash on Delivery,Express Delivery,Lazada,4.0,20,45,Delivered
+BAK-00357,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,143.83,143.83,2026-01-30,CUST-0183,Cash on Delivery,Standard Delivery,Shopee,3.7,30,45,Delivered
+BAK-00357,Measuring Cups and Spoons Set,Baking Tools,1,154.13,154.13,2026-01-30,CUST-0183,Cash on Delivery,Standard Delivery,Shopee,3.9,30,45,Delivered
+BAK-00358,Muffin Cupcake Tray 12-Cavity,Bakeware,1,241.22,241.22,2026-01-24,CUST-0167,Debit/Credit Card,Standard Delivery,Lazada,4.9,20,0,Delivered
+BAK-00358,Baking Powder 100g,Baking Ingredients,1,43.49,43.49,2026-01-24,CUST-0167,Debit/Credit Card,Standard Delivery,Lazada,4.5,20,0,Delivered
+BAK-00358,Stainless Steel Balloon Whisk,Baking Tools,1,79.0,79.0,2026-01-24,CUST-0167,Debit/Credit Card,Standard Delivery,Lazada,4.4,20,0,Delivered
+BAK-00358,Offset Icing Spatula 8-inch,Baking Tools,1,100.99,100.99,2026-01-24,CUST-0167,Debit/Credit Card,Standard Delivery,Lazada,4.8,20,0,Delivered
+BAK-00359,White Sugar 1kg,Baking Ingredients,1,88.58,88.58,2026-03-01,CUST-0247,Maya,Standard Delivery,Shopee,4.6,30,65,Delivered
+BAK-00359,Parchment Baking Paper Roll,Bakeware,1,106.01,106.01,2026-03-01,CUST-0247,Maya,Standard Delivery,Shopee,4.9,30,65,Delivered
+BAK-00359,All-Purpose Cream 250ml,Baking Ingredients,1,70.46,70.46,2026-03-01,CUST-0247,Maya,Standard Delivery,Shopee,3.9,30,65,Delivered
+BAK-00359,Round Cake Pan 8-inch,Bakeware,1,144.0,144.0,2026-03-01,CUST-0247,Maya,Standard Delivery,Shopee,3.7,30,65,Delivered
+BAK-00360,Gel Food Coloring Set 6 Colors,Decorating Supplies,2,190.29,380.58,2026-10-22,CUST-0034,Cash on Delivery,Express Delivery,Lazada,3.9,50,55,Delivered
+BAK-00360,Digital Kitchen Scale 10kg,Baking Equipment,1,295.36,295.36,2026-10-22,CUST-0034,Cash on Delivery,Express Delivery,Lazada,3.7,50,55,Delivered
+BAK-00361,White Sugar 1kg,Baking Ingredients,3,87.26,261.78,2026-06-10,CUST-0195,GCash,Express Delivery,Shopee,4.0,0,45,Delivered
+BAK-00361,Brown Sugar 1kg,Baking Ingredients,1,100.09,100.09,2026-06-10,CUST-0195,GCash,Express Delivery,Shopee,4.3,0,45,Delivered
+BAK-00362,Maya All-Purpose Flour 1kg,Baking Ingredients,1,57.51,57.51,2026-04-23,CUST-0256,Debit/Credit Card,Standard Delivery,Lazada,4.3,30,65,Delivered
+BAK-00362,Muffin Cupcake Tray 12-Cavity,Bakeware,1,221.75,221.75,2026-04-23,CUST-0256,Debit/Credit Card,Standard Delivery,Lazada,4.8,30,65,Delivered
+BAK-00362,Instant Dry Yeast 100g,Baking Ingredients,1,80.5,80.5,2026-04-23,CUST-0256,Debit/Credit Card,Standard Delivery,Lazada,3.8,30,65,Delivered
+BAK-00363,Stainless Steel Balloon Whisk,Baking Tools,2,76.68,153.36,2026-04-26,CUST-0027,Maya,Express Delivery,Lazada,3.5,50,65,Delivered
+BAK-00363,All-Purpose Cream 250ml,Baking Ingredients,1,72.35,72.35,2026-04-26,CUST-0027,Maya,Express Delivery,Lazada,4.2,50,65,Delivered
+BAK-00364,Silicone Baking Mat,Bakeware,2,186.56,373.12,2026-04-10,CUST-0202,GCash,Standard Delivery,Lazada,4.2,20,0,Delivered
+BAK-00364,Condensed Milk 390g,Baking Ingredients,1,65.82,65.82,2026-04-10,CUST-0202,GCash,Standard Delivery,Lazada,4.5,20,0,Delivered
+BAK-00365,Baking Powder 100g,Baking Ingredients,1,45.22,45.22,2026-07-05,CUST-0053,Maya,Express Delivery,Lazada,3.8,0,0,Delivered
+BAK-00365,Maya Cake Flour 1kg,Baking Ingredients,1,77.58,77.58,2026-07-05,CUST-0053,Maya,Express Delivery,Lazada,4.5,0,0,Delivered
+BAK-00366,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,195.09,195.09,2026-06-04,CUST-0089,Debit/Credit Card,Same-Day Delivery,Shopee,4.2,50,65,Delivered
+BAK-00366,White Sugar 1kg,Baking Ingredients,1,84.93,84.93,2026-06-04,CUST-0089,Debit/Credit Card,Same-Day Delivery,Shopee,3.7,50,65,Delivered
+BAK-00366,Disposable Piping Bags 100pcs,Decorating Supplies,1,117.49,117.49,2026-06-04,CUST-0089,Debit/Credit Card,Same-Day Delivery,Shopee,3.8,50,65,Delivered
+BAK-00367,White Sugar 1kg,Baking Ingredients,1,92.9,92.9,2026-08-11,CUST-0153,Maya,Standard Delivery,Lazada,3.5,50,55,Delivered
+BAK-00367,Baking Powder 100g,Baking Ingredients,1,42.83,42.83,2026-08-11,CUST-0153,Maya,Standard Delivery,Lazada,4.7,50,55,Delivered
+BAK-00367,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,178.06,178.06,2026-08-11,CUST-0153,Maya,Standard Delivery,Lazada,4.4,50,55,Delivered
+BAK-00368,Unsalted Butter 225g,Baking Ingredients,1,168.82,168.82,2026-01-03,CUST-0229,Cash on Delivery,Standard Delivery,Shopee,4.8,0,65,Delivered
+BAK-00368,Disposable Piping Bags 100pcs,Decorating Supplies,1,118.51,118.51,2026-01-03,CUST-0229,Cash on Delivery,Standard Delivery,Shopee,4.3,0,65,Delivered
+BAK-00368,White Sugar 1kg,Baking Ingredients,1,89.83,89.83,2026-01-03,CUST-0229,Cash on Delivery,Standard Delivery,Shopee,4.1,0,65,Delivered
+BAK-00368,Chocolate Chips 200g,Baking Ingredients,2,128.25,256.5,2026-01-03,CUST-0229,Cash on Delivery,Standard Delivery,Shopee,4.0,0,65,Delivered
+BAK-00369,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,185.19,185.19,2026-10-03,CUST-0108,GCash,Same-Day Delivery,Shopee,4.9,0,0,Delivered
+BAK-00369,Cake Turntable Rotating Stand,Decorating Supplies,1,292.45,292.45,2026-10-03,CUST-0108,GCash,Same-Day Delivery,Shopee,4.0,0,0,Delivered
+BAK-00369,Maya All-Purpose Flour 1kg,Baking Ingredients,1,59.79,59.79,2026-10-03,CUST-0108,GCash,Same-Day Delivery,Shopee,3.6,0,0,Delivered
+BAK-00369,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,134.95,134.95,2026-10-03,CUST-0108,GCash,Same-Day Delivery,Shopee,4.9,0,0,Delivered
+BAK-00369,Stand Mixer 5L Stainless Bowl,Baking Equipment,1,3361.92,3361.92,2026-10-03,CUST-0108,GCash,Same-Day Delivery,Shopee,3.9,0,0,Delivered
+BAK-00370,White Sugar 1kg,Baking Ingredients,1,94.63,94.63,2026-04-09,CUST-0191,Maya,Express Delivery,Shopee,3.9,50,45,Delivered
+BAK-00370,All-Purpose Cream 250ml,Baking Ingredients,1,73.37,73.37,2026-04-09,CUST-0191,Maya,Express Delivery,Shopee,4.5,50,45,Delivered
+BAK-00370,Muffin Cupcake Tray 12-Cavity,Bakeware,1,223.38,223.38,2026-04-09,CUST-0191,Maya,Express Delivery,Shopee,3.6,50,45,Delivered
+BAK-00371,Unsalted Butter 225g,Baking Ingredients,1,162.8,162.8,2026-03-05,CUST-0090,Cash on Delivery,Same-Day Delivery,Lazada,3.9,0,65,Delivered
+BAK-00371,White Sugar 1kg,Baking Ingredients,1,84.15,84.15,2026-03-05,CUST-0090,Cash on Delivery,Same-Day Delivery,Lazada,4.0,0,65,Delivered
+BAK-00371,Sprinkles Assorted 100g,Decorating Supplies,1,63.28,63.28,2026-03-05,CUST-0090,Cash on Delivery,Same-Day Delivery,Lazada,4.7,0,65,Delivered
+BAK-00371,Chocolate Chips 200g,Baking Ingredients,1,142.09,142.09,2026-03-05,CUST-0090,Cash on Delivery,Same-Day Delivery,Lazada,4.3,0,65,Delivered
+BAK-00371,Baking Powder 100g,Baking Ingredients,2,42.1,84.2,2026-03-05,CUST-0090,Cash on Delivery,Same-Day Delivery,Lazada,4.4,0,65,Delivered
+BAK-00372,Vanilla Extract 60ml,Baking Ingredients,3,93.79,281.37,2026-01-28,CUST-0190,Maya,Same-Day Delivery,Lazada,4.3,0,45,Delivered
+BAK-00372,All-Purpose Cream 250ml,Baking Ingredients,1,72.4,72.4,2026-01-28,CUST-0190,Maya,Same-Day Delivery,Lazada,4.9,0,45,Delivered
+BAK-00373,White Sugar 1kg,Baking Ingredients,2,92.85,185.7,2026-05-03,CUST-0048,Maya,Same-Day Delivery,Shopee,3.5,0,55,Delivered
+BAK-00373,Silicone Spatula Set 3pcs,Baking Tools,2,133.9,267.8,2026-05-03,CUST-0048,Maya,Same-Day Delivery,Shopee,4.9,0,55,Delivered
+BAK-00373,Stainless Steel Balloon Whisk,Baking Tools,1,80.16,80.16,2026-05-03,CUST-0048,Maya,Same-Day Delivery,Shopee,4.5,0,55,Delivered
+BAK-00373,Silicone Baking Mat,Bakeware,1,182.44,182.44,2026-05-03,CUST-0048,Maya,Same-Day Delivery,Shopee,3.7,0,55,Delivered
+BAK-00373,Round Cake Pan 8-inch,Bakeware,1,131.59,131.59,2026-05-03,CUST-0048,Maya,Same-Day Delivery,Shopee,4.7,0,55,Delivered
+BAK-00374,Stainless Steel Balloon Whisk,Baking Tools,1,84.83,84.83,2026-05-06,CUST-0022,Debit/Credit Card,Standard Delivery,Shopee,4.1,0,0,Delivered
+BAK-00375,Instant Dry Yeast 100g,Baking Ingredients,1,78.09,78.09,2026-03-02,CUST-0149,Cash on Delivery,Express Delivery,Lazada,4.9,0,65,Delivered
+BAK-00375,Silicone Spatula Set 3pcs,Baking Tools,2,138.63,277.26,2026-03-02,CUST-0149,Cash on Delivery,Express Delivery,Lazada,4.3,0,65,Delivered
+BAK-00375,Cookie Bags with Sealing Stickers 50pcs,Packaging,2,91.09,182.18,2026-03-02,CUST-0149,Cash on Delivery,Express Delivery,Lazada,4.8,0,65,Delivered
+BAK-00376,Round Cake Pan 8-inch,Bakeware,1,144.02,144.02,2026-04-06,CUST-0206,Cash on Delivery,Standard Delivery,Shopee,4.1,0,0,Delivered
+BAK-00376,Offset Icing Spatula 8-inch,Baking Tools,2,90.34,180.68,2026-04-06,CUST-0206,Cash on Delivery,Standard Delivery,Shopee,4.7,0,0,Delivered
+BAK-00376,Parchment Baking Paper Roll,Bakeware,1,100.11,100.11,2026-04-06,CUST-0206,Cash on Delivery,Standard Delivery,Shopee,4.1,0,0,Delivered
+BAK-00376,Stainless Steel Balloon Whisk,Baking Tools,1,84.21,84.21,2026-04-06,CUST-0206,Cash on Delivery,Standard Delivery,Shopee,4.3,0,0,Delivered
+BAK-00377,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,175.83,175.83,2026-08-11,CUST-0003,Cash on Delivery,Same-Day Delivery,Shopee,4.0,0,0,Delivered
+BAK-00377,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,195.92,195.92,2026-08-11,CUST-0003,Cash on Delivery,Same-Day Delivery,Shopee,4.9,0,0,Delivered
+BAK-00378,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,171.63,171.63,2026-03-09,CUST-0057,GCash,Standard Delivery,Shopee,4.5,20,0,Delivered
+BAK-00378,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,145.39,145.39,2026-03-09,CUST-0057,GCash,Standard Delivery,Shopee,4.6,20,0,Delivered
+BAK-00378,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,186.66,186.66,2026-03-09,CUST-0057,GCash,Standard Delivery,Shopee,4.2,20,0,Delivered
+BAK-00378,Disposable Piping Bags 100pcs,Decorating Supplies,1,108.04,108.04,2026-03-09,CUST-0057,GCash,Standard Delivery,Shopee,3.7,20,0,Delivered
+BAK-00378,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,244.63,244.63,2026-03-09,CUST-0057,GCash,Standard Delivery,Shopee,4.7,20,0,Delivered
+BAK-00379,Measuring Cups and Spoons Set,Baking Tools,1,149.37,149.37,2026-03-18,CUST-0118,GCash,Standard Delivery,Lazada,3.6,0,0,Delivered
+BAK-00379,White Sugar 1kg,Baking Ingredients,1,88.26,88.26,2026-03-18,CUST-0118,GCash,Standard Delivery,Lazada,4.0,0,0,Delivered
+BAK-00379,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,116.63,116.63,2026-03-18,CUST-0118,GCash,Standard Delivery,Lazada,4.0,0,0,Delivered
+BAK-00379,Baking Powder 100g,Baking Ingredients,1,42.68,42.68,2026-03-18,CUST-0118,GCash,Standard Delivery,Lazada,4.5,0,0,Delivered
+BAK-00380,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,191.15,191.15,2026-06-13,CUST-0025,Maya,Standard Delivery,Shopee,4.9,30,35,Delivered
+BAK-00380,Unsalted Butter 225g,Baking Ingredients,1,160.71,160.71,2026-06-13,CUST-0025,Maya,Standard Delivery,Shopee,4.9,30,35,Delivered
+BAK-00381,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,129.78,129.78,2026-06-19,CUST-0185,Cash on Delivery,Same-Day Delivery,Lazada,3.7,0,0,Delivered
+BAK-00381,Cake Turntable Rotating Stand,Decorating Supplies,1,307.44,307.44,2026-06-19,CUST-0185,Cash on Delivery,Same-Day Delivery,Lazada,3.6,0,0,Delivered
+BAK-00381,Chocolate Chips 200g,Baking Ingredients,2,143.76,287.52,2026-06-19,CUST-0185,Cash on Delivery,Same-Day Delivery,Lazada,4.7,0,0,Delivered
+BAK-00382,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,185.75,185.75,2026-06-25,CUST-0155,Debit/Credit Card,Standard Delivery,Shopee,4.8,0,45,Delivered
+BAK-00382,Cake Turntable Rotating Stand,Decorating Supplies,2,319.3,638.6,2026-06-25,CUST-0155,Debit/Credit Card,Standard Delivery,Shopee,5.0,0,45,Delivered
+BAK-00383,White Sugar 1kg,Baking Ingredients,1,92.92,92.92,2026-03-27,CUST-0141,Maya,Express Delivery,Shopee,4.2,0,65,Processing
+BAK-00383,Baking Powder 100g,Baking Ingredients,1,42.7,42.7,2026-03-27,CUST-0141,Maya,Express Delivery,Shopee,3.6,0,65,Processing
+BAK-00383,Disposable Piping Bags 100pcs,Decorating Supplies,1,111.78,111.78,2026-03-27,CUST-0141,Maya,Express Delivery,Shopee,4.3,0,65,Processing
+BAK-00383,Cake Turntable Rotating Stand,Decorating Supplies,1,307.65,307.65,2026-03-27,CUST-0141,Maya,Express Delivery,Shopee,3.8,0,65,Processing
+BAK-00383,Condensed Milk 390g,Baking Ingredients,1,69.66,69.66,2026-03-27,CUST-0141,Maya,Express Delivery,Shopee,4.4,0,65,Processing
+BAK-00384,Cake Turntable Rotating Stand,Decorating Supplies,1,293.31,293.31,2026-05-13,CUST-0156,Maya,Express Delivery,Lazada,3.6,0,0,Delivered
+BAK-00385,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,123.96,123.96,2026-05-08,CUST-0108,GCash,Standard Delivery,Lazada,4.3,0,35,Delivered
+BAK-00385,Maya All-Purpose Flour 1kg,Baking Ingredients,1,58.18,58.18,2026-05-08,CUST-0108,GCash,Standard Delivery,Lazada,4.4,0,35,Delivered
+BAK-00386,Maya All-Purpose Flour 1kg,Baking Ingredients,1,60.72,60.72,2026-04-23,CUST-0144,Maya,Express Delivery,Shopee,4.1,50,55,Delivered
+BAK-00386,Brown Sugar 1kg,Baking Ingredients,1,100.99,100.99,2026-04-23,CUST-0144,Maya,Express Delivery,Shopee,4.5,50,55,Delivered
+BAK-00387,Unsalted Butter 225g,Baking Ingredients,1,160.53,160.53,2026-08-11,CUST-0189,Maya,Express Delivery,Shopee,4.4,10,0,Delivered
+BAK-00387,Disposable Piping Bags 100pcs,Decorating Supplies,2,107.08,214.16,2026-08-11,CUST-0189,Maya,Express Delivery,Shopee,3.9,10,0,Delivered
+BAK-00387,Chocolate Chips 200g,Baking Ingredients,1,143.79,143.79,2026-08-11,CUST-0189,Maya,Express Delivery,Shopee,4.7,10,0,Delivered
+BAK-00388,White Sugar 1kg,Baking Ingredients,2,92.33,184.66,2026-02-21,CUST-0071,GCash,Same-Day Delivery,Shopee,4.5,0,0,Delivered
+BAK-00388,Muffin Cupcake Tray 12-Cavity,Bakeware,1,221.01,221.01,2026-02-21,CUST-0071,GCash,Same-Day Delivery,Shopee,3.6,0,0,Delivered
+BAK-00388,Maya Cake Flour 1kg,Baking Ingredients,1,74.27,74.27,2026-02-21,CUST-0071,GCash,Same-Day Delivery,Shopee,3.5,0,0,Delivered
+BAK-00388,Oven Thermometer Stainless Steel,Baking Equipment,2,170.84,341.68,2026-02-21,CUST-0071,GCash,Same-Day Delivery,Shopee,3.7,0,0,Delivered
+BAK-00389,Muffin Cupcake Tray 12-Cavity,Bakeware,1,229.65,229.65,2026-03-25,CUST-0158,Cash on Delivery,Express Delivery,Shopee,3.5,20,65,Delivered
+BAK-00389,Vanilla Extract 60ml,Baking Ingredients,1,90.85,90.85,2026-03-25,CUST-0158,Cash on Delivery,Express Delivery,Shopee,3.7,20,65,Delivered
+BAK-00389,Cooling Rack 2-Tier,Bakeware,2,189.75,379.5,2026-03-25,CUST-0158,Cash on Delivery,Express Delivery,Shopee,3.5,20,65,Delivered
+BAK-00389,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,171.41,171.41,2026-03-25,CUST-0158,Cash on Delivery,Express Delivery,Shopee,4.1,20,65,Delivered
+BAK-00390,Cupcake Boxes 6-Cavity 5pcs,Packaging,1,134.11,134.11,2026-09-09,CUST-0087,GCash,Standard Delivery,Shopee,4.0,0,35,Processing
+BAK-00390,White Sugar 1kg,Baking Ingredients,2,84.57,169.14,2026-09-09,CUST-0087,GCash,Standard Delivery,Shopee,3.6,0,35,Processing
+BAK-00391,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,83.68,83.68,2026-03-18,CUST-0155,Cash on Delivery,Express Delivery,Shopee,4.9,10,65,Delivered
+BAK-00391,Nonstick Loaf Pan 9-inch,Bakeware,1,167.36,167.36,2026-03-18,CUST-0155,Cash on Delivery,Express Delivery,Shopee,4.8,10,65,Delivered
+BAK-00392,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,189.96,189.96,2026-05-23,CUST-0075,GCash,Express Delivery,Shopee,4.5,10,35,Delivered
+BAK-00392,Disposable Piping Bags 100pcs,Decorating Supplies,1,115.85,115.85,2026-05-23,CUST-0075,GCash,Express Delivery,Shopee,4.0,10,35,Delivered
+BAK-00392,Brown Sugar 1kg,Baking Ingredients,1,98.33,98.33,2026-05-23,CUST-0075,GCash,Express Delivery,Shopee,3.9,10,35,Delivered
+BAK-00392,Cake Turntable Rotating Stand,Decorating Supplies,1,303.37,303.37,2026-05-23,CUST-0075,GCash,Express Delivery,Shopee,4.3,10,35,Delivered
+BAK-00392,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,184.94,184.94,2026-05-23,CUST-0075,GCash,Express Delivery,Shopee,4.1,10,35,Delivered
+BAK-00393,All-Purpose Cream 250ml,Baking Ingredients,2,76.51,153.02,2026-01-09,CUST-0186,Debit/Credit Card,Standard Delivery,Shopee,4.7,0,35,Delivered
+BAK-00393,Chocolate Chips 200g,Baking Ingredients,1,130.78,130.78,2026-01-09,CUST-0186,Debit/Credit Card,Standard Delivery,Shopee,4.8,0,35,Delivered
+BAK-00393,Gel Food Coloring Set 6 Colors,Decorating Supplies,3,201.98,605.94,2026-01-09,CUST-0186,Debit/Credit Card,Standard Delivery,Shopee,3.9,0,35,Delivered
+BAK-00394,White Sugar 1kg,Baking Ingredients,1,87.78,87.78,2026-07-10,CUST-0028,GCash,Same-Day Delivery,Shopee,3.6,20,0,Delivered
+BAK-00394,Sprinkles Assorted 100g,Decorating Supplies,1,66.56,66.56,2026-07-10,CUST-0028,GCash,Same-Day Delivery,Shopee,4.7,20,0,Delivered
+BAK-00394,Measuring Cups and Spoons Set,Baking Tools,1,141.19,141.19,2026-07-10,CUST-0028,GCash,Same-Day Delivery,Shopee,4.6,20,0,Delivered
+BAK-00394,Stainless Steel Mixing Bowl 3pcs,Baking Tools,1,259.16,259.16,2026-07-10,CUST-0028,GCash,Same-Day Delivery,Shopee,3.9,20,0,Delivered
+BAK-00395,Maya All-Purpose Flour 1kg,Baking Ingredients,1,61.35,61.35,2026-03-30,CUST-0258,Maya,Standard Delivery,Lazada,4.9,30,45,Shipped
+BAK-00395,Vanilla Extract 60ml,Baking Ingredients,1,92.76,92.76,2026-03-30,CUST-0258,Maya,Standard Delivery,Lazada,4.1,30,45,Shipped
+BAK-00395,Dough Scraper Stainless Steel,Baking Tools,1,74.28,74.28,2026-03-30,CUST-0258,Maya,Standard Delivery,Lazada,4.3,30,45,Shipped
+BAK-00396,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,195.44,195.44,2026-08-28,CUST-0245,Cash on Delivery,Same-Day Delivery,Lazada,3.8,0,0,Shipped
+BAK-00396,Baking Powder 100g,Baking Ingredients,1,40.32,40.32,2026-08-28,CUST-0245,Cash on Delivery,Same-Day Delivery,Lazada,4.4,0,0,Shipped
+BAK-00396,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,2,166.89,333.78,2026-08-28,CUST-0245,Cash on Delivery,Same-Day Delivery,Lazada,3.9,0,0,Shipped
+BAK-00396,White Sugar 1kg,Baking Ingredients,1,84.35,84.35,2026-08-28,CUST-0245,Cash on Delivery,Same-Day Delivery,Lazada,4.4,0,0,Shipped
+BAK-00396,Maya Cake Flour 1kg,Baking Ingredients,1,71.29,71.29,2026-08-28,CUST-0245,Cash on Delivery,Same-Day Delivery,Lazada,4.3,0,0,Shipped
+BAK-00397,White Sugar 1kg,Baking Ingredients,2,89.32,178.64,2026-01-24,CUST-0025,Cash on Delivery,Standard Delivery,Lazada,4.0,0,35,Delivered
+BAK-00397,Cream Cheese 225g,Baking Ingredients,1,154.42,154.42,2026-01-24,CUST-0025,Cash on Delivery,Standard Delivery,Lazada,3.7,0,35,Delivered
+BAK-00397,Round Cake Pan 8-inch,Bakeware,1,134.06,134.06,2026-01-24,CUST-0025,Cash on Delivery,Standard Delivery,Lazada,4.8,0,35,Delivered
+BAK-00398,Gel Food Coloring Set 6 Colors,Decorating Supplies,1,198.44,198.44,2026-08-26,CUST-0041,GCash,Same-Day Delivery,Shopee,3.7,50,65,Processing
+BAK-00398,Maya Cake Flour 1kg,Baking Ingredients,2,73.23,146.46,2026-08-26,CUST-0041,GCash,Same-Day Delivery,Shopee,4.6,50,65,Processing
+BAK-00398,Vanilla Extract 60ml,Baking Ingredients,1,95.31,95.31,2026-08-26,CUST-0041,GCash,Same-Day Delivery,Shopee,4.0,50,65,Processing
+BAK-00399,Cooling Rack 2-Tier,Bakeware,1,203.36,203.36,2026-02-08,CUST-0079,Debit/Credit Card,Standard Delivery,Shopee,4.7,50,35,Delivered
+BAK-00399,Dough Scraper Stainless Steel,Baking Tools,1,66.39,66.39,2026-02-08,CUST-0079,Debit/Credit Card,Standard Delivery,Shopee,4.0,50,35,Delivered
+BAK-00399,Cake Turntable Rotating Stand,Decorating Supplies,2,290.33,580.66,2026-02-08,CUST-0079,Debit/Credit Card,Standard Delivery,Shopee,3.9,50,35,Delivered
+BAK-00399,Oven Thermometer Stainless Steel,Baking Equipment,1,152.89,152.89,2026-02-08,CUST-0079,Debit/Credit Card,Standard Delivery,Shopee,3.8,50,35,Delivered
+BAK-00400,Round Cake Pan 8-inch,Bakeware,2,130.51,261.02,2026-03-05,CUST-0250,GCash,Express Delivery,Lazada,4.1,50,55,Delivered
+BAK-00400,Chocolate Chips 200g,Baking Ingredients,2,144.96,289.92,2026-03-05,CUST-0250,GCash,Express Delivery,Lazada,4.1,50,55,Delivered
+BAK-00400,Stainless Steel Piping Tips Set 24pcs,Decorating Supplies,1,177.76,177.76,2026-03-05,CUST-0250,GCash,Express Delivery,Lazada,3.9,50,55,Delivered
+BAK-00400,White Sugar 1kg,Baking Ingredients,2,91.41,182.82,2026-03-05,CUST-0250,GCash,Express Delivery,Lazada,4.4,50,55,Delivered
+BAK-00401,Reusable Silicone Cupcake Liners 12pcs,Bakeware,1,120.3,120.3,2026-10-19,CUST-0205,GCash,Standard Delivery,Lazada,4.3,30,0,Shipped
+BAK-00401,White Sugar 1kg,Baking Ingredients,1,84.85,84.85,2026-10-19,CUST-0205,GCash,Standard Delivery,Lazada,3.8,30,0,Shipped
+BAK-00401,Brown Sugar 1kg,Baking Ingredients,1,102.1,102.1,2026-10-19,CUST-0205,GCash,Standard Delivery,Lazada,4.1,30,0,Shipped
+BAK-00402,Stainless Steel Balloon Whisk,Baking Tools,1,80.89,80.89,2026-02-28,CUST-0143,Debit/Credit Card,Standard Delivery,Shopee,5.0,0,65,Processing
+BAK-00402,Cookie Bags with Sealing Stickers 50pcs,Packaging,1,81.44,81.44,2026-02-28,CUST-0143,Debit/Credit Card,Standard Delivery,Shopee,4.7,0,65,Processing
+BAK-00402,Muffin Cupcake Tray 12-Cavity,Bakeware,1,242.37,242.37,2026-02-28,CUST-0143,Debit/Credit Card,Standard Delivery,Shopee,3.8,0,65,Processing
+BAK-00403,Round Cake Pan 8-inch,Bakeware,2,136.17,272.34,2026-05-10,CUST-0091,GCash,Standard Delivery,Shopee,4.1,0,35,Delivered
+BAK-00403,Baking Powder 100g,Baking Ingredients,1,44.78,44.78,2026-05-10,CUST-0091,GCash,Standard Delivery,Shopee,3.8,0,35,Delivered
+BAK-00404,Condensed Milk 390g,Baking Ingredients,2,68.46,136.92,2026-03-26,CUST-0102,Cash on Delivery,Express Delivery,Lazada,4.9,30,0,Delivered
+BAK-00405,Vanilla Extract 60ml,Baking Ingredients,1,90.57,90.57,2026-01-08,CUST-0078,Debit/Credit Card,Standard Delivery,Lazada,3.5,0,65,Shipped
